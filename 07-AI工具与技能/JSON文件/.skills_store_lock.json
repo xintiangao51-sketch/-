@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "skills": {
+    "pdf": {
+      "name": "Pdf",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=pdf",
+      "source": "community",
+      "version": "0.1.0",
+      "installedAt": "2026-05-26T09:49:15Z"
+    },
+    "weide-cost-assistant": {
+      "name": "玮德工程造价助手",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=weide-cost-assistant",
+      "source": "community",
+      "version": "1.0.3",
+      "installedAt": "2026-05-28T03:24:49Z"
+    },
+    "drawing-analyzer": {
+      "name": "Drawing Analyzer",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=drawing-analyzer",
+      "source": "community",
+      "version": "2.1.0",
+      "installedAt": "2026-05-28T03:23:51Z"
+    }
+  }
+}

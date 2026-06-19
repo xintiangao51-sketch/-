@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "skills": {
+    "jina-ai": {
+      "name": "Jina AI - Web Reader, Search and Deep Search",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=jina-ai",
+      "source": "community",
+      "version": "1.0.6",
+      "installedAt": "2026-06-14T12:03:41Z"
+    },
+    "crawl4ai-skill": {
+      "name": "Crawl4ai Skill",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=crawl4ai-skill",
+      "source": "community",
+      "version": "1.0.10",
+      "installedAt": "2026-06-14T12:03:46Z"
+    },
+    "scrapling": {
+      "name": "Scrapling",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=scrapling",
+      "source": "community",
+      "version": "1.0.8",
+      "installedAt": "2026-06-14T12:03:50Z"
+    },
+    "camofox-mcp": {
+      "name": "CamoFox MCP",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=camofox-mcp",
+      "source": "community",
+      "version": "1.10.0",
+      "installedAt": "2026-06-14T12:03:57Z"
+    },
+    "tavily": {
+      "name": "Tavily AI Search",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=tavily",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-06-14T12:04:03Z"
+    },
+    "pandoc": {
+      "name": "Pandoc",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=pandoc",
+      "source": "community",
+      "version": "1.0.2",
+      "installedAt": "2026-06-14T12:04:08Z"
+    },
+    "latex-formula-extraction-marker": {
+      "name": "marker",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=latex-formula-extraction-marker",
+      "source": "community",
+      "version": "0.1.0",
+      "installedAt": "2026-06-14T12:04:15Z"
+    }
+  }
+}

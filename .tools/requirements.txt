@@ -1,0 +1,10 @@
+# 知识库维护工具 — 依赖清单
+# 安装: pip install -r .tools/requirements.txt --break-system-packages
+
+chardet>=5.0.0            # 编码检测（去冗扫描+脱敏+精华提炼共用）
+openpyxl>=3.1.0           # Excel支持
+pyyaml>=6.0               # YAML配置
+
+# 可选依赖（增强功能）
+# jieba>=0.42.1            # 中文分词（精华提炼高质量模式）
+# scikit-learn>=1.2.0      # TF-IDF相似度（去冗扫描高级模式）

@@ -1,0 +1,73 @@
+# 新疆造价信息自动采集配置
+# 修改后需重启爬虫
+
+database:
+  path: "./xj_cost_data/db/xj_cost.db"
+
+download:
+  base_dir: "./xj_cost_data/downloads"
+  max_file_size_mb: 50
+  timeout_seconds: 30
+  retry_count: 3
+  retry_delay_seconds: 5
+
+crawl:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  request_delay_seconds: 2        # 请求间隔，尊重服务器
+  page_timeout_seconds: 30
+  retry_count: 3
+  retry_delay_seconds: 5
+  max_concurrent: 2               # 最大并发数
+  headless_browser: true          # 是否使用无头浏览器
+
+schedule:
+  daily_time: "08:00"             # 每日执行时间
+  timezone: "Asia/Shanghai"
+
+keywords:
+  labor: ["人工单价", "人工费", "工日单价", "劳务单价"]
+  material: ["信息价", "材料价格", "建材价格", "材料信息"]
+  quota: ["定额", "消耗量定额", "计价定额", "补充定额"]
+  errata: ["勘误", "更正", "补充通知", "调整通知"]
+  policy: ["营改增", "取费", "计价", "工程量清单", "GB50500"]
+
+sources:
+  - name: "自治区住建厅"
+    url: "https://zjt.xinjiang.gov.cn"
+    search_paths:
+      - "/"                                  # 首页检查，原 /zjt/c100046/common_list.shtml 已404
+    priority: 1
+    enabled: true
+    note: "⚠ 原URL /zjt/c100046/common_list.shtml 已404，需手动更新为当前实际公告路径"
+
+  - name: "乌鲁木齐住建局"
+    url: "https://zjj.wulumuqi.gov.cn"
+    search_paths:
+      - "/"                                  # SSL可能有TLS版本问题，需测试
+    priority: 1
+    enabled: true
+    note: "⚠ SSL错误 UNEXPECTED_EOF，可能需要TLS 1.0/1.1或HTTP回退"
+
+  - name: "自治区交通运输厅"
+    url: "https://jtyst.xinjiang.gov.cn"
+    search_paths:
+      - "/"                                  # 原 /jtyst/c100046/common_list.shtml 已404
+    priority: 1
+    enabled: true
+    note: "⚠ 原URL已404，需更新为实际路径"
+
+  - name: "新疆生产建设兵团"
+    url: "http://www.xjbt.gov.cn"
+    search_paths:
+      - "/"                                  # 可连接但需更新具体公告路径
+    priority: 2
+    enabled: true
+    note: "✅ 可连接，但保存0条(关键词匹配可能需调整)"
+
+notify:
+  enabled: true
+  on_price_change: true         # 价格变化告警
+  on_new_quota: true            # 新定额发布告警
+  on_new_policy: true           # 新政策发布告警
+  on_crawl_fail: true           # 采集失败告警
+  log_file: "./xj_cost_data/logs/crawl.log"

@@ -1,0 +1,43 @@
+{
+  "file": "D:\\知识库\\08_项目案例库\\劳务分包与扩大劳务报价\\2026-劳务价格与鄯善启创案例\\00_原始附件\\企业级对下劳务分包单价汇总表2020xls_decrypted.xls",
+  "password": "2020",
+  "sheets": [
+    {
+      "name": "基价表",
+      "max_row": 10,
+      "max_col": 5,
+      "nonempty_rows": 10
+    },
+    {
+      "name": "铁路",
+      "max_row": 428,
+      "max_col": 13,
+      "nonempty_rows": 407
+    },
+    {
+      "name": "公路.市政 ",
+      "max_row": 495,
+      "max_col": 13,
+      "nonempty_rows": 477
+    },
+    {
+      "name": "轨道交通",
+      "max_row": 238,
+      "max_col": 13,
+      "nonempty_rows": 214
+    },
+    {
+      "name": "房建",
+      "max_row": 77,
+      "max_col": 10,
+      "nonempty_rows": 77
+    },
+    {
+      "name": "特殊地区取费系数",
+      "max_row": 30,
+      "max_col": 4,
+      "nonempty_rows": 28
+    }
+  ],
+  "status": "ok"
+}

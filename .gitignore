@@ -1,0 +1,59 @@
+﻿# === 知识库 .gitignore (S12 2026-06-20) ===
+# 只跟踪知识文档与脚本，排除大体积工程资料二进制与缓存
+
+# --- 大体积工程资料(不入git，单独靠文件系统/备份管理) ---
+*.pdf
+*.zip
+*.rar
+*.7z
+*.dwg
+*.dwf
+*.dxf
+*.mp4
+*.flv
+*.avi
+*.mov
+*.exe
+*.dll
+*.pyd
+*.msi
+*.GQI4
+
+# --- 大图片(保留小图标可按需放开) ---
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
+# --- Office大文件(按需:此处先排除,体积大且常二进制) ---
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# --- 缓存/虚拟环境/平台元数据 ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+node_modules/
+.obsidian/workspace.json
+.obsidian/cache/
+.claudian/sessions/
+.skillhub-install/
+.archive/
+crawl_output/
+test-output/
+output/
+
+# --- 临时文件 ---
+*.tmp
+*.log
+~$*
+Thumbs.db
+.DS_Store

@@ -1,0 +1,163 @@
+[
+  {
+    "project": "昌吉地质灾害",
+    "src_pattern": "01_进行中项目\\X125昌南地质灾害",
+    "total": 236,
+    "new": 211,
+    "exist": 25
+  },
+  {
+    "project": "海岸广场",
+    "src_pattern": "01_进行中项目\\海岸广场项目",
+    "total": 424,
+    "new": 401,
+    "exist": 23
+  },
+  {
+    "project": "特克斯阳光谷",
+    "src_pattern": "01_进行中项目\\特克斯阳光谷",
+    "total": 332,
+    "new": 332,
+    "exist": 0
+  },
+  {
+    "project": "道班房",
+    "src_pattern": "01_进行中项目\\道班房项目",
+    "total": 3799,
+    "new": 3566,
+    "exist": 233
+  },
+  {
+    "project": "青河G331",
+    "src_pattern": "2022\\青河G331项目",
+    "total": 564,
+    "new": 27,
+    "exist": 537
+  },
+  {
+    "project": "华能阿克陶",
+    "src_pattern": "2022\\华能阿克陶项目",
+    "total": 1,
+    "new": 1,
+    "exist": 0
+  },
+  {
+    "project": "成达万高铁",
+    "src_pattern": "2022\\成达万高铁",
+    "total": 1,
+    "new": 1,
+    "exist": 0
+  },
+  {
+    "project": "拜城克深5",
+    "src_pattern": "2022\\拜城克深5项目",
+    "total": 3,
+    "new": 3,
+    "exist": 0
+  },
+  {
+    "project": "口岸陈文勇",
+    "src_pattern": "2023\\口岸陈文勇项目",
+    "total": 6,
+    "new": 6,
+    "exist": 0
+  },
+  {
+    "project": "巍山镇安置区",
+    "src_pattern": "2023\\巍山镇安置区项目",
+    "total": 1,
+    "new": 1,
+    "exist": 0
+  },
+  {
+    "project": "那拉提桥梁",
+    "src_pattern": "2023\\那拉提桥梁工程",
+    "total": 2,
+    "new": 2,
+    "exist": 0
+  },
+  {
+    "project": "天山乡",
+    "src_pattern": "2024\\天山乡项目",
+    "total": 19,
+    "new": 19,
+    "exist": 0
+  },
+  {
+    "project": "乌尉高速",
+    "src_pattern": "2025\\G0711乌尉高速",
+    "total": 19,
+    "new": 18,
+    "exist": 1
+  },
+  {
+    "project": "图木舒克",
+    "src_pattern": "2025\\G217图木舒克服务区",
+    "total": 311,
+    "new": 177,
+    "exist": 134
+  },
+  {
+    "project": "博乐护坡",
+    "src_pattern": "2025\\博乐前进水源护坡",
+    "total": 70,
+    "new": 63,
+    "exist": 7
+  },
+  {
+    "project": "喀什体校",
+    "src_pattern": "2025\\喀什体育运动学校",
+    "total": 965,
+    "new": 868,
+    "exist": 97
+  },
+  {
+    "project": "和田项目",
+    "src_pattern": "2025\\新疆和田项目",
+    "total": 128,
+    "new": 128,
+    "exist": 0
+  },
+  {
+    "project": "米兰道路",
+    "src_pattern": "2025\\米兰道路工程",
+    "total": 286,
+    "new": 203,
+    "exist": 83
+  },
+  {
+    "project": "米东煤矿",
+    "src_pattern": "2026\\米东煤矿矿坑覆盖",
+    "total": 7,
+    "new": 5,
+    "exist": 2
+  },
+  {
+    "project": "通衢隧道",
+    "src_pattern": "2026\\通衢隧道洞口坡面治理",
+    "total": 36,
+    "new": 32,
+    "exist": 4
+  },
+  {
+    "project": "鄯善启创",
+    "src_pattern": "2026\\鄯善启创科技中建五局",
+    "total": 46,
+    "new": 15,
+    "exist": 31
+  },
+  {
+    "project": "阿勒泰机场",
+    "src_pattern": "2026\\阿勒泰机场劳务",
+    "total": 7,
+    "new": 7,
+    "exist": 0
+  },
+  {
+    "project": "鼎梁筑/公司运营",
+    "src_pattern": "鼎梁柱-公司运营",
+    "total": 232,
+    "new": 232,
+    "exist": 0
+  }
+]

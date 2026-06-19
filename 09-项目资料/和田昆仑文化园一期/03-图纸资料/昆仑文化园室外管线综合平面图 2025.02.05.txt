@@ -1,0 +1,52 @@
+传递报告:
+由 AutoCAD 电子传递 2025年2月6日, 14:19 创建。
+
+图形:
+这是基于 昆仑文化园室外管线综合平面图 2025.02.05.dwg 的传递。
+
+文件:
+
+根图形:
+	昆仑文化园室外管线综合平面图 2025.02.05.dwg
+
+AutoCAD 图形 (外部) 参照:
+	外部参照-图签-xs.dwg
+	外部参照-建筑总图-2025.01.08(竖向)昆仑文化园总图-20250108.dwg
+
+AutoCAD 颜色相关打印样式表文件 参照:
+	PlotCfgs\xs.ctb
+
+传递中不包括下列文件:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\GBENOR.shx
+	Fonts\GBCBIG.shx
+	Fonts\romans.shx
+	Fonts\hztxt.shx
+	Fonts\SIMHEI.TTF
+	Fonts\rs.shx
+	Fonts\architxt.shx
+	Fonts\arial.ttf
+	Fonts\ARIALN.TTF
+	Fonts\SIMFANG_2.TTF
+	Fonts\COMPLEX.shx
+	Fonts\SIMKAI.TTF
+
+下列文件无法定位:
+	STEDI.(shx,ttf)
+	AllInOneBig.(shx,ttf)
+
+
+分发说明:
+
+.DWG 外部参照文件:
+可能存在外部参照路径。请确保这些路径有效，或者根图形使用了正确的参照。
+电子传递不包括外部参照所需文件，除非根图形也需要它们。特别是，根图形不使用的打印样式表和覆盖外部参数都被忽略。
+
+.CTB/.STB 打印样式表:
+请将这些文件复制到 AutoCAD 打印样式表搜索路径目录中。
+
+AutoCAD 变量 FONTALT 被设置为:
+C:\Users\xush_7405\appdata\roaming\autodesk\autocad 2014\r19.1\chs\support\simplex.shx
+请确保在打开任何图形之前，FONTALT 变量被设置为此文件或等价文件。所有使用了缺少的字体的文字样式都自动设置为此字体。
+

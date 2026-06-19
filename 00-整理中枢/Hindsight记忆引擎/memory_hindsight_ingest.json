@@ -1,0 +1,311 @@
+{
+  "engine": "Hindsight",
+  "bank_id": "laogao-structured-memory",
+  "generated_at": "2026-06-14 19:00:14",
+  "workspace_root": "D:\\知识库",
+  "source_files": [
+    "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+    "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\USER.md"
+  ],
+  "record_count": 13,
+  "records": [
+    {
+      "id": "memory-001",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "cost_parameters",
+      "title": "新疆造价核心参数",
+      "priority": 100,
+      "tags": [
+        "新疆造价",
+        "定额",
+        "费率",
+        "人工单价"
+      ],
+      "retain_context": "老高结构化记忆/cost_parameters/新疆造价核心参数",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "cost_parameters",
+        "新疆造价",
+        "定额",
+        "费率",
+        "人工单价"
+      ],
+      "content": "新疆造价核心参数（已从D盘造价工作台config核实）：定额=2020版新疆市政消耗量定额（2021年施行，非2024版）+2022年各地区单位估价表+2024年调价文件。人工基价（元/工日，二类工）：乌鲁木齐148、石河子148、阿拉尔145、克州126、伊犁132。取费=管理28%、利润18%、规费22%、增值税9%（⚠以上费率均待费用定额PDF最终核实）。成本四维拆解（人工/辅材/主材/机械），±5%偏差红线。人工调增部分只计税金不计管理费/利润/规费。"
+    },
+    {
+      "id": "memory-002",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "output_preferences",
+      "title": "输出风格与沟通偏好",
+      "priority": 95,
+      "tags": [
+        "输出偏好",
+        "沟通风格"
+      ],
+      "retain_context": "老高结构化记忆/output_preferences/输出风格与沟通偏好",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "output_preferences",
+        "输出偏好",
+        "沟通风格"
+      ],
+      "content": "输出风格：表格>列表>段落。结论先行，核心理由一句话，需要时再展开。禁止\"请问是否需要\"\"您看这样可以吗\"等客套。不确定的数据标\"⚠待核实\"+核实路径。合同审查按🔴🟡🔵三级标注，绑定具体法条编号。"
+    },
+    {
+      "id": "memory-003",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "workspace_assets",
+      "title": "本地资料与工作区",
+      "priority": 90,
+      "tags": [
+        "D盘",
+        "知识库",
+        "造价工作台"
+      ],
+      "retain_context": "老高结构化记忆/workspace_assets/本地资料与工作区",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "workspace_assets",
+        "D盘",
+        "知识库",
+        "造价工作台"
+      ],
+      "content": "D盘资料总量：13,396个文件（4,705 PDF / 1,561 DWG / 1,588 Excel / 810 Word）。项目覆盖2022-2026年约20+个新疆工程：G0711乌尉高速、G217图木舒克、昌吉地质灾害、喀什体校、米兰道路、博乐护坡、米东煤矿、鄯善启创、特克斯安装、通衢隧道、青河G331等。造价工作台位于D:\\造价工作台，含6引擎架构（OCR→组价→审核→风险→搜索→UI）。D盘知识库备份位于D:\\造价知识库\\。"
+    },
+    {
+      "id": "memory-004",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "tooling",
+      "title": "Claude Code与技能系统",
+      "priority": 80,
+      "tags": [
+        "Claude Code",
+        "技能"
+      ],
+      "retain_context": "老高结构化记忆/tooling/Claude Code与技能系统",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "tooling",
+        "Claude Code",
+        "技能"
+      ],
+      "content": "Claude Code v2.1.167 已安装（全局npm）。14个专业技能已部署在 ~/.claude/skills/（64KB，1062行），覆盖：文档处理5个(docx/xlsx/pdf/proofreading/office-suite)、工程造价5个(budget/construction/cwicr/bid/tender)、图纸算量4个(drawing/paddleocr/eng-pdf/eng-excel)。技能在Claude Code交互模式中通过自然语言自动触发，也可用/skill-name显式调用。"
+    },
+    {
+      "id": "memory-005",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "tooling_quirks",
+      "title": "执行环境与工具注意事项",
+      "priority": 85,
+      "tags": [
+        "execute_code",
+        "Python",
+        "工具约束"
+      ],
+      "retain_context": "老高结构化记忆/tooling_quirks/执行环境与工具注意事项",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "tooling_quirks",
+        "execute_code",
+        "Python",
+        "工具约束"
+      ],
+      "content": "execute_code沙箱不继承terminal安装的pip包（如openpyxl/xlrd）。需要第三方库的Python脚本必须：write_file写.py → terminal(\"python script.py\")执行。长命令（>100行）同理，先写文件再跑，避免超时。"
+    },
+    {
+      "id": "memory-006",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "project_case",
+      "title": "新疆启创/鄯善启创项目经验",
+      "priority": 88,
+      "tags": [
+        "项目案例",
+        "鄯善启创",
+        "人材机"
+      ],
+      "retain_context": "老高结构化记忆/project_case/新疆启创/鄯善启创项目经验",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "project_case",
+        "项目案例",
+        "鄯善启创",
+        "人材机"
+      ],
+      "content": "新疆启创项目Excel分析结果：\n- 文件1（土建工程量清单及报价表.xlsx）：13个Sheet，清单结构=序号|项目编码|项目名称|项目特征描述|计量单位|工程量|综合单价|合价\n- 文件2（直接费人材机报价表.xlsx）：3个Sheet（土建直接费表/安装直接费表/人材机汇总）\n- 土建直接费表列结构(14列)：序号|建/构筑物|分部工程|项目编码|项目名称|项目特征描述|单位|工程量|综合单价|合价|直接费|人工费|材料费|机械费\n- 关键公式：K=IF(J>0,ROUND(J/1.46,2),\"\")【直接费=合价/1.46】；L=IF(K>0,ROUND(K*0.3,2),\"\")【人工费=直接费*0.3】；M=IF(K>0,ROUND(K*0.55,2),\"\")【材料费=直接费*0.55】；N=IF(K>0,ROUND(K*0.15,2),\"\")【机械费=直接费*0.15】\n- 固定30:55:15比例估算人材机，需要替换为按专业分类的合理比例\n- 措施项目编码特征：含011707/031301/031302/B99等前缀，名称含\"措施\"\"临时\"\"夜间\"\"二次搬运\"\"冬雨季\"\"已完工程\"\"定位复测\"\"检验试验\"\"特殊地区\"\"档案编制\"等"
+    },
+    {
+      "id": "memory-007",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "tooling",
+      "title": "Claude Code与技能系统",
+      "priority": 80,
+      "tags": [
+        "Claude Code",
+        "技能"
+      ],
+      "retain_context": "老高结构化记忆/tooling/Claude Code与技能系统",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "tooling",
+        "Claude Code",
+        "技能"
+      ],
+      "content": "直接费表重构经验（已存入xinjiang-cost-engineer技能）：\n- 土建直接费表+安装直接费表的重构处理已标准化：读取→过滤措施项/零报价→按专业比例拆分人材机→保留公式→验证\n- 人材机比例不再用固定30:55:15，改为按分部工程关键词匹配（土石方20:5:75，混凝土20:60:20，钢筋15:75:10等）\n- 关键技术细节：用first_data_row变量记录首个数据行实际行号（因分组标题行穿插，不能用total+2估算）；直接费=合价/1.46为原表公式逻辑；汇总行动态SUM；跨表引用用实际汇总行号\n- 验证必做：合价交叉计算、措施项残留检查、零报价残留检查、人材机比例归零检查、汇总公式范围核对"
+    },
+    {
+      "id": "memory-008",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "general_memory",
+      "title": "通用记忆",
+      "priority": 60,
+      "tags": [
+        "记忆"
+      ],
+      "retain_context": "老高结构化记忆/general_memory/通用记忆",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "general_memory",
+        "记忆"
+      ],
+      "content": "D盘工作区：D:\\Hermes Agent中文端\\workspace 已创建，用于存放工作文件。C盘可用空间103GB（200G总盘），满足>=90GB要求。"
+    },
+    {
+      "id": "memory-009",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "general_memory",
+      "title": "通用记忆",
+      "priority": 60,
+      "tags": [
+        "记忆"
+      ],
+      "retain_context": "老高结构化记忆/general_memory/通用记忆",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "general_memory",
+        "记忆"
+      ],
+      "content": "桌面 Hermes 源码已从 C:\\Users\\20752\\Desktop\\hermes-agent\\hermes-agent-main 迁移至 D:\\Hermes Agent中文端\\workspace\\hermes-agent-main"
+    },
+    {
+      "id": "memory-010",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "workspace_assets",
+      "title": "本地资料与工作区",
+      "priority": 90,
+      "tags": [
+        "D盘",
+        "知识库",
+        "造价工作台"
+      ],
+      "retain_context": "老高结构化记忆/workspace_assets/本地资料与工作区",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "workspace_assets",
+        "D盘",
+        "知识库",
+        "造价工作台"
+      ],
+      "content": "置顶知识库工作区：D:\\知识库。用户希望将其作为长期 active workspace/root，不断丰富为优良知识库；涉及文件路径和 shell 命令默认以该目录为根。"
+    },
+    {
+      "id": "memory-011",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\MEMORY.md",
+      "source_name": "MEMORY.md",
+      "store": "memory",
+      "category": "workspace_assets",
+      "title": "本地资料与工作区",
+      "priority": 90,
+      "tags": [
+        "D盘",
+        "知识库",
+        "造价工作台"
+      ],
+      "retain_context": "老高结构化记忆/workspace_assets/本地资料与工作区",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "workspace_assets",
+        "D盘",
+        "知识库",
+        "造价工作台"
+      ],
+      "content": "agency-agents 仓库位于 C:\\Users\\20752\\Documents\\Codex\\2026-06-14\\gh-repo-clone-msitarzewski-agency-agents\\agency-agents；已为 Codex 安装工程行业代理人到 C:\\Users\\20752\\.codex\\agents，并在 D:\\知识库\\soul.md 建立身份系统，角色模板库位于 D:\\知识库\\agent-role-templates。"
+    },
+    {
+      "id": "user-001",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\USER.md",
+      "source_name": "USER.md",
+      "store": "user",
+      "category": "general_memory",
+      "title": "通用记忆",
+      "priority": 60,
+      "tags": [
+        "记忆"
+      ],
+      "retain_context": "老高结构化记忆/general_memory/通用记忆",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "general_memory",
+        "记忆"
+      ],
+      "content": "Chinese-speaking user on Windows 11. Uses Hermes CLI from a source checkout at C:\\Users\\20752\\Desktop\\hermes-agent\\hermes-agent-main. Has DeepSeek configured (deepseek-v4-pro). Interested in Hermes Desktop app coexistence with CLI."
+    },
+    {
+      "id": "user-002",
+      "source_file": "C:\\Users\\20752\\AppData\\Roaming\\cn.org.hermesagent.desktop\\runtime\\hermes-home\\memories\\USER.md",
+      "source_name": "USER.md",
+      "store": "user",
+      "category": "cost_parameters",
+      "title": "新疆造价核心参数",
+      "priority": 100,
+      "tags": [
+        "新疆造价",
+        "定额",
+        "费率",
+        "人工单价"
+      ],
+      "retain_context": "老高结构化记忆/cost_parameters/新疆造价核心参数",
+      "hindsight_tags": [
+        "laogao",
+        "structured-memory",
+        "cost_parameters",
+        "新疆造价",
+        "定额",
+        "费率",
+        "人工单价"
+      ],
+      "content": "用户是新疆工程造价工程师，角色名\"老高\"。使用Hermes进行造价相关工作：清单编制、定额套用、变更索赔、方案比选、成本纠偏、提量答疑。要求数据驱动、结论先行、去客套。闲聊可聊野钓/明清史/腕表/王者荣耀。"
+    }
+  ]
+}

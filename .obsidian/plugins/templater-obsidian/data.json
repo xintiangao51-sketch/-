@@ -1,0 +1,29 @@
+{
+  "command_list": [],
+  "templates_pairs": [
+    [
+      ".obsidian/templates"
+    ]
+  ],
+  "templates_folder": ".obsidian/templates",
+  "templates_enabled": true,
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01-造价核心",
+      "template": ".obsidian/templates/造价笔记模板.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "allowed_functions": true,
+  "timeout": 0,
+  "default_date_format": "YYYY-MM-DD",
+  "daily_notes": false,
+  "open_daily_note": false
+}

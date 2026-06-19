@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JingJiBiao Xmbh="001" Xmmc="博乐市达勒特镇查干苏木村农事服务中心建设项目" Jsdw="" Wjlx="1" Zjzmj="0" Qdgf="13规范" Jsfs="增值税" Zjfs="市场价组价" Version="2.3" SoftName="广联达科技股份有限公司" SoftNum="空" DogNum="F600576529" MachineKey="38-D5-47-B6-EF-9C" CpuNum="BFEBFBFF000906E9" DiskNum="LSL5024018C15J00484" Gcszd="博州；博乐">
+    <ZhaoBiaoXx Zbr="博乐市达勒特镇人民政府" Zxr="新疆得一工程造价咨询有限责任公司" ZbrDb="官飞鹏" ZxrDb="候乔木" Bzr="张建民" Fhr="罗亮亮" BzRq="2026-02-26" FhRq="2026-02-27"/>
+    <Dxgcxx Dxgcbh="X01" Dxgcmc="博乐市达勒特镇查干苏木村农事服务中心建设项目" Je="0" Gf="0" Aqwmf="0" Zgj="0" Jzmj="1000">
+        <Dwgcxx Dwgcbh="X01A01" Dwgcmc="建筑与装饰工程" Zylb="6" Dexl="2020" Jzmj="1000" Gclb="三类" JtZy="15">
+            <Fywj>
+                <FywjMx Xh="一" Bm="A" Mc="分部分项工程费" Jsjc="分部分项合计" Jsgs="FBFXHJ" Fl="100" Je="0" Zgj="0" Fyxlb="1"/>
+                <FywjMx Xh="二" Bm="B" Mc="措施项目费" Jsjc="措施项目合计" Jsgs="CSXMHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2"/>
+                <FywjMx Xh="2.1" Bm="B1" Mc="单价措施项目费" Jsjc="单价措施项目合计" Jsgs="DJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.2"/>
+                <FywjMx Xh="2.2" Bm="B2" Mc="总价措施项目费" Jsjc="总价措施项目合计" Jsgs="ZJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.1"/>
+                <FywjMx Xh="2.21" Bm="B21" Mc="其中：安全文明施工费" Jsjc="安全文明施工费" Jsgs="AQWMSGF" Fl="100" Je="0" Zgj="0" Fyxlb="2.1.1"/>
+                <FywjMx Xh="三" Bm="C" Mc="其他项目费" Jsjc="暂列金额+暂估价+计日工+总承包服务费" Jsgs="C1+C2+C3+C4" Fl="100" Je="0" Zgj="0" Fyxlb="3"/>
+                <FywjMx Xh="3.1" Bm="C1" Mc="暂列金额" Jsjc="暂列金额" Jsgs="暂列金额" Fl="100" Je="0" Zgj="0" Fyxlb="3.1"/>
+                <FywjMx Xh="3.2" Bm="C2" Mc="暂估价" Jsjc="专业工程暂估价+施工技术专项措施项目暂估价" Jsgs="专业工程暂估价+施工技术专项措施项目暂估价" Fl="100" Je="0" Zgj="0" Fyxlb="3.5"/>
+                <FywjMx Xh="3.3" Bm="C3" Mc="计日工" Jsjc="计日工" Jsgs="计日工" Fl="100" Je="0" Zgj="0" Fyxlb="3.3"/>
+                <FywjMx Xh="3.4" Bm="C4" Mc="总承包服务费" Jsjc="总承包服务费" Jsgs="总承包服务费" Fl="100" Je="0" Zgj="0" Fyxlb="3.4"/>
+                <FywjMx Xh="四" Bm="D" Mc="规费" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Zgj="0" Fyxlb="4"/>
+                <FywjMx Xh="五" Bm="E" Mc="税前工程造价" Jsjc="分部分项工程费+措施项目费+其他项目费+规费" Jsgs="A+B+C+D" Fl="100" Je="0" Zgj="0" Fyxlb="9"/>
+                <FywjMx Xh="六" Bm="F" Mc="税金" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Zgj="0" Fyxlb="5"/>
+                <FywjMx Xh="七" Bm="" Mc="建设工程造价" Jsjc="税前工程造价+税金" Jsgs="E+F" Fl="100" Je="0" Zgj="0" Fyxlb="6"/>
+            </Fywj>
+            <Gfsj>
+                <GfsjMx Xh="四" Bm="D" Mc="规费" Qfjs="0" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Fyxlb="1"/>
+                <GfsjMx Xh="4.1" Bm="D1" Mc="社会保险费" Qfjs="0" Jsjc="养老保险费+失业保险费+医疗保险费(生育保险费)+工伤保险费" Jsgs="D11+D12+D13+D14" Fl="100" Je="0" Fyxlb="1.2"/>
+                <GfsjMx Xh="4.11" Bm="D11" Mc="养老保险费" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="4.31" Je="0" Fyxlb="1.2.1"/>
+                <GfsjMx Xh="4.12" Bm="D12" Mc="失业保险费" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="0.38" Je="0" Fyxlb="1.2.2"/>
+                <GfsjMx Xh="4.13" Bm="D13" Mc="医疗保险费(生育保险费)" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="1.37" Je="0" Fyxlb="1.2.3"/>
+                <GfsjMx Xh="4.14" Bm="D14" Mc="工伤保险费" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="0.19" Je="0" Fyxlb="1.2.5"/>
+                <GfsjMx Xh="4.2" Bm="D2" Mc="住房公积金" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="0.94" Je="0" Fyxlb="1.3"/>
+                <GfsjMx Xh="六" Bm="F" Mc="税金" Qfjs="0" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Fyxlb="2"/>
+                <GfsjMx Xh="六" Bm="K" Mc="合计" Qfjs="0" Jsjc="规费+税金" Jsgs="D+F" Fl="100" Je="0" Fyxlb="3"/>
+            </Gfsj>
+            <Qdxm>
+                <QdBt Xh="A.1" Mc="土石方工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="1" Qdbm="010101001001" Mc="平整场地" Xmtz="1.土壤类别:三类土
+2.内容:平整场地" Gcnr="" Jsgz="按设计图示尺寸以建筑物首层建筑面积计算" Dw="m2" Sl="984.34" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="2" Qdbm="010101002001" Mc="挖一般土方" Xmtz="1.土壤类别:三类土
+2.挖土深度:300mm厚" Gcnr="" Jsgz="按设计图示尺寸以体积计算" Dw="m3" Sl="40.24" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="3" Qdbm="010101003001" Mc="挖沟槽土方" Xmtz="1.土壤类别:三类土
+2.挖土深度:详见图纸" Gcnr="" Jsgz="按设计图示尺寸以基础垫层底面积乘以挖土深度计算" Dw="m3" Sl="123.3" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="4" Qdbm="010101004001" Mc="挖基坑土方" Xmtz="1.土壤类别:三类土
+2.挖土深度:详见图纸设计" Gcnr="" Jsgz="按设计图示尺寸以基础垫层底面积乘以挖土深度计算" Dw="m3" Sl="536.76" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="5" Qdbm="010103001001" Mc="回填方" Xmtz="1.密实度要求:满足设计规范及使用要求
+2.填方材料品种:原土回填
+3.填方粒径要求:满足设计及规范使用要求
+4.填方来源、运距:由施工单位自行考虑" Gcnr="" Jsgz="按设计图示尺寸以体积计算。1．场地回填：回填面积乘平均回填厚度;2．室内回填：主墙间面积乘回填厚度，不扣除间隔墙;3．基础回填：按挖方清单项目工程量减去自然地坪以下埋设的基础体积（包括基础垫层及其他构筑物）" Dw="m3" Sl="592.17" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="6" Qdbm="010103001002" Mc="回填方" Xmtz="1.密实度要求:满足设计规范及使用要求
+2.填方材料品种:300mm厚戈壁土垫层
+3.填方粒径要求:满足设计及规范使用要求
+4.填方来源、运距:由施工单位自行考虑" Gcnr="" Jsgz="按设计图示尺寸以体积计算。1．场地回填：回填面积乘平均回填厚度;2．室内回填：主墙间面积乘回填厚度，不扣除间隔墙;3．基础回填：按挖方清单项目工程量减去自然地坪以下埋设的基础体积（包括基础垫层及其他构筑物）" Dw="m3" Sl="30.18" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="7" Qdbm="010103001003" Mc="回填方" Xmtz="1.密实度要求:满足设计规范及使用要求
+2.填方材料品种:150厚戈壁土垫层
+3.填方粒径要求:满足设计及规范使用要求
+4.填方来源、运距:由施工单位自行考虑" Gcnr="" Jsgz="按设计图示尺寸以体积计算。1．场地回填：回填面积乘平均回填厚度;2．室内回填：主墙间面积乘回填厚度，不扣除间隔墙;3．基础回填：按挖方清单项目工程量减去自然地坪以下埋设的基础体积（包括基础垫层及其他构筑物）" Dw="m3" Sl="139.06" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="8" Qdbm="010103002001" Mc="余方弃置" Xmtz="1.废弃料品种:余土外运
+2.运距:依据设计结合现场实际,投标人自行考虑运距综合报价" Gcnr="" Jsgz="按挖方清单项目工程量减利用回填方体积(正数)计算" Dw="m3" Sl="108.13" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="A.4" Mc="砌筑工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="9" Qdbm="010401004001" Mc="多孔砖墙" Xmtz="1.砖品种、规格、强度等级:烧结多孔砖MU10
+2.墙体类型:外墙
+3.砂浆强度等级、配合比:M10.0混合砂浆" Gcnr="" Jsgz="按设计图示尺寸以体积计算。扣除门窗、洞口、嵌入墙内的钢筋混凝土柱、梁、圈梁、挑梁、过梁及凹进墙内的壁龛、管槽、暖气槽、消火栓箱所占体积，不扣除梁头、板头、檩头、垫木、木楞头、沿缘木、木砖、门窗走头、砖墙内加固钢筋、木筋、铁件、钢管及单个面积≤0.3m2的孔洞所占的体积。凸出墙面的腰线、挑檐、压顶、窗台线、虎头砖、门窗套的体积亦不增加。凸出墙面的砖垛并入墙体体积内计算。1.墙长度:外墙按中心线、内墙按净长计算。2.墙高度:(1)外墙:斜（坡）屋面无檐口天棚者算至屋面板底；有屋架且室内外均有天棚者算至屋架下弦底另加200mm;无天棚者算至屋架下弦底另加300mm，出檐宽度超过600mm时按实砌高度计算；与钢筋混凝土楼板隔层者算至板顶。平屋顶算至钢筋混凝土板底；(2)内墙：位于屋架下弦者，算至屋架下弦底；无屋架者算至天棚底另加100mm;有钢筋混凝土楼板隔层者算至楼板顶；有框架梁时算至梁底；(3)女儿墙：从屋面板上表面算至女儿墙顶面（如有混凝土压顶时算至压顶下表面）；(4)内、外山墙：按其平均高度计算。3.框架间墙：不分内外墙按墙体净尺寸以体积计算。4.围墙：高度算至压顶上表面（如有混凝土压顶时算至压顶下表面），围墙柱并入围墙体积内" Dw="m3" Sl="34.25" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="A.5" Mc="混凝土及钢筋混凝土工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="10" Qdbm="010501001001" Mc="垫层" Xmtz="1.混凝土种类:商品混凝土
+2.混凝土强度等级:C20" Gcnr="" Jsgz="按设计图示尺寸以体积计算。不扣除伸入承台基础的桩头所占体积" Dw="m3" Sl="102.44" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="11" Qdbm="010501001002" Mc="垫层" Xmtz="1.混凝土种类:商品混凝土
+2.混凝土强度等级:C25" Gcnr="" Jsgz="按设计图示尺寸以体积计算。不扣除伸入承台基础的桩头所占体积" Dw="m3" Sl="15.09" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="12" Qdbm="010501003001" Mc="独立基础" Xmtz="1.混凝土种类:商品混凝土
+2.混凝土强度等级:C30" Gcnr="" Jsgz="按设计图示尺寸以体积计算。不扣除伸入承台基础的桩头所占体积" Dw="m3" Sl="34.44" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="13" Qdbm="010502001001" Mc="矩形柱" Xmtz="1.混凝土种类:商品混凝土
+2.混凝土强度等级:C30" Gcnr="" Jsgz="按设计图示尺寸以体积计算。柱高：1．有梁板的柱高，应自柱基上表面（或楼板上表面）至上一层楼板上表面之间的高度计算；2．无梁板的柱高，应自柱基上表面（或楼板上表面）至柱帽下表面之间的高度计算；3．框架柱的柱高：应自柱基上表面至柱顶高度计算；4．构造柱按全高计算，嵌接墙体部分（马牙槎）并入柱身体积；5．依附柱上的牛腿和升板的柱帽，并入柱身体积计算。" Dw="m3" Sl="7.98" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="14" Qdbm="010502002001" Mc="构造柱" Xmtz="1.混凝土种类:商品混凝土
+2.混凝土强度等级:C25" Gcnr="" Jsgz="按设计图示尺寸以体积计算。柱高：1．有梁板的柱高，应自柱基上表面（或楼板上表面）至上一层楼板上表面之间的高度计算；2．无梁板的柱高，应自柱基上表面（或楼板上表面）至柱帽下表面之间的高度计算；3．框架柱的柱高：应自柱基上表面至柱顶高度计算；4．构造柱按全高计算，嵌接墙体部分（马牙槎）并入柱身体积；5．依附柱上的牛腿和升板的柱帽，并入柱身体积计算。" Dw="m3" Sl="3.12" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="15" Qdbm="010503001001" Mc="基础梁" Xmtz="1.混凝土种类:商品混凝土
+2.混凝土强度等级:C30" Gcnr="" Jsgz="按设计图示尺寸以体积计算。伸入墙内的梁头、梁垫并入梁体积内。梁长:1.梁与柱连接时，梁长算至柱侧面；2.主梁与次梁连接时，次梁长算至主梁侧面。" Dw="m3" Sl="26.19" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="16" Qdbm="010507001001" Mc="散水、坡道" Xmtz="1.面层厚度:100mm
+2.混凝土种类:商品混凝土
+3.混凝土强度等级:C30" Gcnr="" Jsgz="按设计图示尺寸以水平投影面积计算。不扣除单个≤0.3m2的孔洞所占面积" Dw="m2" Sl="134.8" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="17" Qdbm="010515001001" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:现浇构件带肋钢筋HRB400 φ10" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="0.388" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="18" Qdbm="010515001002" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:现浇构件带肋钢筋HRB400  φ12" Gcnr="" Jsgz="" Dw="t" Sl="0.701" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="19" Qdbm="010515001003" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:现浇构件带肋钢筋HRB400 φ16" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="1.216" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="20" Qdbm="010515001004" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:现浇构件带肋钢筋HRB400 φ18" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="0.946" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="21" Qdbm="010515001005" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:现浇构件带肋钢筋HRB400 φ20" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="2.068" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="22" Qdbm="010515001006" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:现浇构件带肋钢筋HRB400 φ22" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="0.55" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="23" Qdbm="010515001007" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:箍筋 φ6" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="0.191" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="24" Qdbm="010515001008" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:箍筋 φ8" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="0.953" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="25" Qdbm="010515001009" Mc="现浇构件钢筋" Xmtz="1.钢筋种类、规格:箍筋 φ10" Gcnr="" Jsgz="按设计图示钢筋（网）长度(面积）乘单位理论质量计算" Dw="t" Sl="1.092" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="A.9" Mc="屋面及防水工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="26" Qdbm="010903003001" Mc="墙面砂浆防水（防潮）" Xmtz="1.砂浆厚度、配合比:20mm厚1：2.5水泥砂浆" Gcnr="" Jsgz="按设计图示尺寸以面积计算" Dw="m2" Sl="27.62" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="27" Qdbm="010904003001" Mc="楼（地）面砂浆防水(防潮）" Xmtz="1.砂浆厚度、配合比:20mm厚1：2.5水泥砂浆内掺水泥重量3~5%防水剂" Gcnr="" Jsgz="按设计图示尺寸以面积计算。1.楼（地）面防水：按主墙间净空面积计算，扣除凸出地面的构筑物、设备基础等所占面积，不扣除间壁墙及单个面积≤0.3m2柱、垛、烟囱和孔洞所占面积；2.楼（地）面防水反边高度≤300mm算作地面防水，反边高度&gt;300mm按墙面防水计算。" Dw="m2" Sl="34.96" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="28" Qdbm="010904004001" Mc="楼（地）面变形缝" Xmtz="1.嵌缝材料种类:变形缝" Gcnr="" Jsgz="按设计图示以长度计算" Dw="m" Sl="154.52" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="29" Qdbm="010903001001" Mc="墙面卷材防水" Xmtz="1.卷材品种、规格、厚度:4厚自粘聚合物改性沥青防水卷材(聚酯胎Ⅱ型)
+2.部位:勒脚" Gcnr="" Jsgz="按设计图示尺寸以面积计算" Dw="m2" Sl="91.44" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="30" Qdbm="010903003002" Mc="墙面砂浆防水（防潮）" Xmtz="1.部位:勒脚保温
+2.砂浆厚度、配合比:20厚1：2改性防水砂浆" Gcnr="" Jsgz="按设计图示尺寸以面积计算" Dw="m2" Sl="91.44" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="31" Qdbm="010902002001" Mc="屋面涂膜防水" Xmtz="1.涂膜厚度、遍数:满铺0.4厚聚乙烯膜隔汽层
+2.种类:屋面防水" Gcnr="" Jsgz="按设计图示尺寸以面积计算。1.斜屋顶（不包括平屋顶找坡）按斜面积计算，平屋顶按水平投影面积计算；2.不扣除房上烟囱、风帽底座、风道、屋面小气窗和斜沟所占面积；3.屋面的女儿墙、伸缩缝和天窗等处的弯起部分，并入屋面工程量内。" Dw="m2" Sl="1163.64" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="32" Qdbm="010902001001" Mc="屋面卷材防水" Xmtz="1.卷材品种、规格、厚度:1.5mm热塑性聚烯烃防水卷材(TPO)
+2.防水层做法:详见图纸（屋面防水工程）" Gcnr="" Jsgz="按设计图示尺寸以面积计算。1.斜屋顶（不包括平屋顶找坡）按斜面积计算，平屋顶按水平投影面积计算；2.不扣除房上烟囱、风帽底座、风道、屋面小气窗和斜沟所占面积；3.屋面的女儿墙、伸缩缝和天窗等处的弯起部分，并入屋面工程量内。" Dw="m2" Sl="1163.64" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="A.10" Mc="保温、隔热、防腐工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="33" Qdbm="011001003001" Mc="保温隔热墙面" Xmtz="1.保温隔热部位:墙体
+2.保温隔热方式:外保温
+3.保温隔热面层材料品种、规格、性能:100厚竖丝岩棉保温层
+4.增强网及抗裂防水砂浆种类:4厚专用胶浆，复合耐碱网格布" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除门窗洞口以及面积&gt;0.3m2梁、孔洞所占面积；门窗洞口侧壁以及与墙相连的柱，并入保温墙体工程量内" Dw="m2" Sl="128.4" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="34" Qdbm="011001006001" Mc="其他保温隔热" Xmtz="1.部位:地梁底部
+2.保温隔热方式:详见图纸设计
+3.保温隔热材料品种、规格及厚度:100mm厚苯板填充
+4.做法:素土夯实" Gcnr="" Jsgz="按设计图示尺寸以展开面积计算。扣除面积&gt;0.3m2孔洞及占位面积" Dw="m2" Sl="39.22" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="35" Qdbm="011001005001" Mc="保温隔热楼地面" Xmtz="1.保温隔热部位:楼地面
+2.保温隔热材料品种、规格、厚度:60厚挤塑苯板保温层" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除面积&gt;0.3m2柱、垛、孔洞等所占面积。门洞、空圈、暖气包槽、壁龛的开口部分不增加面积" Dw="m2" Sl="91.44" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="36" Qdbm="011002002001" Mc="防腐砂浆面层" Xmtz="1.防腐部位:与土壤接触部位
+2.砂浆、胶泥种类、配合比:一道冷底子油、二道热沥青" Gcnr="" Jsgz="按设计图示尺寸以面积计算。1.平面防腐:扣除凸出地面的构筑物、设备基础等以及面积&gt;0.3m2孔洞、柱、垛等所占面积，门洞、空圈、暖气包槽、壁龛的开口部分不增加面积；2.立面防腐：扣除门、窗、洞口以及面积&gt;0.3m2孔洞、梁所占面积，门、窗、洞口侧壁、垛突出部分按展开面积并入墙面积内。" Dw="m2" Sl="360.61" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="37" Qdbm="011001006002" Mc="其他保温隔热" Xmtz="1.保温隔热部位:勒脚保温
+2.保温隔热材料品种、规格及厚度:60厚xps板" Gcnr="" Jsgz="按设计图示尺寸以展开面积计算。扣除面积&gt;0.3m2孔洞及占位面积" Dw="m2" Sl="91.44" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="A.11" Mc="楼地面装饰工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="38" Qdbm="011101003001" Mc="细石混凝土楼地面" Xmtz="1.面层厚度、混凝土强度等级:100厚C30细石混凝土面层" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除凸出地面构筑物、设备基础、室内铁道、地沟等所占面积，不扣除间壁墙及≤0.3m2柱、垛、附墙烟囱及孔洞所占面积。门洞、空圈、暖气包槽、壁龛的开口部分不增加面积" Dw="m2" Sl="100.6" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="39" Qdbm="011101003002" Mc="细石混凝土楼地面" Xmtz="1.面层厚度、混凝土强度等级:70厚C25细石混凝土找平层，内配a6@150双向钢筋" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除凸出地面构筑物、设备基础、室内铁道、地沟等所占面积，不扣除间壁墙及≤0.3m2柱、垛、附墙烟囱及孔洞所占面积。门洞、空圈、暖气包槽、壁龛的开口部分不增加面积" Dw="m2" Sl="927.09" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="40" Qdbm="011105001001" Mc="水泥砂浆踢脚线" Xmtz="1.踢脚线高度:100mm
+2.底层厚度、砂浆配合比:10厚1：3水泥砂浆
+3.面层厚度、砂浆配合比:8厚1：2.5水泥砂浆罩面
+4.做法:新22J01-D-65页-浆踢-02（砖）" Gcnr="" Jsgz="1.以平方米计量，按设计图示长度乘高度以面积计算；2.以米计量，按延长米计算。" Dw="m2" Sl="22.99" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="41" Qdbm="011101003003" Mc="细石混凝土楼地面" Xmtz="1.面层厚度、混凝土强度等级:100厚C25细石混凝土垫层
+2.周边地面保温下垫层" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除凸出地面构筑物、设备基础、室内铁道、地沟等所占面积，不扣除间壁墙及≤0.3m2柱、垛、附墙烟囱及孔洞所占面积。门洞、空圈、暖气包槽、壁龛的开口部分不增加面积" Dw="m2" Sl="91.44" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="A.12" Mc="墙、柱面装饰与隔断、幕墙工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="42" Qdbm="011201001001" Mc="墙面一般抹灰" Xmtz="1.墙体类型:外墙面
+2.面层厚度、砂浆配合比:25mm厚1：2改性防水砂浆" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除墙裙、门窗洞口及单个&gt;0.3m2的孔洞面积，不扣除踢脚线、挂镜线和墙与构件交接处的面积，门窗洞口和孔洞的侧壁及顶面不增加面积。附墙柱、梁、垛、烟囱侧壁并入相应的墙面面积内。1．外墙抹灰面积按外墙垂直投影面积计算；2．外墙裙抹灰面积按其长度乘以高度计算3．内墙抹灰面积按主墙间的净长乘以高度计算(1)无墙裙的，高度按室内楼地面至天棚底面计算(2)有墙裙的，高度按墙裙顶至天棚底面计算(3)有吊顶天棚抹灰，高度算至天棚底4．内墙裙抹灰面按内墙净长乘以高度计算。" Dw="m2" Sl="128.4" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="43" Qdbm="011201001002" Mc="墙面一般抹灰" Xmtz="1.墙体类型:深灰色水泥砂浆涂料饰面
+2.底层厚度、砂浆配合比:10厚1：3水泥砂浆打底
+3.面层厚度、砂浆配合比:6厚1：2.5水泥砂浆抹面" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除墙裙、门窗洞口及单个&gt;0.3m2的孔洞面积，不扣除踢脚线、挂镜线和墙与构件交接处的面积，门窗洞口和孔洞的侧壁及顶面不增加面积。附墙柱、梁、垛、烟囱侧壁并入相应的墙面面积内。1．外墙抹灰面积按外墙垂直投影面积计算；2．外墙裙抹灰面积按其长度乘以高度计算3．内墙抹灰面积按主墙间的净长乘以高度计算(1)无墙裙的，高度按室内楼地面至天棚底面计算(2)有墙裙的，高度按墙裙顶至天棚底面计算(3)有吊顶天棚抹灰，高度算至天棚底4．内墙裙抹灰面按内墙净长乘以高度计算。" Dw="m2" Sl="246.7" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="44" Qdbm="011201001003" Mc="墙面一般抹灰" Xmtz="1.墙体类型:外墙
+2.面层厚度、砂浆配合比:25mm厚1：3水泥砂浆" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除墙裙、门窗洞口及单个&gt;0.3m2的孔洞面积，不扣除踢脚线、挂镜线和墙与构件交接处的面积，门窗洞口和孔洞的侧壁及顶面不增加面积。附墙柱、梁、垛、烟囱侧壁并入相应的墙面面积内。1．外墙抹灰面积按外墙垂直投影面积计算；2．外墙裙抹灰面积按其长度乘以高度计算3．内墙抹灰面积按主墙间的净长乘以高度计算(1)无墙裙的，高度按室内楼地面至天棚底面计算(2)有墙裙的，高度按墙裙顶至天棚底面计算(3)有吊顶天棚抹灰，高度算至天棚底4．内墙裙抹灰面按内墙净长乘以高度计算。" Dw="m2" Sl="118.3" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="" Mc="门窗工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="45" Qdbm="01B001" Mc="成品保温防盗门" Xmtz="1.内容:成品保温防盗门" Gcnr="" Jsgz="" Dw="m2" Sl="7.2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="46" Qdbm="01B002" Mc="成品库房门" Xmtz="1.内容:成品库房门" Gcnr="" Jsgz="" Dw="套" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="47" Qdbm="010807001001" Mc="金属（塑钢、断桥）窗" Xmtz="1.框、扇材质:三玻多腔塑料型材窗
+2.玻璃品种、厚度:（4+12A+4+12A+4）" Gcnr="" Jsgz="1.以樘计量，按设计图示数量计算；2.以平方米计量，按设计图示洞口尺寸以面积计算。" Dw="m2" Sl="124.74" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="48" Qdbm="01B003" Mc="手动开启装置" Xmtz="1.内容:手动开启装置" Gcnr="" Jsgz="" Dw="个" Sl="18" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="" Mc="金属结构工程" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="49" Qdbm="010607003001" Mc="成品雨篷" Xmtz="1.材料品种、规格:详见图纸及图集21J925-2-2-23
+2.雨篷宽度:详见图纸" Gcnr="" Jsgz="1.以米计量，按设计图示接触边以米计算；2.以平方米计量，按设计图示尺寸以展开面积计算。" Dw="m2" Sl="32.64" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="50" Qdbm="010605002001" Mc="钢板墙板" Xmtz="1.钢板厚度、复合板厚度:150mm厚白色金属夹芯岩棉板（外钢板厚0.6mm、内0.5mm）" Gcnr="" Jsgz="按设计图示尺寸以铺挂展开面积计算。不扣除单个面积≤0.3m2的梁、孔洞所占面积，包角、包边、窗台泛水等不另加面积" Dw="m2" Sl="948.21" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="51" Qdbm="010605001001" Mc="钢板楼板" Xmtz="1.钢材品种、规格:150mm厚浅蓝色金属夹芯岩棉板" Gcnr="" Jsgz="按设计图示尺寸以铺设水平投影面积计算。不扣除单个面积≤0.3m2柱、垛及孔洞所占面积" Dw="m2" Sl="1163.64" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="52" Qdbm="010602001001" Mc="钢屋架" Xmtz="1.钢材品种、规格:Q355B
+2.单榀质量:3t内
+3.屋架跨度、安装高度:详见图纸
+4.要求:喷砂除锈" Gcnr="" Jsgz="1.以榀计量，按设计图示数量计算；2．以吨计量，按设计图示尺寸以质量计算。不扣除孔眼的质量，焊条、铆钉、螺栓等不另增加质量。" Dw="t" Sl="21.912" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="53" Qdbm="010606001001" Mc="钢支撑、钢拉条" Xmtz="1.钢材品种、规格:钢支撑、钢拉条 Q235B
+2.构件类型:QXL、YC1、QCG1、CG1、ZLT,XLT、XG1、SC1、QLT、QXL、QCG
+3.安装高度:详见图纸
+4.要求:喷砂除锈" Gcnr="" Jsgz="按设计图示尺寸以质量计算，不扣除孔眼的质量，焊条、铆钉、螺栓等不另增加质量" Dw="t" Sl="4.715" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="54" Qdbm="010606002001" Mc="钢檩条" Xmtz="1.钢材品种、规格:屋面檩条 Q355B
+2.构件类型:C250*75*20*2.2/2C250*75*20*2.2
+3.单根质量:0.3t内
+4.安装高度:详见图纸" Gcnr="" Jsgz="按设计图示尺寸以质量计算，不扣除孔眼的质量，焊条、铆钉、螺栓等不另增加质量" Dw="t" Sl="3.42" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="55" Qdbm="010606001002" Mc="钢支撑、钢拉条" Xmtz="1.钢材品种、规格:墙面檩条  Q355B
+2.构件类型:C250*75*20*2.2/2C250*75*20*2.2
+3.安装高度:详见图纸" Gcnr="" Jsgz="按设计图示尺寸以质量计算，不扣除孔眼的质量，焊条、铆钉、螺栓等不另增加质量" Dw="t" Sl="5.659" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="56" Qdbm="040901010001" Mc="高强螺栓" Xmtz="1.材料种类:高强螺栓" Gcnr="" Jsgz="1.按设计图示尺寸以质量计算；2.按设计图示数量计算。" Dw="套" Sl="424" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="57" Qdbm="011405001001" Mc="金属面油漆" Xmtz="1.构件名称:钢柱、柱间支撑
+2.油漆品种、刷漆遍数:非膨胀型耐火涂料，耐火极限2.5h
+3.厚度:40mm" Gcnr="" Jsgz="1.以吨计量，按设计图示尺寸以质量计算；2.以平方米计量，按设计展开面积计算。" Dw="m2" Sl="680.81" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="58" Qdbm="011405001002" Mc="金属面油漆" Xmtz="1.构件名称:钢梁及屋面其他承重构件
+2.油漆品种、刷漆遍数:15厚LG防火隔热涂料，耐火极限1.5h" Gcnr="" Jsgz="1.以吨计量，按设计图示尺寸以质量计算；2.以平方米计量，按设计展开面积计算。" Dw="m2" Sl="3066.87" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="59" Qdbm="01B004" Mc="檐沟、檐口" Xmtz="1.内容:檐沟、檐口
+2.做法:详见图集21J925-2-3-4" Gcnr="" Jsgz="" Dw="m" Sl="152.4" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="60" Qdbm="01B005" Mc="挡雪装置" Xmtz="1.内容:挡雪装置" Gcnr="" Jsgz="" Dw="m" Sl="122.8" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+            </Qdxm>
+            <Csxm>
+                <ZjCs>
+                    <ZjCsMx Xh="1" Bm="011707001001" Mc="安全文明施工" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="1"/>
+                    <ZjCsMx Xh="2" Bm="011707001002" Mc="其中：环境保护费、文明施工费、安全施工费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="2.8" Je="0" Xmlb="1.1"/>
+                    <ZjCsMx Xh="3" Bm="011707001003" Mc="其中：临时设施费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="1.38" Je="0" Xmlb="1.2"/>
+                    <ZjCsMx Xh="4" Bm="011707001004" Mc="其中：智慧工地基础配置费" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="1.10"/>
+                    <ZjCsMx Xh="5" Bm="011707002001" Mc="夜间施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="14"/>
+                    <ZjCsMx Xh="6" Bm="011707004001" Mc="二次搬运费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0" Je="0" Xmlb="5"/>
+                    <ZjCsMx Xh="7" Bm="011707005001" Mc="冬雨季施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="9"/>
+                    <ZjCsMx Xh="8" Bm="011707007001" Mc="已完工程及设备保护费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.07" Je="0" Xmlb="4"/>
+                    <ZjCsMx Xh="9" Bm="X011707008001" Mc="工程定位复测、点交清理费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.08" Je="0" Xmlb="3"/>
+                    <ZjCsMx Xh="10" Bm="X011707010001" Mc="检验试验费" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="2"/>
+                    <ZjCsMx Xh="11" Bm="X011707010002" Mc="其中：自检试验费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="2.1"/>
+                    <ZjCsMx Xh="12" Bm="X011707010003" Mc="其中：检验试验配合费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.11" Je="0" Xmlb="2.2"/>
+                    <ZjCsMx Xh="13" Bm="X011707011001" Mc="特殊地区增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="8"/>
+                    <ZjCsMx Xh="14" Bm="01B991" Mc="竣工档案编制费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.27" Je="0" Xmlb="7"/>
+                </ZjCs>
+                <DjCs>
+                    <DjCsMx Xh="61" Bm="011702001001" Mc="基础" Xmtz="1.基础类型:独立基础" Gcnr="" Jsgz="按模板与现浇混凝土构件的接触面积计算。1．现浇钢筋混凝土墙、板单孔面积≤0.3m2的孔洞不予扣除，洞侧壁模板亦不增加；单孔面积&gt;0.3m2时应予扣除，洞侧壁模板面积并入墙、板工程量内计算；2.现浇框架分别按梁、板、柱有关规定计算；附墙柱、暗梁、暗柱并入墙内工程量内计算；3.柱、梁、墙、板相互连接的重叠部分，均不计算模板面积；4.构造柱按图示外露部分计算模板面积。" Dw="m2" Sl="77" Zhdj="0" Zhhj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zgj="0" Jgf="0" Zgr="0"/>
+                    <DjCsMx Xh="62" Bm="011702001002" Mc="基础" Xmtz="1.基础类型:垫层模板" Gcnr="" Jsgz="按模板与现浇混凝土构件的接触面积计算。1．现浇钢筋混凝土墙、板单孔面积≤0.3m2的孔洞不予扣除，洞侧壁模板亦不增加；单孔面积&gt;0.3m2时应予扣除，洞侧壁模板面积并入墙、板工程量内计算；2.现浇框架分别按梁、板、柱有关规定计算；附墙柱、暗梁、暗柱并入墙内工程量内计算；3.柱、梁、墙、板相互连接的重叠部分，均不计算模板面积；4.构造柱按图示外露部分计算模板面积。" Dw="m2" Sl="17.58" Zhdj="0" Zhhj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zgj="0" Jgf="0" Zgr="0"/>
+                    <DjCsMx Xh="63" Bm="011702002001" Mc="矩形柱" Xmtz="1.矩形柱模板" Gcnr="" Jsgz="按模板与现浇混凝土构件的接触面积计算 1.现浇钢筋混凝土墙、板单孔面积≤0.3m2的孔洞不予扣除, 洞侧壁模板亦不增加; 单孔面积&gt;0.3m2时应予扣除, 洞侧壁模板面积并入墙、板工程量内计算 2.现浇框架分别按梁、板、柱有关规定计算; 附墙柱、暗梁、暗柱并人墙内工程量内计算 3.柱、梁、墙、板相互连接的重叠部分, 均不计算模板面积 4.构造柱按图示外露部分计算模板面积" Dw="m2" Sl="58.08" Zhdj="0" Zhhj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zgj="0" Jgf="0" Zgr="0"/>
+                    <DjCsMx Xh="64" Bm="011702003001" Mc="构造柱" Xmtz="1.构造柱模板" Gcnr="" Jsgz="按模板与现浇混凝土构件的接触面积计算 1.现浇钢筋混凝土墙、板单孔面积≤0.3m2的孔洞不予扣除, 洞侧壁模板亦不增加; 单孔面积&gt;0.3m2时应予扣除, 洞侧壁模板面积并入墙、板工程量内计算 2.现浇框架分别按梁、板、柱有关规定计算; 附墙柱、暗梁、暗柱并人墙内工程量内计算 3.柱、梁、墙、板相互连接的重叠部分, 均不计算模板面积 4.构造柱按图示外露部分计算模板面积" Dw="m2" Sl="15.77" Zhdj="0" Zhhj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zgj="0" Jgf="0" Zgr="0"/>
+                    <DjCsMx Xh="65" Bm="011702005001" Mc="基础梁" Xmtz="1.内容:地梁模板" Gcnr="" Jsgz="按模板与现浇混凝土构件的接触面积计算。1．现浇钢筋混凝土墙、板单孔面积≤0.3m2的孔洞不予扣除，洞侧壁模板亦不增加；单孔面积&gt;0.3m2时应予扣除，洞侧壁模板面积并入墙、板工程量内计算；2.现浇框架分别按梁、板、柱有关规定计算；附墙柱、暗梁、暗柱并入墙内工程量内计算；3.柱、梁、墙、板相互连接的重叠部分，均不计算模板面积；4.构造柱按图示外露部分计算模板面积。" Dw="m2" Sl="141.59" Zhdj="0" Zhhj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zgj="0" Jgf="0" Zgr="0"/>
+                    <DjCsMx Xh="66" Bm="011703001001" Mc="垂直运输" Xmtz="1.建筑物建筑类型及结构形式:垂直运输 20m(6层)以内卷扬机施工 现浇框架" Gcnr="" Jsgz="1.按建筑面积计算；2.按施工工期日历天数计算。" Dw="m2" Sl="993.73" Zhdj="0" Zhhj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zgj="0" Jgf="0" Zgr="0"/>
+                    <DjCsMx Xh="67" Bm="011705001001" Mc="大型机械设备进出场及安拆" Xmtz="1.机械设备名称:大型机械设备进出场及安拆" Gcnr="" Jsgz="按使用机械设备的数量计算" Dw="台次" Sl="1" Zhdj="0" Zhhj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zgj="0" Jgf="0" Zgr="0"/>
+                </DjCs>
+            </Csxm>
+            <Qtxm>
+                <QtxmMx Xh="1" Mc="暂列金额" Dw="" Je="110000" Xmlb="1" Bz=""/>
+                <QtxmMx Xh="2" Mc="暂估价" Dw="" Je="0" Xmlb="2" Bz=""/>
+                <QtxmMx Xh="2.1" Mc="材料暂估价" Dw="" Je="0" Xmlb="2.1" Bz=""/>
+                <QtxmMx Xh="2.2" Mc="专业工程暂估价" Dw="" Je="0" Xmlb="2.2" Bz=""/>
+                <QtxmMx Xh="2.3" Mc="施工技术专项措施项目暂估价" Dw="" Je="0" Xmlb="2.3" Bz=""/>
+                <QtxmMx Xh="3" Mc="计日工" Dw="" Je="0" Xmlb="3" Bz=""/>
+                <QtxmMx Xh="4" Mc="总承包服务费" Dw="" Je="0" Xmlb="4" Bz=""/>
+            </Qtxm>
+            <Zlje>
+                <ZljeMx Xh="1" Mc="暂列金" Dw="元" Zdje="110000" Bz=""/>
+            </Zlje>
+            <Clzg/>
+            <Zygczg/>
+            <Sgcszg/>
+            <Jrg>
+                <JrgBt Xh="1" Mc="人工" Je="0" Lb="1"/>
+                <JrgBt Xh="2" Mc="材料" Je="0" Lb="2"/>
+                <JrgBt Xh="3" Mc="机械" Je="0" Lb="3"/>
+                <JrgBt Xh="4" Mc="管理费和利润" Je="0" Lb="4"/>
+            </Jrg>
+            <Zcbfwf>
+                <ZcbfwfMx Xh="1" Mc="专业发包工程管理费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+                <ZcbfwfMx Xh="2" Mc="甲供材料设备保管费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+            </Zcbfwf>
+            <Fbrgycl/>
+            <CbrZyClZjxx/>
+            <Rcjhz/>
+            <JpCl/>
+            <Jjcx/>
+        </Dwgcxx>
+        <Dwgcxx Dwgcbh="X01C01" Dwgcmc="给排水工程" Zylb="3" Dexl="2020" Jzmj="1000" Gclb="三类" JtZy="5">
+            <Fywj>
+                <FywjMx Xh="一" Bm="A" Mc="分部分项工程费" Jsjc="分部分项合计" Jsgs="FBFXHJ" Fl="100" Je="0" Zgj="0" Fyxlb="1"/>
+                <FywjMx Xh="二" Bm="B" Mc="措施项目费" Jsjc="措施项目合计" Jsgs="CSXMHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2"/>
+                <FywjMx Xh="2.1" Bm="B1" Mc="单价措施项目费" Jsjc="单价措施项目合计" Jsgs="DJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.2"/>
+                <FywjMx Xh="2.2" Bm="B2" Mc="总价措施项目费" Jsjc="总价措施项目合计" Jsgs="ZJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.1"/>
+                <FywjMx Xh="2.21" Bm="B21" Mc="其中：安全文明施工费" Jsjc="安全文明施工费" Jsgs="AQWMSGF" Fl="100" Je="0" Zgj="0" Fyxlb="2.1.1"/>
+                <FywjMx Xh="三" Bm="C" Mc="其他项目费" Jsjc="暂列金额+暂估价+计日工+总承包服务费" Jsgs="C1+C2+C3+C4" Fl="100" Je="0" Zgj="0" Fyxlb="3"/>
+                <FywjMx Xh="3.1" Bm="C1" Mc="暂列金额" Jsjc="暂列金额" Jsgs="暂列金额" Fl="100" Je="0" Zgj="0" Fyxlb="3.1"/>
+                <FywjMx Xh="3.2" Bm="C2" Mc="暂估价" Jsjc="专业工程暂估价+施工技术专项措施项目暂估价" Jsgs="专业工程暂估价+施工技术专项措施项目暂估价" Fl="100" Je="0" Zgj="0" Fyxlb="3.5"/>
+                <FywjMx Xh="3.3" Bm="C3" Mc="计日工" Jsjc="计日工" Jsgs="计日工" Fl="100" Je="0" Zgj="0" Fyxlb="3.3"/>
+                <FywjMx Xh="3.4" Bm="C4" Mc="总承包服务费" Jsjc="总承包服务费" Jsgs="总承包服务费" Fl="100" Je="0" Zgj="0" Fyxlb="3.4"/>
+                <FywjMx Xh="四" Bm="D" Mc="规费" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Zgj="0" Fyxlb="4"/>
+                <FywjMx Xh="五" Bm="E" Mc="税前工程造价" Jsjc="分部分项工程费+措施项目费+其他项目费+规费" Jsgs="A+B+C+D" Fl="100" Je="0" Zgj="0" Fyxlb="9"/>
+                <FywjMx Xh="六" Bm="F" Mc="税金" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Zgj="0" Fyxlb="5"/>
+                <FywjMx Xh="七" Bm="" Mc="建设工程造价" Jsjc="税前工程造价+税金" Jsgs="E+F" Fl="100" Je="0" Zgj="0" Fyxlb="6"/>
+            </Fywj>
+            <Gfsj>
+                <GfsjMx Xh="四" Bm="D" Mc="规费" Qfjs="0" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Fyxlb="1"/>
+                <GfsjMx Xh="4.1" Bm="D1" Mc="社会保险费" Qfjs="0" Jsjc="养老保险费+失业保险费+医疗保险费(生育保险费)+工伤保险费" Jsgs="D11+D12+D13+D14" Fl="100" Je="0" Fyxlb="1.2"/>
+                <GfsjMx Xh="4.11" Bm="D11" Mc="养老保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="7.13" Je="0" Fyxlb="1.2.1"/>
+                <GfsjMx Xh="4.12" Bm="D12" Mc="失业保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="0.28" Je="0" Fyxlb="1.2.2"/>
+                <GfsjMx Xh="4.13" Bm="D13" Mc="医疗保险费(生育保险费)" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="1.58" Je="0" Fyxlb="1.2.3"/>
+                <GfsjMx Xh="4.14" Bm="D14" Mc="工伤保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="0.19" Je="0" Fyxlb="1.2.5"/>
+                <GfsjMx Xh="4.2" Bm="D2" Mc="住房公积金" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="1.05" Je="0" Fyxlb="1.3"/>
+                <GfsjMx Xh="六" Bm="F" Mc="税金" Qfjs="0" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Fyxlb="2"/>
+                <GfsjMx Xh="六" Bm="K" Mc="合计" Qfjs="0" Jsjc="规费+税金" Jsgs="D+F" Fl="100" Je="0" Fyxlb="3"/>
+            </Gfsj>
+            <Qdxm>
+                <QdBt Xh="" Mc="给水部分" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="1" Qdbm="031001006001" Mc="塑料管" Xmtz="1.安装部位:室内
+2.介质:水
+3.材质、规格:PPR管de40
+4.连接形式:热熔连接
+5.压力试验及吹、洗设计要求:消毒冲洗及水压试验" Gcnr="" Jsgz="按设计图示管道中心线以长度计算" Dw="m" Sl="46.18" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="2" Qdbm="031003001001" Mc="螺纹阀门" Xmtz="1.类型:闸阀
+2.规格、压力等级:DN40
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="3" Qdbm="031003001002" Mc="螺纹阀门" Xmtz="1.类型:止回阀
+2.规格、压力等级:DN40
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="4" Qdbm="031003013001" Mc="水表" Xmtz="1.安装部位(室内外）:室内
+2.型号、规格:DN40
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="5" Qdbm="031003006001" Mc="减压器" Xmtz="1.材质:减压阀
+2.规格、压力等级:DN40
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="组" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="6" Qdbm="031003008001" Mc="除污器(过滤器）" Xmtz="1.材质:Y型过滤器
+2.规格、压力等级:DN40
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="组" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="7" Qdbm="031003001003" Mc="螺纹阀门" Xmtz="1.类型:泄水阀
+2.规格、压力等级:DN25
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="8" Qdbm="031002003001" Mc="套管" Xmtz="1.名称、类型:一般填料套管
+2.材质:详图纸
+3.规格:DN60" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="" Mc="排水部分" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="9" Qdbm="031001006002" Mc="塑料管" Xmtz="1.安装部位:室内
+2.介质:污水
+3.材质、规格:UPVC、De160
+4.连接形式:详图纸设计" Gcnr="" Jsgz="按设计图示管道中心线以长度计算" Dw="m" Sl="9.02" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="10" Qdbm="031001006003" Mc="塑料管" Xmtz="1.安装部位:室内
+2.介质:污水
+3.材质、规格:UPVC、De110
+4.连接形式:详图纸设计" Gcnr="" Jsgz="按设计图示管道中心线以长度计算" Dw="m" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="11" Qdbm="031004014001" Mc="给、排水附(配)件" Xmtz="1.材质:地漏
+2.型号、规格:DE110" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="12" Qdbm="031002003002" Mc="套管" Xmtz="1.名称、类型:一般填料套管
+2.材质:详图纸
+3.规格:DN250" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="13" Qdbm="031004004001" Mc="洗涤盆" Xmtz="1.材质:拖布池
+2.规格、类型:详图纸设计" Gcnr="" Jsgz="按设计图示数量计算" Dw="组" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+            </Qdxm>
+            <Csxm>
+                <ZjCs>
+                    <ZjCsMx Xh="1" Bm="031302001001" Mc="安全文明施工" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="1"/>
+                    <ZjCsMx Xh="2" Bm="031302001002" Mc="其中：环境保护费、文明施工费、安全施工费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0" Je="0" Xmlb="1.1"/>
+                    <ZjCsMx Xh="3" Bm="031302001003" Mc="其中：临时设施费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="1.61" Je="0" Xmlb="1.2"/>
+                    <ZjCsMx Xh="4" Bm="031302002001" Mc="夜间施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="14"/>
+                    <ZjCsMx Xh="5" Bm="031302004001" Mc="二次搬运费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0" Je="0" Xmlb="5"/>
+                    <ZjCsMx Xh="6" Bm="031302005001" Mc="冬雨季施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="9"/>
+                    <ZjCsMx Xh="7" Bm="031302006001" Mc="已完工程及设备保护费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.07" Je="0" Xmlb="4"/>
+                    <ZjCsMx Xh="8" Bm="031301009001" Mc="特殊地区增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="8"/>
+                    <ZjCsMx Xh="9" Bm="X031302008001" Mc="工程定位复测、点交清理费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.27" Je="0" Xmlb="3"/>
+                    <ZjCsMx Xh="10" Bm="X031302010001" Mc="检验试验费" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="2"/>
+                    <ZjCsMx Xh="11" Bm="X031302010002" Mc="其中：自检试验费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="2.1"/>
+                    <ZjCsMx Xh="12" Bm="X031302010003" Mc="其中：检验试验配合费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.18" Je="0" Xmlb="2.2"/>
+                    <ZjCsMx Xh="13" Bm="03B991" Mc="竣工档案编制费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.32" Je="0" Xmlb="7"/>
+                </ZjCs>
+                <DjCs/>
+            </Csxm>
+            <Qtxm>
+                <QtxmMx Xh="1" Mc="暂列金额" Dw="" Je="0" Xmlb="1" Bz=""/>
+                <QtxmMx Xh="2" Mc="暂估价" Dw="" Je="5000" Xmlb="2" Bz=""/>
+                <QtxmMx Xh="2.1" Mc="材料暂估价" Dw="" Je="0" Xmlb="2.1" Bz=""/>
+                <QtxmMx Xh="2.2" Mc="专业工程暂估价" Dw="" Je="5000" Xmlb="2.2" Bz=""/>
+                <QtxmMx Xh="2.3" Mc="施工技术专项措施项目暂估价" Dw="" Je="0" Xmlb="2.3" Bz=""/>
+                <QtxmMx Xh="3" Mc="计日工" Dw="" Je="0" Xmlb="3" Bz=""/>
+                <QtxmMx Xh="4" Mc="总承包服务费" Dw="" Je="0" Xmlb="4" Bz=""/>
+            </Qtxm>
+            <Zlje/>
+            <Clzg/>
+            <Zygczg>
+                <ZygczgMx Xh="1" Mc="支架" Gcnr="管道支架" Je="5000" Bz=""/>
+            </Zygczg>
+            <Sgcszg/>
+            <Jrg>
+                <JrgBt Xh="1" Mc="人工" Je="0" Lb="1"/>
+                <JrgBt Xh="2" Mc="材料" Je="0" Lb="2"/>
+                <JrgBt Xh="3" Mc="机械" Je="0" Lb="3"/>
+                <JrgBt Xh="4" Mc="管理费和利润" Je="0" Lb="4"/>
+            </Jrg>
+            <Zcbfwf>
+                <ZcbfwfMx Xh="1" Mc="专业发包工程管理费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+                <ZcbfwfMx Xh="2" Mc="甲供材料设备保管费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+            </Zcbfwf>
+            <Fbrgycl/>
+            <CbrZyClZjxx/>
+            <Rcjhz/>
+            <JpCl/>
+            <Jjcx/>
+        </Dwgcxx>
+        <Dwgcxx Dwgcbh="X01C02" Dwgcmc="消防工程" Zylb="3" Dexl="2020" Jzmj="1000" Gclb="三类" JtZy="5">
+            <Fywj>
+                <FywjMx Xh="一" Bm="A" Mc="分部分项工程费" Jsjc="分部分项合计" Jsgs="FBFXHJ" Fl="100" Je="0" Zgj="0" Fyxlb="1"/>
+                <FywjMx Xh="二" Bm="B" Mc="措施项目费" Jsjc="措施项目合计" Jsgs="CSXMHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2"/>
+                <FywjMx Xh="2.1" Bm="B1" Mc="单价措施项目费" Jsjc="单价措施项目合计" Jsgs="DJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.2"/>
+                <FywjMx Xh="2.2" Bm="B2" Mc="总价措施项目费" Jsjc="总价措施项目合计" Jsgs="ZJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.1"/>
+                <FywjMx Xh="2.21" Bm="B21" Mc="其中：安全文明施工费" Jsjc="安全文明施工费" Jsgs="AQWMSGF" Fl="100" Je="0" Zgj="0" Fyxlb="2.1.1"/>
+                <FywjMx Xh="三" Bm="C" Mc="其他项目费" Jsjc="暂列金额+暂估价+计日工+总承包服务费" Jsgs="C1+C2+C3+C4" Fl="100" Je="0" Zgj="0" Fyxlb="3"/>
+                <FywjMx Xh="3.1" Bm="C1" Mc="暂列金额" Jsjc="暂列金额" Jsgs="暂列金额" Fl="100" Je="0" Zgj="0" Fyxlb="3.1"/>
+                <FywjMx Xh="3.2" Bm="C2" Mc="暂估价" Jsjc="专业工程暂估价+施工技术专项措施项目暂估价" Jsgs="专业工程暂估价+施工技术专项措施项目暂估价" Fl="100" Je="0" Zgj="0" Fyxlb="3.5"/>
+                <FywjMx Xh="3.3" Bm="C3" Mc="计日工" Jsjc="计日工" Jsgs="计日工" Fl="100" Je="0" Zgj="0" Fyxlb="3.3"/>
+                <FywjMx Xh="3.4" Bm="C4" Mc="总承包服务费" Jsjc="总承包服务费" Jsgs="总承包服务费" Fl="100" Je="0" Zgj="0" Fyxlb="3.4"/>
+                <FywjMx Xh="四" Bm="D" Mc="规费" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Zgj="0" Fyxlb="4"/>
+                <FywjMx Xh="五" Bm="E" Mc="税前工程造价" Jsjc="分部分项工程费+措施项目费+其他项目费+规费" Jsgs="A+B+C+D" Fl="100" Je="0" Zgj="0" Fyxlb="9"/>
+                <FywjMx Xh="六" Bm="F" Mc="税金" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Zgj="0" Fyxlb="5"/>
+                <FywjMx Xh="七" Bm="" Mc="建设工程造价" Jsjc="税前工程造价+税金" Jsgs="E+F" Fl="100" Je="0" Zgj="0" Fyxlb="6"/>
+            </Fywj>
+            <Gfsj>
+                <GfsjMx Xh="四" Bm="D" Mc="规费" Qfjs="0" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Fyxlb="1"/>
+                <GfsjMx Xh="4.1" Bm="D1" Mc="社会保险费" Qfjs="0" Jsjc="养老保险费+失业保险费+医疗保险费(生育保险费)+工伤保险费" Jsgs="D11+D12+D13+D14" Fl="100" Je="0" Fyxlb="1.2"/>
+                <GfsjMx Xh="4.11" Bm="D11" Mc="养老保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="7.13" Je="0" Fyxlb="1.2.1"/>
+                <GfsjMx Xh="4.12" Bm="D12" Mc="失业保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="0.28" Je="0" Fyxlb="1.2.2"/>
+                <GfsjMx Xh="4.13" Bm="D13" Mc="医疗保险费(生育保险费)" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="1.58" Je="0" Fyxlb="1.2.3"/>
+                <GfsjMx Xh="4.14" Bm="D14" Mc="工伤保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="0.19" Je="0" Fyxlb="1.2.5"/>
+                <GfsjMx Xh="4.2" Bm="D2" Mc="住房公积金" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="1.05" Je="0" Fyxlb="1.3"/>
+                <GfsjMx Xh="六" Bm="F" Mc="税金" Qfjs="0" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Fyxlb="2"/>
+                <GfsjMx Xh="六" Bm="K" Mc="合计" Qfjs="0" Jsjc="规费+税金" Jsgs="D+F" Fl="100" Je="0" Fyxlb="3"/>
+            </Gfsj>
+            <Qdxm>
+                <Qdmx Xh="1" Qdbm="030901010001" Mc="室内消火栓" Xmtz="1.名称:轻便消防水龙
+2.安装方式:明装
+3.型号、规格:700*500*130铝合金消火栓箱轻便消防水龙带（L=30m，DN25）含压力型真空破坏器" Gcnr="" Jsgz="按设计图示数量计算" Dw="套" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="2" Qdbm="030901013001" Mc="灭火器" Xmtz="1.形式:壁挂式
+2.规格、型号:MFZ/ABC4*2" Gcnr="" Jsgz="按设计图示数量计算" Dw="组" Sl="4" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="3" Qdbm="030901002001" Mc="消火栓钢管" Xmtz="1.安装部位:室内
+2.材质、规格:镀锌钢管DN32
+3.连接形式:详图纸设计
+4.压力试验及冲洗设计要求:水冲洗" Gcnr="" Jsgz="按设计图示管道中心线以长度计算" Dw="m" Sl="9.8" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="4" Qdbm="030905002001" Mc="水灭火控制装置调试" Xmtz="1.系统形式:消火栓系统调试" Gcnr="" Jsgz="按控制装置的点数计算" Dw="点" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="5" Qdbm="031003001001" Mc="螺纹阀门" Xmtz="1.类型:蝶阀
+2.材质:符合图纸要求
+3.规格、压力等级:DN32
+4.连接形式:丝接" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="6" Qdbm="031003001002" Mc="螺纹阀门" Xmtz="1.类型:快速排气阀
+2.规格、压力等级:DN20
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="7" Qdbm="031003001003" Mc="螺纹阀门" Xmtz="1.类型:泄水阀
+2.规格、压力等级:DN25
+3.连接形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+            </Qdxm>
+            <Csxm>
+                <ZjCs>
+                    <ZjCsMx Xh="1" Bm="031302001001" Mc="安全文明施工" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="1"/>
+                    <ZjCsMx Xh="2" Bm="031302001002" Mc="其中：环境保护费、文明施工费、安全施工费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0" Je="0" Xmlb="1.1"/>
+                    <ZjCsMx Xh="3" Bm="031302001003" Mc="其中：临时设施费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="1.61" Je="0" Xmlb="1.2"/>
+                    <ZjCsMx Xh="4" Bm="031302002001" Mc="夜间施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="14"/>
+                    <ZjCsMx Xh="5" Bm="031302004001" Mc="二次搬运费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0" Je="0" Xmlb="5"/>
+                    <ZjCsMx Xh="6" Bm="031302005001" Mc="冬雨季施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="9"/>
+                    <ZjCsMx Xh="7" Bm="031302006001" Mc="已完工程及设备保护费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.07" Je="0" Xmlb="4"/>
+                    <ZjCsMx Xh="8" Bm="031301009001" Mc="特殊地区增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="8"/>
+                    <ZjCsMx Xh="9" Bm="X031302008001" Mc="工程定位复测、点交清理费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.27" Je="0" Xmlb="3"/>
+                    <ZjCsMx Xh="10" Bm="X031302010001" Mc="检验试验费" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="2"/>
+                    <ZjCsMx Xh="11" Bm="X031302010002" Mc="其中：自检试验费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="2.1"/>
+                    <ZjCsMx Xh="12" Bm="X031302010003" Mc="其中：检验试验配合费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.18" Je="0" Xmlb="2.2"/>
+                    <ZjCsMx Xh="13" Bm="03B991" Mc="竣工档案编制费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.32" Je="0" Xmlb="7"/>
+                </ZjCs>
+                <DjCs/>
+            </Csxm>
+            <Qtxm>
+                <QtxmMx Xh="1" Mc="暂列金额" Dw="" Je="0" Xmlb="1" Bz=""/>
+                <QtxmMx Xh="2" Mc="暂估价" Dw="" Je="0" Xmlb="2" Bz=""/>
+                <QtxmMx Xh="2.1" Mc="材料暂估价" Dw="" Je="0" Xmlb="2.1" Bz=""/>
+                <QtxmMx Xh="2.2" Mc="专业工程暂估价" Dw="" Je="0" Xmlb="2.2" Bz=""/>
+                <QtxmMx Xh="2.3" Mc="施工技术专项措施项目暂估价" Dw="" Je="0" Xmlb="2.3" Bz=""/>
+                <QtxmMx Xh="3" Mc="计日工" Dw="" Je="0" Xmlb="3" Bz=""/>
+                <QtxmMx Xh="4" Mc="总承包服务费" Dw="" Je="0" Xmlb="4" Bz=""/>
+            </Qtxm>
+            <Zlje/>
+            <Clzg/>
+            <Zygczg/>
+            <Sgcszg/>
+            <Jrg>
+                <JrgBt Xh="1" Mc="人工" Je="0" Lb="1"/>
+                <JrgBt Xh="2" Mc="材料" Je="0" Lb="2"/>
+                <JrgBt Xh="3" Mc="机械" Je="0" Lb="3"/>
+                <JrgBt Xh="4" Mc="管理费和利润" Je="0" Lb="4"/>
+            </Jrg>
+            <Zcbfwf>
+                <ZcbfwfMx Xh="1" Mc="专业发包工程管理费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+                <ZcbfwfMx Xh="2" Mc="甲供材料设备保管费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+            </Zcbfwf>
+            <Fbrgycl/>
+            <CbrZyClZjxx/>
+            <Rcjhz/>
+            <JpCl/>
+            <Jjcx/>
+        </Dwgcxx>
+        <Dwgcxx Dwgcbh="X01C03" Dwgcmc="电气设备安装工程" Zylb="3" Dexl="2020" Jzmj="1000" Gclb="三类" JtZy="5">
+            <Fywj>
+                <FywjMx Xh="一" Bm="A" Mc="分部分项工程费" Jsjc="分部分项合计" Jsgs="FBFXHJ" Fl="100" Je="0" Zgj="0" Fyxlb="1"/>
+                <FywjMx Xh="二" Bm="B" Mc="措施项目费" Jsjc="措施项目合计" Jsgs="CSXMHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2"/>
+                <FywjMx Xh="2.1" Bm="B1" Mc="单价措施项目费" Jsjc="单价措施项目合计" Jsgs="DJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.2"/>
+                <FywjMx Xh="2.2" Bm="B2" Mc="总价措施项目费" Jsjc="总价措施项目合计" Jsgs="ZJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.1"/>
+                <FywjMx Xh="2.21" Bm="B21" Mc="其中：安全文明施工费" Jsjc="安全文明施工费" Jsgs="AQWMSGF" Fl="100" Je="0" Zgj="0" Fyxlb="2.1.1"/>
+                <FywjMx Xh="三" Bm="C" Mc="其他项目费" Jsjc="暂列金额+暂估价+计日工+总承包服务费" Jsgs="C1+C2+C3+C4" Fl="100" Je="0" Zgj="0" Fyxlb="3"/>
+                <FywjMx Xh="3.1" Bm="C1" Mc="暂列金额" Jsjc="暂列金额" Jsgs="暂列金额" Fl="100" Je="0" Zgj="0" Fyxlb="3.1"/>
+                <FywjMx Xh="3.2" Bm="C2" Mc="暂估价" Jsjc="专业工程暂估价+施工技术专项措施项目暂估价" Jsgs="专业工程暂估价+施工技术专项措施项目暂估价" Fl="100" Je="0" Zgj="0" Fyxlb="3.5"/>
+                <FywjMx Xh="3.3" Bm="C3" Mc="计日工" Jsjc="计日工" Jsgs="计日工" Fl="100" Je="0" Zgj="0" Fyxlb="3.3"/>
+                <FywjMx Xh="3.4" Bm="C4" Mc="总承包服务费" Jsjc="总承包服务费" Jsgs="总承包服务费" Fl="100" Je="0" Zgj="0" Fyxlb="3.4"/>
+                <FywjMx Xh="四" Bm="D" Mc="规费" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Zgj="0" Fyxlb="4"/>
+                <FywjMx Xh="五" Bm="E" Mc="税前工程造价" Jsjc="分部分项工程费+措施项目费+其他项目费+规费" Jsgs="A+B+C+D" Fl="100" Je="0" Zgj="0" Fyxlb="9"/>
+                <FywjMx Xh="六" Bm="F" Mc="税金" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Zgj="0" Fyxlb="5"/>
+                <FywjMx Xh="七" Bm="" Mc="建设工程造价" Jsjc="税前工程造价+税金" Jsgs="E+F" Fl="100" Je="0" Zgj="0" Fyxlb="6"/>
+            </Fywj>
+            <Gfsj>
+                <GfsjMx Xh="四" Bm="D" Mc="规费" Qfjs="0" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Fyxlb="1"/>
+                <GfsjMx Xh="4.1" Bm="D1" Mc="社会保险费" Qfjs="0" Jsjc="养老保险费+失业保险费+医疗保险费(生育保险费)+工伤保险费" Jsgs="D11+D12+D13+D14" Fl="100" Je="0" Fyxlb="1.2"/>
+                <GfsjMx Xh="4.11" Bm="D11" Mc="养老保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="7.13" Je="0" Fyxlb="1.2.1"/>
+                <GfsjMx Xh="4.12" Bm="D12" Mc="失业保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="0.28" Je="0" Fyxlb="1.2.2"/>
+                <GfsjMx Xh="4.13" Bm="D13" Mc="医疗保险费(生育保险费)" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="1.58" Je="0" Fyxlb="1.2.3"/>
+                <GfsjMx Xh="4.14" Bm="D14" Mc="工伤保险费" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="0.19" Je="0" Fyxlb="1.2.5"/>
+                <GfsjMx Xh="4.2" Bm="D2" Mc="住房公积金" Qfjs="0" Jsjc="分部分项人工费+单价措施项目人工费" Jsgs="RGF+DJCS_RGF" Fl="1.05" Je="0" Fyxlb="1.3"/>
+                <GfsjMx Xh="六" Bm="F" Mc="税金" Qfjs="0" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Fyxlb="2"/>
+                <GfsjMx Xh="六" Bm="K" Mc="合计" Qfjs="0" Jsjc="规费+税金" Jsgs="D+F" Fl="100" Je="0" Fyxlb="3"/>
+            </Gfsj>
+            <Qdxm>
+                <QdBt Xh="" Mc="配电装置安装" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="1" Qdbm="030404017001" Mc="配电箱" Xmtz="1.名称:AL
+2.型号:详图纸
+3.规格:详图纸
+4.安装方式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="台" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="" Mc="防雷及接地装置" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="2" Qdbm="030409002001" Mc="接地母线" Xmtz="1.名称:接地母线
+2.材质:镀锌扁钢
+3.规格:40*4" Gcnr="" Jsgz="按设计图示尺寸以长度计算（含附加长度）" Dw="m" Sl="197.62" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="3" Qdbm="030409001001" Mc="接地极" Xmtz="1.名称:热镀锌角铁
+2.规格:50*50*5mm
+3.基础接地形式:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="根" Sl="8" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="4" Qdbm="030409003001" Mc="避雷引下线" Xmtz="1.名称:避雷引下线
+2.材质:详图纸
+3.规格:详图纸" Gcnr="" Jsgz="按设计图示尺寸以长度计算（含附加长度）" Dw="m" Sl="61.2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="5" Qdbm="030414002001" Mc="送配电装置系统" Xmtz="1.名称:送配电装置系统" Gcnr="" Jsgz="按设计图示系统计算" Dw="系统" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="6" Qdbm="030414011001" Mc="接地装置" Xmtz="1.名称:接地系统测试
+2.类别:详图纸" Gcnr="" Jsgz="1.以系统计量，按设计图示系统计算；2.以组计量，按设计图示数量计算。" Dw="系统" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="7" Qdbm="030404032001" Mc="端子箱" Xmtz="1.名称:总等电位端子箱-MEB
+2.规格:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="台" Sl="1" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="8" Qdbm="030409008001" Mc="等电位端子箱、测试板" Xmtz="1.名称:接地测试卡" Gcnr="" Jsgz="按设计图示数量计算" Dw="块" Sl="4" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="" Mc="电缆电线及配管" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="9" Qdbm="030411001001" Mc="配管" Xmtz="1.名称:电缆保护管
+2.材质:钢管
+3.规格:SC65
+4.配置形式:暗配" Gcnr="" Jsgz="按设计图示尺寸以长度计算" Dw="m" Sl="12.6" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="10" Qdbm="030408001001" Mc="电力电缆" Xmtz="1.名称:电力电缆
+2.型号:YJV22
+3.规格:4*16
+4.材质:铜芯
+5.敷设方式、部位:详图纸" Gcnr="" Jsgz="按设计图示尺寸以长度计算（含预留长度及附加长度）" Dw="m" Sl="14.45" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="11" Qdbm="030408006001" Mc="电力电缆头" Xmtz="1.名称:电力电缆头
+2.规格:16mm2以下" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="12" Qdbm="030411001002" Mc="配管" Xmtz="1.名称:钢管
+2.材质:SC
+3.规格:DN20
+4.配置形式:详图纸" Gcnr="" Jsgz="按设计图示尺寸以长度计算" Dw="m" Sl="150.45" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="13" Qdbm="030411004001" Mc="配线" Xmtz="1.名称:管内穿线
+2.配线形式:动力线路
+3.型号:BYJ
+4.规格:4
+5.材质:铜芯
+6.配线部位:暗敷" Gcnr="" Jsgz="按设计图示尺寸以单线长度计算（含预留长度）" Dw="m" Sl="460.35" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+                <QdBt Xh="" Mc="灯具开关及插座" Je="0" Zgj="0" Bz="">
+                    <Qdmx Xh="14" Qdbm="030412002001" Mc="工厂灯" Xmtz="1.名称:深照型灯(灯具做隔热处理)
+2.规格:100W（低温防爆）" Gcnr="" Jsgz="按设计图示数量计算" Dw="套" Sl="14" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                    <Qdmx Xh="15" Qdbm="030904003001" Mc="按钮" Xmtz="1.名称:信号灯按钮
+2.规格:详图纸" Gcnr="" Jsgz="按设计图示数量计算" Dw="个" Sl="2" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                </QdBt>
+            </Qdxm>
+            <Csxm>
+                <ZjCs>
+                    <ZjCsMx Xh="1" Bm="031302001001" Mc="安全文明施工" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="1"/>
+                    <ZjCsMx Xh="2" Bm="031302001002" Mc="其中：环境保护费、文明施工费、安全施工费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0" Je="0" Xmlb="1.1"/>
+                    <ZjCsMx Xh="3" Bm="031302001003" Mc="其中：临时设施费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="1.61" Je="0" Xmlb="1.2"/>
+                    <ZjCsMx Xh="4" Bm="031302002001" Mc="夜间施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="14"/>
+                    <ZjCsMx Xh="5" Bm="031302004001" Mc="二次搬运费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0" Je="0" Xmlb="5"/>
+                    <ZjCsMx Xh="6" Bm="031302005001" Mc="冬雨季施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="9"/>
+                    <ZjCsMx Xh="7" Bm="031302006001" Mc="已完工程及设备保护费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.07" Je="0" Xmlb="4"/>
+                    <ZjCsMx Xh="8" Bm="031301009001" Mc="特殊地区增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="8"/>
+                    <ZjCsMx Xh="9" Bm="X031302008001" Mc="工程定位复测、点交清理费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.27" Je="0" Xmlb="3"/>
+                    <ZjCsMx Xh="10" Bm="X031302010001" Mc="检验试验费" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="2"/>
+                    <ZjCsMx Xh="11" Bm="X031302010002" Mc="其中：自检试验费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="2.1"/>
+                    <ZjCsMx Xh="12" Bm="X031302010003" Mc="其中：检验试验配合费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.18" Je="0" Xmlb="2.2"/>
+                    <ZjCsMx Xh="13" Bm="03B991" Mc="竣工档案编制费" Js="0" Jsgs="分部分项人工费+单价措施项目人工费" Fl="0.32" Je="0" Xmlb="7"/>
+                </ZjCs>
+                <DjCs/>
+            </Csxm>
+            <Qtxm>
+                <QtxmMx Xh="1" Mc="暂列金额" Dw="" Je="0" Xmlb="1" Bz=""/>
+                <QtxmMx Xh="2" Mc="暂估价" Dw="" Je="0" Xmlb="2" Bz=""/>
+                <QtxmMx Xh="2.1" Mc="材料暂估价" Dw="" Je="0" Xmlb="2.1" Bz=""/>
+                <QtxmMx Xh="2.2" Mc="专业工程暂估价" Dw="" Je="0" Xmlb="2.2" Bz=""/>
+                <QtxmMx Xh="2.3" Mc="施工技术专项措施项目暂估价" Dw="" Je="0" Xmlb="2.3" Bz=""/>
+                <QtxmMx Xh="3" Mc="计日工" Dw="" Je="0" Xmlb="3" Bz=""/>
+                <QtxmMx Xh="4" Mc="总承包服务费" Dw="" Je="0" Xmlb="4" Bz=""/>
+            </Qtxm>
+            <Zlje/>
+            <Clzg/>
+            <Zygczg/>
+            <Sgcszg/>
+            <Jrg>
+                <JrgBt Xh="1" Mc="人工" Je="0" Lb="1"/>
+                <JrgBt Xh="2" Mc="材料" Je="0" Lb="2"/>
+                <JrgBt Xh="3" Mc="机械" Je="0" Lb="3"/>
+                <JrgBt Xh="4" Mc="管理费和利润" Je="0" Lb="4"/>
+            </Jrg>
+            <Zcbfwf>
+                <ZcbfwfMx Xh="1" Mc="专业发包工程管理费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+                <ZcbfwfMx Xh="2" Mc="甲供材料设备保管费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+            </Zcbfwf>
+            <Fbrgycl/>
+            <CbrZyClZjxx/>
+            <Rcjhz/>
+            <JpCl/>
+            <Jjcx/>
+        </Dwgcxx>
+    </Dxgcxx>
+    <Dxgcxx Dxgcbh="X02" Dxgcmc="室外附属工程" Je="0" Gf="0" Aqwmf="0" Zgj="0" Jzmj="0">
+        <Dwgcxx Dwgcbh="X02A01" Dwgcmc="建筑与装饰工程" Zylb="6" Dexl="2020" Jzmj="0" Gclb="三类" JtZy="15">
+            <Fywj>
+                <FywjMx Xh="一" Bm="A" Mc="分部分项工程费" Jsjc="分部分项合计" Jsgs="FBFXHJ" Fl="100" Je="0" Zgj="0" Fyxlb="1"/>
+                <FywjMx Xh="二" Bm="B" Mc="措施项目费" Jsjc="措施项目合计" Jsgs="CSXMHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2"/>
+                <FywjMx Xh="2.1" Bm="B1" Mc="单价措施项目费" Jsjc="单价措施项目合计" Jsgs="DJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.2"/>
+                <FywjMx Xh="2.2" Bm="B2" Mc="总价措施项目费" Jsjc="总价措施项目合计" Jsgs="ZJCSHJ" Fl="100" Je="0" Zgj="0" Fyxlb="2.1"/>
+                <FywjMx Xh="2.21" Bm="B21" Mc="其中：安全文明施工费" Jsjc="安全文明施工费" Jsgs="AQWMSGF" Fl="100" Je="0" Zgj="0" Fyxlb="2.1.1"/>
+                <FywjMx Xh="三" Bm="C" Mc="其他项目费" Jsjc="暂列金额+暂估价+计日工+总承包服务费" Jsgs="C1+C2+C3+C4" Fl="100" Je="0" Zgj="0" Fyxlb="3"/>
+                <FywjMx Xh="3.1" Bm="C1" Mc="暂列金额" Jsjc="暂列金额" Jsgs="暂列金额" Fl="100" Je="0" Zgj="0" Fyxlb="3.1"/>
+                <FywjMx Xh="3.2" Bm="C2" Mc="暂估价" Jsjc="专业工程暂估价+施工技术专项措施项目暂估价" Jsgs="专业工程暂估价+施工技术专项措施项目暂估价" Fl="100" Je="0" Zgj="0" Fyxlb="3.5"/>
+                <FywjMx Xh="3.3" Bm="C3" Mc="计日工" Jsjc="计日工" Jsgs="计日工" Fl="100" Je="0" Zgj="0" Fyxlb="3.3"/>
+                <FywjMx Xh="3.4" Bm="C4" Mc="总承包服务费" Jsjc="总承包服务费" Jsgs="总承包服务费" Fl="100" Je="0" Zgj="0" Fyxlb="3.4"/>
+                <FywjMx Xh="四" Bm="D" Mc="规费" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Zgj="0" Fyxlb="4"/>
+                <FywjMx Xh="五" Bm="E" Mc="税前工程造价" Jsjc="分部分项工程费+措施项目费+其他项目费+规费" Jsgs="A+B+C+D" Fl="100" Je="0" Zgj="0" Fyxlb="9"/>
+                <FywjMx Xh="六" Bm="F" Mc="税金" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Zgj="0" Fyxlb="5"/>
+                <FywjMx Xh="七" Bm="" Mc="建设工程造价" Jsjc="税前工程造价+税金" Jsgs="E+F" Fl="100" Je="0" Zgj="0" Fyxlb="6"/>
+            </Fywj>
+            <Gfsj>
+                <GfsjMx Xh="四" Bm="D" Mc="规费" Qfjs="0" Jsjc="社会保险费+住房公积金" Jsgs="D1+D2" Fl="100" Je="0" Fyxlb="1"/>
+                <GfsjMx Xh="4.1" Bm="D1" Mc="社会保险费" Qfjs="0" Jsjc="养老保险费+失业保险费+医疗保险费(生育保险费)+工伤保险费" Jsgs="D11+D12+D13+D14" Fl="100" Je="0" Fyxlb="1.2"/>
+                <GfsjMx Xh="4.11" Bm="D11" Mc="养老保险费" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="4.31" Je="0" Fyxlb="1.2.1"/>
+                <GfsjMx Xh="4.12" Bm="D12" Mc="失业保险费" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="0.38" Je="0" Fyxlb="1.2.2"/>
+                <GfsjMx Xh="4.13" Bm="D13" Mc="医疗保险费(生育保险费)" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="1.37" Je="0" Fyxlb="1.2.3"/>
+                <GfsjMx Xh="4.14" Bm="D14" Mc="工伤保险费" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="0.19" Je="0" Fyxlb="1.2.5"/>
+                <GfsjMx Xh="4.2" Bm="D2" Mc="住房公积金" Qfjs="0" Jsjc="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Jsgs="RGF+JXF+DJCS_RGF+DJCS_JXF" Fl="0.94" Je="0" Fyxlb="1.3"/>
+                <GfsjMx Xh="六" Bm="F" Mc="税金" Qfjs="0" Jsjc="税前工程造价" Jsgs="E" Fl="9" Je="0" Fyxlb="2"/>
+                <GfsjMx Xh="六" Bm="K" Mc="合计" Qfjs="0" Jsjc="规费+税金" Jsgs="D+F" Fl="100" Je="0" Fyxlb="3"/>
+            </Gfsj>
+            <Qdxm>
+                <Qdmx Xh="1" Qdbm="010101001001" Mc="路基碾压" Xmtz="1.土壤类别:一、二类土，路基碾压" Gcnr="" Jsgz="按设计图示尺寸以建筑物首层建筑面积计算" Dw="m2" Sl="1000" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="2" Qdbm="010404001001" Mc="垫层" Xmtz="1.垫层材料种类、配合比、厚度:100厚碎石碾压" Gcnr="" Jsgz="按设计图示尺寸以立方米计算" Dw="m3" Sl="100" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="3" Qdbm="010404001002" Mc="垫层" Xmtz="1.垫层材料种类、配合比、厚度:300厚天然级配砂砾石碾压，分两层碾实" Gcnr="" Jsgz="按设计图示尺寸以立方米计算" Dw="m3" Sl="300" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="4" Qdbm="011101003001" Mc="细石混凝土楼地面" Xmtz="1.找平层厚度、砂浆配合比:50厚C20细石混凝土找平层" Gcnr="" Jsgz="按设计图示尺寸以面积计算。扣除凸出地面构筑物、设备基础、室内铁道、地沟等所占面积，不扣除间壁墙及≤0.3m2柱、垛、附墙烟囱及孔洞所占面积。门洞、空圈、暖气包槽、壁龛的开口部分不增加面积" Dw="m2" Sl="1000" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="5" Qdbm="010501001001" Mc="垫层" Xmtz="1.混凝土种类:220厚C30混凝土面层
+2.备注:内配a12@200双向钢筋" Gcnr="" Jsgz="按设计图示尺寸以体积计算。不扣除伸入承台基础的桩头所占体积" Dw="m3" Sl="220" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+                <Qdmx Xh="6" Qdbm="010904004001" Mc="楼（地）面变形缝" Xmtz="1.嵌缝材料种类:沥青砂填缝
+2.止水带材料种类:铺油毡两层" Gcnr="" Jsgz="按设计图示以长度计算" Dw="m" Sl="333.33" Zhdj="0" Rgf="0" Zcf="0" Fcf="0" Sbf="0" Clf="0" Jxf="0" Rgjj="0" Zcjj="0" Fcjj="0" Sbjj="0" Cljj="0" Jxjj="0" RcjJc="0" Glf="0" Lr="0" Fxf="0" Zhhj="0" Zgj="0" Jgf="0" Zgr="0" Bz=""/>
+            </Qdxm>
+            <Csxm>
+                <ZjCs>
+                    <ZjCsMx Xh="1" Bm="011707001001" Mc="安全文明施工" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="1"/>
+                    <ZjCsMx Xh="2" Bm="011707001002" Mc="其中：环境保护费、文明施工费、安全施工费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="2.8" Je="0" Xmlb="1.1"/>
+                    <ZjCsMx Xh="3" Bm="011707001003" Mc="其中：临时设施费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="1.38" Je="0" Xmlb="1.2"/>
+                    <ZjCsMx Xh="4" Bm="011707001004" Mc="其中：智慧工地基础配置费" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="1.10"/>
+                    <ZjCsMx Xh="5" Bm="011707002001" Mc="夜间施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="14"/>
+                    <ZjCsMx Xh="6" Bm="011707004001" Mc="二次搬运费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0" Je="0" Xmlb="5"/>
+                    <ZjCsMx Xh="7" Bm="011707005001" Mc="冬雨季施工增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="9"/>
+                    <ZjCsMx Xh="8" Bm="011707007001" Mc="已完工程及设备保护费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.07" Je="0" Xmlb="4"/>
+                    <ZjCsMx Xh="9" Bm="X011707008001" Mc="工程定位复测、点交清理费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.08" Je="0" Xmlb="3"/>
+                    <ZjCsMx Xh="10" Bm="X011707010001" Mc="检验试验费" Js="0" Jsgs="" Fl="100" Je="0" Xmlb="2"/>
+                    <ZjCsMx Xh="11" Bm="X011707010002" Mc="其中：自检试验费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="2.1"/>
+                    <ZjCsMx Xh="12" Bm="X011707010003" Mc="其中：检验试验配合费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.11" Je="0" Xmlb="2.2"/>
+                    <ZjCsMx Xh="13" Bm="X011707011001" Mc="特殊地区增加费" Js="0" Jsgs="" Fl="0" Je="0" Xmlb="8"/>
+                    <ZjCsMx Xh="14" Bm="01B991" Mc="竣工档案编制费" Js="0" Jsgs="分部分项人工费+分部分项机械费+单价措施项目人工费+单价措施项目机械费" Fl="0.27" Je="0" Xmlb="7"/>
+                </ZjCs>
+                <DjCs/>
+            </Csxm>
+            <Qtxm>
+                <QtxmMx Xh="1" Mc="暂列金额" Dw="" Je="0" Xmlb="1" Bz=""/>
+                <QtxmMx Xh="2" Mc="暂估价" Dw="" Je="0" Xmlb="2" Bz=""/>
+                <QtxmMx Xh="2.1" Mc="材料暂估价" Dw="" Je="0" Xmlb="2.1" Bz=""/>
+                <QtxmMx Xh="2.2" Mc="专业工程暂估价" Dw="" Je="0" Xmlb="2.2" Bz=""/>
+                <QtxmMx Xh="2.3" Mc="施工技术专项措施项目暂估价" Dw="" Je="0" Xmlb="2.3" Bz=""/>
+                <QtxmMx Xh="3" Mc="计日工" Dw="" Je="0" Xmlb="3" Bz=""/>
+                <QtxmMx Xh="4" Mc="总承包服务费" Dw="" Je="0" Xmlb="4" Bz=""/>
+            </Qtxm>
+            <Zlje/>
+            <Clzg/>
+            <Zygczg/>
+            <Sgcszg/>
+            <Jrg>
+                <JrgBt Xh="1" Mc="人工" Je="0" Lb="1"/>
+                <JrgBt Xh="2" Mc="材料" Je="0" Lb="2"/>
+                <JrgBt Xh="3" Mc="机械" Je="0" Lb="3"/>
+                <JrgBt Xh="4" Mc="管理费和利润" Je="0" Lb="4"/>
+            </Jrg>
+            <Zcbfwf>
+                <ZcbfwfMx Xh="1" Mc="专业发包工程管理费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+                <ZcbfwfMx Xh="2" Mc="甲供材料设备保管费" Xmjz="0" Fwnr="" Jsjc="0" Fl="0" Je="0"/>
+            </Zcbfwf>
+            <Fbrgycl/>
+            <CbrZyClZjxx/>
+            <Rcjhz/>
+            <JpCl/>
+            <Jjcx/>
+        </Dwgcxx>
+    </Dxgcxx>
+</JingJiBiao>

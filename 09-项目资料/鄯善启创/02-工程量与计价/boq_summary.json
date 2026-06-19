@@ -1,0 +1,13 @@
+{
+  "total_labor": 12751100.0,
+  "total_material": 45664000.0,
+  "total_machine": 3902450.0,
+  "direct_cost": 62317550.0,
+  "measures": 2804289.75,
+  "management": 17448914.0,
+  "profit": 11217159.0,
+  "fees": 3663781.0,
+  "tax": 8770652.4375,
+  "total_with_tax": 106222346.1875,
+  "total_wan": 10622.23461875
+}

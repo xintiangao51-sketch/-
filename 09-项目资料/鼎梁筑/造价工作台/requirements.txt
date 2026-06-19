@@ -1,0 +1,24 @@
+# 鼎梁筑智能造价工作台 — 依赖清单
+# 安装: pip install -r requirements.txt --break-system-packages
+
+# === 核心依赖 ===
+openpyxl>=3.1.0          # Excel读写
+pyyaml>=6.0              # YAML配置解析
+chardet>=5.0.0           # 编码检测
+
+# === OCR依赖（Layer 1） ===
+pdfplumber>=0.9.0        # PDF文本提取
+# paddlepaddle>=3.0.0    # PaddleOCR引擎（较大，按需安装）
+# paddleocr>=2.7.0       # OCR识别
+# pdf2image>=1.16.0      # PDF转图片（需poppler）
+
+# === 爬虫依赖（xj_cost_crawler） ===
+requests>=2.28.0         # HTTP请求
+beautifulsoup4>=4.12.0   # HTML解析
+lxml>=4.9.0              # XML解析器
+
+# === 可选依赖 ===
+# jieba>=0.42.1           # 中文分词（精华提炼）
+# scikit-learn>=1.2.0     # TF-IDF相似度（去冗扫描）
+# pandas>=2.0.0           # 数据分析
+# gradio>=4.0.0           # Web界面（可选）
