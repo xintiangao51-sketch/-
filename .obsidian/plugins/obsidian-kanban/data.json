@@ -1,3 +1,9 @@
 {
-  "show-checkboxes": true
+  "show-checkboxes": true,
+  "hide-card-count": true,
+  "full-list-lane-width": true,
+  "move-tags": true,
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "append-archive-date": true
 }

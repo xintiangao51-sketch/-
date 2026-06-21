@@ -1,0 +1,149 @@
+{
+  "channel": "新疆公共资源交易网-招标公告",
+  "source_url": "https://ggzy.xinjiang.gov.cn/xinjiangggzy/jyxx/004001/004001001/",
+  "fetch_status": "partial (via WebSearch proxy, 主站egress受限)",
+  "fetch_time": "2026-06-14T10:00:00+08:00",
+  "notes": "主站ggzy.xinjiang.gov.cn因Cowork egress限制无法直连。通过搜索引擎从多个招标平台汇总获取房建/市政/水利类项目。部分项目来自政府采购网、军队采购网、各地州交易网等补充渠道。",
+  "items": [
+    {
+      "project_name": "乌鲁木齐市第64中学新建高中教学综合楼项目",
+      "bidder": "乌鲁木齐市第64中学",
+      "estimated_cost": "8174.02万元",
+      "date": "2026-06-12",
+      "category": "房建",
+      "location": "乌鲁木齐市",
+      "url": "http://zwfw.wlmq.gov.cn/ggzy/jyxx/001001/001001001/20260612/71bae691-9c09-423f-b133-e613ff1e7b1e.html",
+      "summary": "新建高中教学综合楼，总建筑面积13328.35㎡，资格预审公告。"
+    },
+    {
+      "project_name": "新疆师范大学温泉校区二期工程学生公寓17号楼建设项目",
+      "bidder": "新疆师范大学",
+      "estimated_cost": "1.2亿元",
+      "date": "2026-06-02",
+      "category": "房建",
+      "location": "乌鲁木齐市",
+      "url": "http://zwfw.wlmq.gov.cn/ggzy/jyxx/001001/001001008/20260602/7a29f30c-10a1-41ee-8e33-23b387babc84.html",
+      "summary": "学生公寓17号楼，总建筑面积25000㎡，招标计划表阶段，预计7月10日发正式公告。"
+    },
+    {
+      "project_name": "阿勒泰市火车站周边管网提升改造项目（一标段）-EPC",
+      "bidder": "阿勒泰市住房和城乡建设局",
+      "estimated_cost": "⚠待核实（管网总长48.79km）",
+      "date": "2026-06-02",
+      "category": "市政",
+      "location": "阿勒泰市",
+      "url": "http://xjaltggzy.gov.cn/jyxx/004001/004001002/20260602/e76f6f57-e1f8-4a5d-abc9-431cc4d2cd3d.html",
+      "summary": "新建热力管网24.97km、供水1.12km、排水1.82km、绿化水管19.88km及道路恢复。资质：市政贰级+GB2。"
+    },
+    {
+      "project_name": "克州乌恰县平安路改扩建项目",
+      "bidder": "乌恰县住房和城乡建设局",
+      "estimated_cost": "⚠待核实（道路1754m）",
+      "date": "2026-06-13",
+      "category": "市政",
+      "location": "克州乌恰县",
+      "url": "http://kzggzyjy.com.cn:8024/jyxx/001001/001001001/20260613/b44508c4-eedb-49c9-a462-c3b9098b304b.html",
+      "summary": "改扩建道路1754m，配套电力、通讯、雨水管网。资质：市政贰级，评标：评定分离法。"
+    },
+    {
+      "project_name": "阿图什市吐古买提乡四个村防洪坝项目",
+      "bidder": "阿图什市水利局（推测）",
+      "estimated_cost": "631万元",
+      "date": "2026-06-11",
+      "category": "水利",
+      "location": "克州阿图什市",
+      "url": "https://slt.xinjiang.gov.cn/xjslt/c114434/202606/962de23c5e444b9b9e0e4237268abd2c.shtml",
+      "summary": "新建防洪坝2181m及穿堤涵管。"
+    },
+    {
+      "project_name": "麦盖提县斗渠现代化改造项目施工七标段",
+      "bidder": "麦盖提县水利局（推测）",
+      "estimated_cost": "4537万元",
+      "date": "2026-06-08",
+      "category": "水利",
+      "location": "喀什麦盖提县",
+      "url": "https://slt.xinjiang.gov.cn/xjslt/c114434/202606/15aa04c0936543b695d8da4f2665d42d.shtml",
+      "summary": "斗渠节水改造45.43km及配套渠系建筑物。"
+    },
+    {
+      "project_name": "托什干河阿合奇段河道综合整治及生态廊道修复工程(防洪丁坝三期)",
+      "bidder": "阿合奇县水利局（推测）",
+      "estimated_cost": "1037万元",
+      "date": "2026-06-04",
+      "category": "水利",
+      "location": "克州阿合奇县",
+      "url": "https://slt.xinjiang.gov.cn/xjslt/c114434/202606/59abee46a1214f09a2e6f8879e395d77.shtml",
+      "summary": "修建透水丁坝16座。"
+    },
+    {
+      "project_name": "第十师182团2026年农田水利以工代赈项目",
+      "bidder": "第十师182团",
+      "estimated_cost": "720万元",
+      "date": "2026-06-13",
+      "category": "水利",
+      "location": "兵团第十师",
+      "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260613_26746484.htm",
+      "summary": "渠道改造5.34km，排水沟改造24.4km。"
+    },
+    {
+      "project_name": "乌什县亚科瑞克乡托万克喀赞其（9）村防渗渠建设项目",
+      "bidder": "乌什县水利局（推测）",
+      "estimated_cost": "582万元",
+      "date": "2026-06-09",
+      "category": "水利",
+      "location": "阿克苏乌什县",
+      "url": "https://ggzy.akszwfw.cn/aksggzy/jyxx/001001/001001001/20260609/03056ac3-f740-4c79-98fe-5f0393b9f035.html",
+      "summary": "新建防渗渠7公里及配套设施。"
+    },
+    {
+      "project_name": "第二师塔里木灌区恰铁干渠引调水工程造价咨询服务",
+      "bidder": "新疆生产建设兵团第二师水利工程管理服务中心",
+      "estimated_cost": "69万元（造价咨询费）",
+      "date": "2026-06-13",
+      "category": "水利（造价咨询）",
+      "location": "兵团第二师",
+      "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260613_26746856.htm",
+      "summary": "施工阶段全过程造价咨询服务采购。造价同行关注。"
+    },
+    {
+      "project_name": "某部公寓住房室内标准化装修工程（2026-JLJZAD-G1001）",
+      "bidder": "某部（军队）",
+      "estimated_cost": "265万元",
+      "date": "2026-06-11",
+      "category": "房建（军队）",
+      "location": "阿克苏",
+      "url": "https://www.plap.mil.cn/freecms/site/juncai/ggxx/info/2026/8a1d04c59e9211fe019ea6ae75d471c8.html",
+      "summary": "公寓住房室内标准化装修，军队采购项目。"
+    },
+    {
+      "project_name": "某部房屋新建工程项目（2026-JLJFEC-G1001）",
+      "bidder": "某部（军队）",
+      "estimated_cost": "165.59万元",
+      "date": "2026-06-10",
+      "category": "房建（军队）",
+      "location": "塔城市164团",
+      "url": "https://www.xinecai.com/markerswebnotice/995284130855196880.html",
+      "summary": "房屋新建工程。"
+    },
+    {
+      "project_name": "乌鲁木齐市新市区消防救援大队安宁渠消防救援站营房设施改造修缮",
+      "bidder": "乌鲁木齐市新市区消防救援大队",
+      "estimated_cost": "118万元",
+      "date": "2026-06-12",
+      "category": "房建",
+      "location": "乌鲁木齐市",
+      "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202606/t20260612_26744013.htm",
+      "summary": "消防站营房设施改造修缮。"
+    },
+    {
+      "project_name": "中国邮政集团区分公司维修改造项目",
+      "bidder": "中国邮政集团新疆区分公司",
+      "estimated_cost": "247.50万元",
+      "date": "2026-06-02",
+      "category": "房建",
+      "location": "乌鲁木齐市",
+      "url": "https://www.chinapost.com.cn/cn/report/2606/1084-1.htm",
+      "summary": "邮政区分公司及邮区中心维修改造。"
+    }
+  ]
+}

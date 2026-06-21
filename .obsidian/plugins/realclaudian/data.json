@@ -3,18 +3,9 @@
     "openTabs": [
       {
         "tabId": "tab-1781426365494-4x7znje",
-        "conversationId": "conv-1781609216258-zgw4bramn"
-      },
-      {
-        "draftModel": "opus",
-        "tabId": "tab-1781522997759-i4wb7ze",
-        "conversationId": null
-      },
-      {
-        "tabId": "tab-1781683191796-azy7dsb",
-        "conversationId": "conv-1781683424992-8dke4yfu1"
+        "conversationId": "conv-1782029635508-o0m3lp55v"
       }
     ],
-    "activeTabId": "tab-1781683191796-azy7dsb"
+    "activeTabId": "tab-1781426365494-4x7znje"
   }
 }

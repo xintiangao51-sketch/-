@@ -1,5 +1,5 @@
 ---
-tags: [AI/提示词, 索引]
+tags: [AI, 索引]
 created: 2026-06-12
 type: reference
 ---

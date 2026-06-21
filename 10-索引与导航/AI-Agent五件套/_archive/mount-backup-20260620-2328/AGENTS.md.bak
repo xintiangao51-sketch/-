@@ -1,0 +1,107 @@
+﻿# AGENTS.md for D:\Codex_Workspace
+
+> 新疆工程造价工作台 — 老高（高治国）
+> 最后更新：2026-06-19
+> 基于动态费率规则与新疆2024版造价工作流修正
+
+---
+
+## 一、身份定位 · IDENTITY
+
+| 项目 | 内容 |
+|------|------|
+| 姓名 | 高治国（老高） |
+| 地区 | 新疆 |
+| 行业 | 建筑工程 / 造价 / 成本控制 |
+| 专业方向 | 预算编制、成本拆解、合同审查、方案比选、图纸会审 |
+| 工作单位 | 鼎梁筑智能造价工作台开发者 |
+| 沟通风格 | 直接、务实、不磨叽 |
+
+## 二、技术参数 · TECH PARAMS
+
+| 参数 | 默认值 | 状态 |
+|------|--------|------|
+| 定额版本 | **新疆2024版**现行适用定额/计价依据 | ✅ 默认按现行新疆依据核对 |
+| 费用定额 | 按合同、招标文件、清单说明、政策文件动态确认 | ⚠ 缺依据时标注 |
+| 管理费费率 | 不设固定默认值 | ⚠费率待确认 |
+| 利润费率 | 不设固定默认值 | ⚠费率待确认 |
+| 规费费率 | 不设固定默认值 | ⚠费率待确认 |
+| 税率 | 按项目适用税制、合同及现行政策确认 | ⚠ 缺依据时标注 |
+| 成本拆解 | 四维：人工/辅材/主材/机械 | ✅ |
+
+### 费率确认原则
+
+- 管理费、利润、规费、税金等费率不得写死为永久固定值，不再默认套用“管理费28%、利润18%、规费22%、税9%”。
+- 优先依据：合同条款、招标文件、工程量清单说明、答疑/补遗、项目所在地政策、适用计价文件。
+- 次级依据：项目经理确认的内部目标费率、同类项目历史参数；使用时必须注明来源和适用边界。
+- 缺少依据时，一律标注 `⚠费率待确认`，并列出需要补充的文件或确认人。
+
+## 三、输出前自检清单 · PRE-FLIGHT CHECK
+
+- [ ] ① 定额是否为新疆**2024版**或项目明确要求的现行新疆计价依据（非旧版/非全国通用版）
+- [ ] ② 人工/材料单价是否有当期新疆市场依据
+- [ ] ③ 取费费率是否有合同/招标/政策/项目策略依据；缺依据已标 `⚠费率待确认`
+- [ ] ④ 成本完成四维拆解（人工/辅材/主材/机械）
+- [ ] ⑤ 数值全部精准，不明处标⚠
+- [ ] ⑥ 合同绑定具体法条编号
+- [ ] ⑦ 风险按 🔴🟡🔵 三级标注
+- [ ] ⑧ 方案提供2~3项比选 + 新疆本地案例
+- [ ] ⑨ 输出可直接复用
+- [ ] ⑩ 整篇简洁无冗余
+
+## 四、已安装技能 · INSTALLED SKILLS
+
+### 核心造价
+| xinjiang-cost-engineer | 组价/变更/比选/进度/提量/合同 |
+| xinjiang-drawing-review | 新疆工程审图专家 |
+| drawing-review-checklist | 施工图会审检查清单生成 |
+
+### 文档与知识
+| pdf | PDF读取/生成 |
+| ima-skill | IMA知识库+笔记 |
+
+### 浏览器与测试
+| playwright | 浏览器自动化 |
+| Browser 插件 | 内置浏览器 |
+| Chrome 插件 | Chrome控制 |
+
+### 前端设计（鼎梁筑工作台UI）
+| impeccable | 界面设计/审查/优化 |
+| design-taste-frontend 等13项 | 前端设计方向 |
+
+### 系统
+| imagegen | AI图片生成 |
+| openai-docs | OpenAI文档查询 |
+| skill-installer | 技能安装管理 |
+
+### 本次新增 · 2026-06-16
+| Deep Research Codex 中文版 | research-codex-zh / research-deep-codex-zh / research-report-codex-zh |
+| DDC 造价/合同/文档技能精选 | ddc-* 共 14 个，实体在 D:\Codex_Workspace\skills_plugins\codex-skills |
+| 触发原则 | 遇到深度研究、方案比选、变更、进度款、合同条款、图纸/PDF结构化、KPI/可视化、DOCX/XLSX输出时优先结合对应 skill |
+
+## 五、运行时配置
+
+- 模型：DeepSeek v4 Pro (127.0.0.1:15721/v1)
+- 启用 MCP：node_repl、openaiDeveloperDocs（https://developers.openai.com/mcp）
+- 启用插件：Browser、Chrome
+- 文档工具：openpyxl 3.1.5 + python-docx 1.2.0
+
+## 六、MCP 服务器配置 · MCP SERVERS
+
+| 名称 | URL | 用途 |
+|------|-----|------|
+| openaiDeveloperDocs | https://developers.openai.com/mcp | OpenAI API / ChatGPT Apps SDK / Codex 开发文档 |
+| node_repl | 本地 | JavaScript 执行 / 浏览器自动化 |
+| filesystem | D:\Codex_Workspace\npm-global\mcp-server-filesystem.cmd | 允许目录：D:\Codex_Workspace 及其 skills_plugins、mcp-servers |
+| context7 | D:\Codex_Workspace\npm-global\context7-mcp.cmd | 动态官方文档查询 |
+| firecrawl | D:\Codex_Workspace\npm-global\firecrawl-mcp.cmd | Web scrape/search，当前 keyless 模式，复杂功能需 FIRECRAWL_API_KEY |
+| mcp_cron | D:\Codex_Workspace\npm-global\mcp-cron.cmd | 复杂定时任务，数据库/日志放 D:\Codex_Workspace\mcp-servers\mcp-cron |
+
+## 七、D盘安装约定 · LOCAL INSTALL POLICY
+
+- 新装 Codex Skill 实体优先放 `D:\Codex_Workspace\skills_plugins\codex-skills`，`C:\Users\20752\.codex\skills` 只放 Junction 入口。
+- 新装 npm 类 MCP 优先使用 `D:\Codex_Workspace\npm-global` 作为 prefix，`D:\Codex_Workspace\npm-cache` 作为缓存。
+- MCP 源码归档放 `D:\Codex_Workspace\mcp-servers`。
+- WebFetch 本地 tarball 因 `workspace:*` 依赖未接入；ChatExcel 源码已归档但依赖过重，按需建独立虚拟环境；mcp-pdf-reader 当前仓库二进制不是 Windows 可执行，需 Go 或 Windows release exe 后再启用。
+
+Always use the OpenAI developer documentation MCP server if you need to work with the OpenAI API, ChatGPT Apps SDK, Codex, etc. — without me having to explicitly ask.

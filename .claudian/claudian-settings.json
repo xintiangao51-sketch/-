@@ -49,19 +49,19 @@
       "enableBangBash": false,
       "enableOpus1M": true,
       "enableSonnet1M": true,
-      "customModels": "",
+      "customModels": " claude-opus-4-8",
       "lastModel": "opus[1m]",
       "environmentVariables": "",
       "environmentHash": ""
     },
     "codex": {
-      "enabled": false,
+      "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {
-        "device:fb1bbbba-e9d4-4853-94dd-955562e29387": "C:\\Users\\20752\\AppData\\Roaming\\npm\\codex.ps1"
+        "device:fb1bbbba-e9d4-4853-94dd-955562e29387": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.616.6631.0_x64__2p2nqsd0c76g0\\app\\resources\\codex.exe"
       },
-      "customModels": "",
+      "customModels": " claude-opus-4-8",
       "reasoningSummary": "auto",
       "environmentVariables": "",
       "environmentHash": "",
