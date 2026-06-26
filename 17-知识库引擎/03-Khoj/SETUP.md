@@ -96,12 +96,13 @@ Chrome / Edge 商店搜 **Khoj** → 装扩展 → 配 URL `http://localhost:421
 
 ## 四、常见坑
 
-| 坑 | 解决 |
-|---|---|
-| pip 装超时 | 加镜像源：`pip install khoj -i https://pypi.tuna.tsinghua.edu.cn/simple` |
-| 启动后访问 502 | torch 还在下载，看终端日志，等完 |
-| 索引慢 | 第一次正常，后续增量很快 |
-| Obsidian 搜不到结果 | 检查 D:\知识库 已索引、Watch 已开 |
+| 坑              | 解决                                                                  |
+| -------------- | ------------------------------------------------------------------- |
+| pip 装超时        | 加镜像源：`pip install khoj -i https://pypi.tuna.tsinghua.edu.cn/simple` |
+| 启动后访问 502      | torch 还在下载，看终端日志，等完                                                 |
+| 索引慢            | 第一次正常，后续增量很快                                                        |
+| Obsidian 搜不到结果 | 检查 D:\知识库 已索引、Watch 已开                                              |
+|                |                                                                     |
 
 ---
 

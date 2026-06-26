@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [知识卡片, DDC, 数字驱动]
 created: 2026-06-24
 type: hub
