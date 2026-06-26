@@ -1,3 +1,9 @@
+---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 # 工程行业代理人角色模板库
 
 > 位置：`D:\知识库\agent-role-templates\construction-industry`  
@@ -41,3 +47,7 @@
 | 图纸提量/对量 | Construction Quantity Surveyor | Civil Engineer / Cost Estimator |
 | 施工组织/进度质量安全 | Construction Site Manager | Civil Engineer / Quantity Surveyor |
 | 知识库整理 | ZK Steward | Document Generator / Executive Summary Generator |
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

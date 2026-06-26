@@ -1,3 +1,9 @@
+---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 ﻿---
 tags: [合同, 合同/FIDIC, 索引]
 created: 2026-06-12
@@ -11,3 +17,7 @@ FROM "03-合同与法务/FIDIC条款"
 WHERE file.name != "FIDIC条款-总览" AND file.name != "README"
 SORT file.ctime DESC
 `
+
+---
+
+🔗 **合同法务总览**：[[03-合同与法务/合同与法务-总览]]

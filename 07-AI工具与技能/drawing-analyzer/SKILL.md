@@ -1,4 +1,7 @@
 ---
+tags: ["AI", "AI/文档"]
+created: 2026-06-24
+type: reference
 name: "drawing-analyzer"
 description: "Analyze construction drawings to extract dimensions, annotations, symbols, and metadata. Support quantity takeoff and design review automation."
 homepage: "https://datadrivenconstruction.io"
@@ -453,3 +456,7 @@ print(report)
 ```bash
 pip install pdfplumber
 ```
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

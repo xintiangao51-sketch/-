@@ -29,3 +29,7 @@ type: reference
 ## 结果
 ✅ Python 3.12.8 + pip 24.3.1 已安装
 ✅ volcengine-python-sdk 5.0.28 已安装（远高于修复重试缺陷的 4.0.43 版本）
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

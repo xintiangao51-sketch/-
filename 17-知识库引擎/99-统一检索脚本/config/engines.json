@@ -1,0 +1,36 @@
+{
+  "_comment": "三件套统一检索配置。未启用的引擎，把 enabled 设为 false 或留空 url/key 即可被自动跳过。",
+  "engines": {
+    "khoj": {
+      "enabled": true,
+      "url": "http://localhost:42110",
+      "api_key": "",
+      "_hint": "无 key 时走 anonymous 模式也能搜"
+    },
+    "anythingllm": {
+      "enabled": true,
+      "url": "http://localhost:3001",
+      "api_key": "",
+      "workspace": "",
+      "_hint": "在 AnythingLLM 设置→API Keys 生成 key，workspace 填工作区 slug"
+    },
+    "ragflow": {
+      "enabled": false,
+      "url": "http://localhost",
+      "api_key": "",
+      "kb_id": "",
+      "_hint": "RAGFlow 启动后再开 enabled，kb_id 在知识库列表点进去看 URL"
+    },
+    "local_md": {
+      "enabled": true,
+      "root": "D:\\知识库",
+      "exclude_dirs": [".obsidian", ".archive", ".tools", ".skillhub-install", ".claude", "node_modules", "99-归档库"],
+      "_hint": "本地 markdown 全文搜索，不依赖任何引擎"
+    }
+  },
+  "output": {
+    "dir": "D:\\知识库\\12-知识库引擎\\99-统一检索脚本\\output",
+    "save_md": true,
+    "top_per_engine": 8
+  }
+}

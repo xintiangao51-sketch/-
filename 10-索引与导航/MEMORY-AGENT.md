@@ -1,5 +1,17 @@
+---
+tags: [索引, 规范, 模板, 参考, 案例]
+created: 2026-06-24
+type: reference
+---
+
+﻿---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 # MEMORY-AGENT.md
-版本：1.1  
+版本：1.2  
 定位：鼎梁筑 AI Agent 协作体系 L2 温记忆载体
 整理日期：2026-06-20
 
@@ -151,3 +163,56 @@ L3 冷记忆存放原始资料、规范、模板、案例。
 ### 后续待办
 - L1 的 `MEMORY.md` 建议只保留“高频规则 + 当前主线 + 指针”，把项目全量事实、一次性盘点、工具版本快照、失败细节下沉到本文件或专项技能。
 - 对所有时间点快照类数据，复用前必须重新验证当前版本和路径。
+
+
+---
+
+## 2026-06-24 · v3.0 体系自洽化迭代（赫尔墨斯主导）
+
+任务来源：老高明确指令"自行学习以上 markdown 文件，并自我进行更新，迭代到该 3.0 版本"
+参与 Agent：赫尔墨斯（主导，调度+质检）、克劳德（研判+裁决）、科德克斯（执行+验证）、沃巴迪（评审）
+项目 / 场景：AI-Agent 五件套 → 六件套体系自洽化（v3.0.2）
+
+### 已确认事实
+- AI-Agent 五件套升级为六件套：新增 MEMORY.md v1.0 作为第六件核心文件。
+- 六件套主文件全部统一为 v3.0：SOUL.md / AGENTS.md / HERMES_PROFILE.md / CLAUDE_CODE_PROFILE.md / CODEX_PROFILE.md / WORKBUDDY_PROFILE.md。
+- 六维工程方法论 v3.0：Prompt / Context / Harness / Loop / Memory / Tool（v2.0 是 4 维，v3.0 新增 Harness + Tool）。
+- 12 Rules 全面内化（来自 Karpathy/Chang/Mnilax 社区，30 仓库验证错误率 41%→3%）。
+- 工作手册 v1.0→v2.0：4 份全部升级，与六件套/六维/12 Rules 全面对齐。
+- 工具专属六件套结构：claude-cowork/CLAUDE.md、codex/AGENTS.md、hermes/HERMES.md、workbuddy/WORKBUDDY.md 四份入口。
+- "八条铁律"→"十二条铁律"名实修复：v3.0 实际 12 条，原标题"八条"系 v2 旧名遗留。
+- frontmatter 渲染事故修复：CODEX_PROFILE.md 第 4 行 `type: reference\nversion: 3.0`（带字面反引号n的字符串）已字节级修复为正常双行 YAML。
+- 沃巴迪 MEMORY.md 主责强化：MAGMA 四维图谱维护 / L1-L2-L3 分层落盘 / 慢车道调度 / 月度记忆健康评分。
+
+### 新增规则
+- 体系版本基线：本轮 v3.0.2 为正式体系基线，后续所有变更必须先弹线再动工，不允许越界重新设计方法论。
+- 12 Rules 共同遵守：6 维方法论 + 12 Rules 体系不重新设计，仅做"内化落地"和"细节强化"两类迭代。
+- 工作手册版本对齐：Profile v3.0 时工作手册同步 v2.0；二者主从关系——Profile 主控，工作手册跟随。
+- 名实对齐铁律：标题、章节名、规则条目数必须与正文实际条目一致，迭代时同步校验。
+- frontmatter 校验铁律：写入或修改后必须用 [IO.File]::ReadAllText 验证首 5 行无渲染事故。
+
+### 工具坑点
+- read_file 工具在本环境走 sed 兜底会失败（"sed: The term 'sed' is not recognized"），对中文路径/内容返回空。
+- read_file 失败时改用 PowerShell：[IO.File]::ReadAllText(path, [Text.Encoding]::UTF8) 是稳定替代方案。
+- write_file 工具底层对 Windows 真实 D 盘写入可能沙箱隔离（"报 success 但 .NET Exists=False"），本环境实测可正常落盘。
+- patch 工具底层走 sed/awk，Windows PowerShell 5.1 上不可用；改用 PowerShell 字节级替换 [Text.Encoding]::UTF8.GetBytes() + 列表重建是稳定路径。
+- 反引号在 PowerShell 字符串中：单引号字面、双引号转义，但 [IO.File]::ReadAllText 调用时方括号位置易触发"Missing ')' in method call"解析错误。
+- PowerShell 字符串构造 here-string (@' '@) 中含 PowerShell 变量或反引号转义时易踩坑，复杂多行内容应优先用 here-string 或 here-string-with-quote 模式。
+
+### 可复用流程
+- v3.0 体系自洽化迭代 SOP：① 读取全部相关文件清单 ② 字节级 + 编码双校验首 5 行 ③ 列出冲突/空白/低效点 ④ 优先级矩阵 P0-P1-P2 分级 ⑤ 先弹线范围确认 ⑥ 批量升级（六件套主文件 → 4 Profile → 4 工作手册 → 4 工具入口） ⑦ 自检评分 ⑧ 写 CHANGELOG ⑨ 等待老高确认 ⑩ 写入 L2 温记忆。
+- 4 份工作手册标准化章节顺序：① 我是谁（含六维主责） ② 核心职责 ③ 不做什么 ④ 日常流程 ⑤ 12 Rules 落地表 ⑥ 质量评分 ⑦ 红线 ⑧ 配套文件引用 ⑨ 版本记录。
+- SOUL/AGENTS 关键章节：六维方法论 / 12 Rules / 十二条铁律 / 绝对禁止 / 四 Agent 协作 / 冲突优先级。
+
+### 交接记录
+- v3.0.2 变更日志：CHANGELOG.md 顶部追加 [3.0.2] 段，含 P0 修复（CODEX frontmatter + 八条→十二条）、P1 升级（4 工作手册 v2.0 + 工具专属 README + workbuddy 入口强化）、P1 验证（版本号统一、八条字面消除）。
+- 六件套主目录基线：`D:\知识库\10-索引与导航\AI-Agent五件套\`。
+- 工具专属六件套基线：`D:\知识库\10-索引与导航\AI-Agent五件套\工具专属六件套\`。
+- 工作手册基线：`D:\知识库\10-索引与导航\AI-Agent五件套\工作手册\`。
+- 备份基线：HERMES_PROFILE / SOUL / AGENTS / CODEX_PROFILE 均有 .v2bak 备份；MEMORY-AGENT.v1.1.bak.md 是 L2 当前备份。
+
+### 后续待办
+- v3.0 体系基线稳定后，下一次迭代方向应为"内容质量"（实际跑一个完整项目验证 4 Agent 协作闭环），而非"再升级方法论"。
+- MEMORY.md 引用 L2 路径：`D:\知识库\10-索引与导航\MEMORY-AGENT.md`（本文件）。
+- L1 热记忆（Agent 自身 memory）当前 ~95% 满，下次任务前应优先下沉非活跃项目到 L2。
+- 工具安装（Supermemory/Dory/MCP）待本地手工执行，详见 `工具工具安装指南.md`。

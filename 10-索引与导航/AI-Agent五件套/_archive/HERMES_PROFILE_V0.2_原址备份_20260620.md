@@ -1,3 +1,9 @@
+---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 # HERMES_PROFILE.md
 
 > 版本：V0.2 审阅版（综合 CLAUDE_CODE_PROFILE v0.3 + CODEX_PROFILE v0.2 定稿接口对齐）

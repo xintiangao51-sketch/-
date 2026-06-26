@@ -1,4 +1,7 @@
 ---
+tags: ["AI", "AI/文档"]
+created: 2026-06-24
+type: reference
 name: tavily
 description: AI-optimized web search using Tavily Search API. Use when you need comprehensive web research, current events lookup, domain-specific search, or AI-generated answer summaries. Tavily is optimized for LLM consumption with clean structured results, answer generation, and raw content extraction. Best for research tasks, news queries, fact-checking, and gathering authoritative sources.
 ---
@@ -412,3 +415,7 @@ See [api-reference.md](references/api-reference.md) for:
 - Tavily API: https://tavily.com
 - Python SDK: https://github.com/tavily-ai/tavily-python
 - Documentation: https://docs.tavily.com
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

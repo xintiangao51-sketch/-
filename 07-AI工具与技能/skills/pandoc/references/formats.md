@@ -1,3 +1,9 @@
+---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 # Pandoc Supported Formats Reference
 
 ## Table of Contents
@@ -194,3 +200,7 @@ when needed.
 | `colorlinks` | Color hyperlinks | `-V colorlinks=true` |
 | `linkcolor` | Internal link color | `-V linkcolor=blue` |
 | `urlcolor` | URL link color | `-V urlcolor=blue` |
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

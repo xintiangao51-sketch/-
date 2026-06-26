@@ -1,3 +1,9 @@
+---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 # Tavily API Reference
 
 ## Overview
@@ -185,3 +191,7 @@ Install: `pip install tavily-python`
 - Python SDK: https://github.com/tavily-ai/tavily-python
 - API Reference: https://docs.tavily.com/documentation/api-reference
 - Pricing: https://tavily.com/pricing
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

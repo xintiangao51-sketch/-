@@ -1,4 +1,7 @@
 ---
+tags: ["AI", "AI/文档"]
+created: 2026-06-24
+type: reference
 name: scrapling
 description: "Adaptive web scraping framework with anti-bot bypass and spider crawling."
 version: "1.0.8"
@@ -900,12 +903,12 @@ title = page.css('h1::text').get()
 
 Related skills:
 
-- [[content-research]] - Research workflow
-- [[blogwatcher]] - RSS/feed monitoring
-- [[youtube-watcher]] - Video content
-- [[chirp]] - Twitter/X interactions
-- [[newsletter-digest]] - Content summarization
-- [[x-tweet-fetcher]] - X/Twitter (use instead of Scrapling)
+- <!-- scrapling sub-agent: content-research -->]] - Research workflow
+- <!-- scrapling sub-agent: blogwatcher -->]] - RSS/feed monitoring
+- <!-- scrapling sub-agent: youtube-watcher -->]] - Video content
+- <!-- scrapling sub-agent: chirp -->]] - Twitter/X interactions
+- <!-- scrapling sub-agent: newsletter-digest -->]] - Content summarization
+- <!-- scrapling sub-agent: x-tweet-fetcher -->]] - X/Twitter (use instead of Scrapling)
 
 ---
 
@@ -964,3 +967,7 @@ Related skills:
 ---
 
 *Last updated: 2026-02-25*
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

@@ -1,4 +1,7 @@
 ---
+tags: ["AI", "AI/文档"]
+created: 2026-06-24
+type: reference
 name: pandoc
 description: >
   Convert documents between formats using pandoc. Supports HTML, Markdown, DOCX, PDF, EPUB, LaTeX,
@@ -194,3 +197,7 @@ When a user asks to convert a document, think about:
 Always use the helper script `scripts/convert.sh` as the starting point — it handles the most
 common gotchas automatically, picks a reasonable PDF engine, and prints recovery hints when PDF
 conversion fails. Add extra pandoc flags as needed for the specific use case.
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

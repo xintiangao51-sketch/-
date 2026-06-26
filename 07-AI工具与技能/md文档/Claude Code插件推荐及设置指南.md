@@ -60,3 +60,7 @@ type: reference
 ---
 文件已保存到桌面：`C:\Users\高\Desktop\Claude Code插件推荐及设置指南.md`
 离线插件安装包已同步下载到桌面`Claude插件安装包`文件夹
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

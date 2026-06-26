@@ -369,3 +369,7 @@ POST /openapi/note/v1/list_notebook
 | 210036 | ADD_KNOWLEDGE_FAIL     | 笔记添加知识库失败       |
 | 20002  | —                      | apiKey 超过最大限频      |
 | 20004  | —                      | apiKey 鉴权失败          |
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

@@ -1,4 +1,7 @@
 ---
+tags: ["AI", "AI/文档", "参考"]
+created: 2026-06-24
+type: reference
 name: knowledge-base
 description: "IMA knowledge-base sub-module — API reference for uploading files, searching, browsing, and managing knowledge bases."
 parent: ima-skill
@@ -395,3 +398,7 @@ response-content-type=application/octet-stream&response-content-disposition=atta
 - 所有脚本路径从 `.claude/skills/ima-skill/...` 改为 `$SKILL_DIR/scripts/...`（通过 `SKILL_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")/.." && pwd)"` 推导）
 - `search_knowledge_base` 返回字段为 `kb_id`（非文档中的 `id`），且此 kb_id 用作 `search_knowledge` 的 `knowledge_base_id` 是有效的
 - `get_knowledge_base` / `get_knowledge_list` 可能对返回 220004（invalid knowledge_base_id），重试可解决；若持续失败，先用 `search_knowledge` 验证 ID 可用性
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

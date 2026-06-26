@@ -1,4 +1,7 @@
 ---
+tags: ["AI", "AI/文档"]
+created: 2026-06-24
+type: reference
 name: marker
 description: Convert PDF documents to Markdown using marker_single. Use when Claude needs to extract text content from PDFs while preserving LaTeX formulas, equations, and document structure. Ideal for academic papers and technical documents containing mathematical notation.
 ---
@@ -49,3 +52,7 @@ python scripts/marker_to_markdown.py paper.pdf --timeout 600
 ## Troubleshooting
 - `marker_single` not found: install `marker-pdf` or ensure the CLI is on PATH
 - No Markdown output: re-run with `--keep-temp`/`cleanup=False` and check `stdout`/`stderr` saved in the output folder
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

@@ -1,4 +1,5 @@
 ---
+tags: [AI]
 name: crawl4ai-skill
 description: "Web crawling and scraping tool with LLM-optimized output. 网页爬虫爬取工具 | Web crawler, web scraper, spider. DuckDuckGo search, site crawling, dynamic page scraping. 智能搜索爬取 | Free, no API key required."
 version: 1.1.0
@@ -172,3 +173,7 @@ crawl4ai-skill crawl https://example.com --format raw_markdown
 - 📦 [PyPI](https://pypi.org/project/crawl4ai-skill/)
 - 💻 [GitHub](https://github.com/lancelin111/crawl4ai-skill/)
 - 🦞 [ClawHub](https://clawhub.com/skills/crawl4ai-skill)
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

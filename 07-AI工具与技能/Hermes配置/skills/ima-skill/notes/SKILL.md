@@ -195,3 +195,7 @@ ima_api "openapi/note/v1/search_note" '{"search_type": 1, "query_info": {"conten
 | 310001 | 笔记本不存在           | 检查 `folder_id` 是否正确    |
 | 20002  | apiKey超过最大限频     |
 | 20004  | apikey 鉴权失败        | 检查凭证配置是否正确         |
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

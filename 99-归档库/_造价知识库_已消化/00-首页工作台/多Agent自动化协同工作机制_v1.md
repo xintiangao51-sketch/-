@@ -1,3 +1,9 @@
+---
+tags: ["归档"]
+created: 2026-06-21
+type: reference
+---
+
 # 多Agent自动化协同工作机制 v1
 
 > 工作区：`D:\造价知识库`  

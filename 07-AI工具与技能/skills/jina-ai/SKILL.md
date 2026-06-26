@@ -1,4 +1,7 @@
 ---
+tags: ["AI", "AI/文档"]
+created: 2026-06-24
+type: reference
 name: jina
 description: Web reading and searching via Jina AI APIs. Fetch clean markdown from URLs (r.jina.ai), web search (s.jina.ai), or deep multi-step research (DeepSearch).
 homepage: "https://github.com/adhishthite/jina-ai-skill"
@@ -244,3 +247,7 @@ Use for complex research requiring multiple sources and reasoning chains.
 | Parse a PDF from URL | **Reader** — pass PDF URL directly |
 | Screenshot a page | **Reader** with `X-Respond-With: screenshot` |
 | Extract structured data | **Reader** with `jsonSchema` param |
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

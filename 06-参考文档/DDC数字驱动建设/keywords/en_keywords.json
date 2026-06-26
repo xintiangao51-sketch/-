@@ -1,0 +1,210 @@
+[
+  {
+    "word": "CAD",
+    "count": 495
+  },
+  {
+    "word": "BIM",
+    "count": 321
+  },
+  {
+    "word": "LLM",
+    "count": 293
+  },
+  {
+    "word": "ETL",
+    "count": 144
+  },
+  {
+    "word": "IFC",
+    "count": 113
+  },
+  {
+    "word": "ERP",
+    "count": 112
+  },
+  {
+    "word": "PDF",
+    "count": 100
+  },
+  {
+    "word": "Python",
+    "count": 98
+  },
+  {
+    "word": "Pandas",
+    "count": 97
+  },
+  {
+    "word": "DataFrame",
+    "count": 75
+  },
+  {
+    "word": "Apache",
+    "count": 74
+  },
+  {
+    "word": "QTO",
+    "count": 65
+  },
+  {
+    "word": "Excel",
+    "count": 64
+  },
+  {
+    "word": "PMIS",
+    "count": 62
+  },
+  {
+    "word": "CSV",
+    "count": 56
+  },
+  {
+    "word": "SQL",
+    "count": 52
+  },
+  {
+    "word": "BIM-",
+    "count": 50
+  },
+  {
+    "word": "DWG",
+    "count": 46
+  },
+  {
+    "word": "DWH",
+    "count": 45
+  },
+  {
+    "word": "API",
+    "count": 40
+  },
+  {
+    "word": "Airflow",
+    "count": 39
+  },
+  {
+    "word": "XLSX",
+    "count": 39
+  },
+  {
+    "word": "Parquet",
+    "count": 37
+  },
+  {
+    "word": "IT",
+    "count": 35
+  },
+  {
+    "word": "USD",
+    "count": 35
+  },
+  {
+    "word": "Kaggle",
+    "count": 31
+  },
+  {
+    "word": "NiFi",
+    "count": 28
+  },
+  {
+    "word": "RVT",
+    "count": 28
+  },
+  {
+    "word": "DataOps",
+    "count": 27
+  },
+  {
+    "word": "ChatGPT",
+    "count": 27
+  },
+  {
+    "word": "LOD",
+    "count": 27
+  },
+  {
+    "word": "Data",
+    "count": 26
+  },
+  {
+    "word": "DeepSeek",
+    "count": 26
+  },
+  {
+    "word": "CDE",
+    "count": 25
+  },
+  {
+    "word": "Mistral",
+    "count": 24
+  },
+  {
+    "word": "ID",
+    "count": 24
+  },
+  {
+    "word": "JSON",
+    "count": 24
+  },
+  {
+    "word": "LlaMa",
+    "count": 23
+  },
+  {
+    "word": "RegEx",
+    "count": 23
+  },
+  {
+    "word": "CAD-",
+    "count": 23
+  },
+  {
+    "word": "XML",
+    "count": 23
+  },
+  {
+    "word": "RFID",
+    "count": 22
+  },
+  {
+    "word": "CAFM",
+    "count": 22
+  },
+  {
+    "word": "Google",
+    "count": 22
+  },
+  {
+    "word": "RDBMS",
+    "count": 21
+  },
+  {
+    "word": "BOM",
+    "count": 21
+  },
+  {
+    "word": "BREP",
+    "count": 21
+  },
+  {
+    "word": "Jupyter",
+    "count": 21
+  },
+  {
+    "word": "Claude",
+    "count": 20
+  },
+  {
+    "word": "LML",
+    "count": 20
+  },
+  {
+    "word": "FPDF",
+    "count": 20
+  },
+  {
+    "word": "NN",
+    "count": 20
+  }
+]

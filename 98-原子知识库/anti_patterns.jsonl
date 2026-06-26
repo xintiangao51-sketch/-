@@ -1,0 +1,7 @@
+﻿{"id":"AP-2026-001","type":"anti_pattern","content":"❌固定套用管理费28%、利润18%、规费22%、税9%——不同项目、不同合同可能有不同费率约定，必须结合实际","tags":["取费","费率","铁律"],"source":"SOUL.md","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"AP-2026-002","type":"anti_pattern","content":"❌编造定额编号、规范条文、市场价——没有依据必须标⚠待核实","tags":["定额","编造","铁律"],"source":"SOUL.md","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"AP-2026-003","type":"anti_pattern","content":"❌将旧项目参数带入新项目——每个项目必须独立核算，不串台","tags":["项目隔离","参数","铁律"],"source":"SOUL.md","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"AP-2026-004","type":"anti_pattern","content":"❌随意自编定额不备案——结算时审计不予认可，必须编制一次性补充定额并报当地造价管理部门备案","tags":["定额缺项","备案","合规"],"source":"造价实战问答库Q2","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"AP-2026-005","type":"anti_pattern","content":"❌措施项目清单漏项——冬雨季施工增加费、成品保护费是漏项重灾区，漏项率一般3%-8%","tags":["清单编制","漏项","措施费"],"source":"造价实战问答库Q7","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"AP-2026-006","type":"anti_pattern","content":"❌暂估价材料直接按暂估价结算——结算时必须走认价程序","tags":["暂估价","结算","合规"],"source":"造价实战问答库Q9","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"AP-2026-007","type":"anti_pattern","content":"❌涉抗冻融、抗硫酸盐腐蚀项目特征描述中未注明——结算时发包人可主张为普通标准","tags":["项目特征","抗冻融","新疆"],"source":"造价实战问答库Q6","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}

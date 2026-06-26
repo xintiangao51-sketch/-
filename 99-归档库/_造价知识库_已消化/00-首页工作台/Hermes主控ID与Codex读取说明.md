@@ -1,3 +1,9 @@
+---
+tags: ["归档", "索引"]
+created: 2026-06-21
+type: reference
+---
+
 # Hermes主控ID与Codex读取说明
 
 > 日期：2026-06-19  

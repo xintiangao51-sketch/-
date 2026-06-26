@@ -1,0 +1,130 @@
+[
+  {
+    "src": "友邦保险公司",
+    "std": "AIA",
+    "std_zh": "美国建筑师学会",
+    "context": "建筑标准/合同模板",
+    "page": "289",
+    "note": "书中AIA=American Institute of Architects，机器误译为保险公司"
+  },
+  {
+    "src": "国际出版商协会",
+    "std": "IPA",
+    "std_zh": "IPA（信息发布协议）",
+    "context": "标准/协议",
+    "page": "54,94,95,97,109",
+    "note": "International Publisher Association 或 Information Protocol Architecture"
+  },
+  {
+    "src": "克劳德",
+    "std": "Claude",
+    "std_zh": "Anthropic Claude AI",
+    "context": "LLM章节",
+    "page": "20",
+    "note": "AI模型名，不应中文化"
+  },
+  {
+    "src": "阿帕奇气流",
+    "std": "Apache Airflow",
+    "std_zh": "Apache Airflow任务调度",
+    "context": "ETL/工作流",
+    "page": "311,361-371,399",
+    "note": "ETL调度工具，机器直译错误"
+  },
+  {
+    "src": "Apache NiFi",
+    "std": "Apache NiFi",
+    "std_zh": "Apache NiFi数据流",
+    "context": "数据集成",
+    "page": "116,311,361-371",
+    "note": "数据流处理工具"
+  },
+  {
+    "src": "阿帕奇 ORC",
+    "std": "Apache ORC",
+    "std_zh": "Apache ORC列存格式",
+    "context": "大数据格式",
+    "page": "62,330,378",
+    "note": "Optimized Row Columnar 列存优化"
+  },
+  {
+    "src": "阿帕奇镶木地板",
+    "std": "Apache Parquet",
+    "std_zh": "Apache Parquet列存格式",
+    "context": "大数据格式",
+    "page": "62,67,380-381,494",
+    "note": "Parquet直译为镶木地板是机器翻译严重错误"
+  },
+  {
+    "src": "黑匣子",
+    "std": "BlackBox",
+    "std_zh": "Pandas BlackBox构造函数",
+    "context": "Python Pandas",
+    "page": "240,242,243",
+    "note": "编程概念，非航空黑匣子"
+  },
+  {
+    "src": "brep",
+    "std": "BREP",
+    "std_zh": "边界表示法",
+    "context": "CAD几何",
+    "page": "多个",
+    "note": "Boundary Representation"
+  },
+  {
+    "src": "copxml",
+    "std": "CPIXML",
+    "std_zh": "CPIXML",
+    "context": "建筑数据交换",
+    "page": "多个",
+    "note": "待人工核对全文含义"
+  },
+  {
+    "src": "虚化",
+    "std": "Blurring",
+    "std_zh": "模糊化",
+    "context": "图像处理",
+    "page": "320,337",
+    "note": "机器误译"
+  },
+  {
+    "src": "炸弹",
+    "std": "BOM",
+    "std_zh": "物料清单",
+    "context": "BIM/产品数据",
+    "page": "76,77,79,257,263",
+    "note": "Bill of Materials，非爆炸物"
+  },
+  {
+    "src": "资本支出",
+    "std": "CAPEX",
+    "std_zh": "资本性支出",
+    "context": "投资分析",
+    "page": "多个",
+    "note": "Capital Expenditure"
+  },
+  {
+    "src": "CDE",
+    "std": "CDE",
+    "std_zh": "通用数据环境",
+    "context": "BIM数据",
+    "page": "多个",
+    "note": "Common Data Environment"
+  },
+  {
+    "src": "副驾驶员",
+    "std": "Copilot",
+    "std_zh": "Copilot AI助手",
+    "context": "LLM辅助编程",
+    "page": "多个",
+    "note": "GitHub/Microsoft产品，不应直译"
+  },
+  {
+    "src": "早晨",
+    "std": "AM",
+    "std_zh": "上午",
+    "context": "时间表达",
+    "page": "14,84,151,153",
+    "note": "AM/PM错译"
+  }
+]

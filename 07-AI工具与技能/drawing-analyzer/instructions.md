@@ -32,3 +32,7 @@ When the user asks to convert or extract data:
 - Validate inputs before processing
 - Report errors clearly with suggested fixes
 - Follow construction industry standards and best practices
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

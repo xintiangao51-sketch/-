@@ -1,0 +1,7 @@
+﻿{"id":"P-2026-001","type":"principle","content":"人工费调增部分只计取税金，不计管理费/利润/规费","tags":["人工费","取费","新疆"],"source":"新疆费率参数体系.md","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"P-2026-002","type":"principle","content":"成本分析必须按四维分解：人工/辅材/主材/机械。任一单项偏离超过±5%必须自动标注","tags":["成本拆解","四维","红线"],"source":"新疆费率参数体系.md","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"P-2026-003","type":"principle","content":"取费费率管理28%利润18%规费22%非一成不变，需结合项目实际调整，禁止固定套用","tags":["取费","费率","铁律"],"source":"SOUL.md","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"P-2026-004","type":"principle","content":"定额优先《新疆维吾尔自治区市政工程消耗量定额》2024版，不强制2020版","tags":["定额","版本","新疆"],"source":"L1记忆修正","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"P-2026-005","type":"principle","content":"新疆2024版定额人工单价约120-150元/工日，市场实际人工（技工）达250-400元/工日，投标时按市场价调差计入综合单价","tags":["人工费","市场价","定额","新疆"],"source":"造价实战问答库Q3","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"P-2026-006","type":"principle","content":"安全文明施工费为不可竞争费用，新疆规定按分部分项工程费的2.0%-3.5%计取","tags":["措施费","安全文明","新疆"],"source":"造价实战问答库Q8","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}
+{"id":"P-2026-007","type":"principle","content":"暂列金额一般按分部分项工程费的5%-10%计取，政府投资项目暂列金额一般控制在5%以内","tags":["暂列金额","政府投资","新疆"],"source":"造价实战问答库Q9","confidence":"A","created":"2026-06-22","last_used":null,"use_count":0}

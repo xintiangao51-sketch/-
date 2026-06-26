@@ -1,3 +1,9 @@
+---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 # Jina AI — Web Reader, Search & DeepSearch
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-Install-blue)](https://clawhub.ai/adhishthite/jina-ai)
@@ -99,3 +105,7 @@ DeepSearch performs multiple search + read + reasoning steps to answer complex q
 ## License
 
 MIT © Adhish Thite 2026
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

@@ -1,0 +1,628 @@
+# 参考文献和在线资料清单
+# PAGES: 548 - 568
+
+
+----- PAGE 548 -----
+主题索引   |  516 
+ 
+ 
+参考文献和在线资料清单 
+ 
+[1]  
+Gartner：《2017 年 IT 关键指标数据：已发布文件和指标索引》，2016 年 12 月 12 日。[Online].可
+查阅：https://www.gartner.com/en/documents/3530919。[访问日期：2025 年 3 月 1 日]。 
+[2]  
+毕马威，"熟悉的挑战 - 新的方法。2023 年全球建筑业调查"，2023 年 1 月 1 日。[Online].Available: 
+https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/2023/06/familiar-challenges-new-
+solutions-1.pdf.[Accessed: 5 March 2025]. 
+[3]  
+F.R.巴纳德，"一图胜千言"，10 Mapi 1927。[Online].可查阅：
+https://en.wikipedia.org/wiki/A_picture_is_worth_a_thousand_words。[参考日期：2025 年 3 月 
+15 日]。 
+[4]  
+M.巴斯蒂安，"微软首席执行官萨蒂亚-纳德拉称自称 AGI 是'无稽的基准黑客'"，2025 年 2 月 21 日。
+[Online].Available: https://the-decoder.com/microsoft-ceo-satya-nadella-says-self-claiming-agi-
+is-nonsensical-benchmark-hacking/.[访问日期：2025 年 3 月 15 日]。 
+[5]  
+W.E.论坛，"塑造建筑业未来的论坛--变革中的格局："，2016 年 1 月 1 日。[Online].Available: 
+https://www3.weforum.org/docs/WEF_Shaping_the_Future_of_Construction.pdf.[访问日期：
+2025 年 3 月 2 日]。 
+[6]  
+С.D. Gillespie，"粘土：地球在粘土时代的纠缠"，2024 年。[Online].Available: 
+https://ufl.pb.unizin.org/imos/chapter/clay/. 
+[7]  
+"公元前 3 世纪的纸莎草纸，语言为希腊语"，2024 年。[Online].Available: 
+https://www.facebook.com/429710190886668/posts/595698270954525. 
+[8]  
+"监测：利用现有工具"，1980 年。[Online].网址：https://pubmed.ncbi.nlm.nih.gov/10246720/。[
+发表日期：2025 年 3 月 15 日]。 
+[9]  
+普华永道，"数据驱动 学生需要什么才能在瞬息万变的商业世界中取得成功"，2015 年 2 月 15 日。
+
+----- PAGE 549 -----
+主题索引   |  517 
+ 
+ 
+[Online].网址：https://www.pwc.com/us/en/faculty-resource/assets/PwC-Data-driven-paper-
+Feb2015.pdf。[访问日期：2025 年 3 月 15 日]。 
+[10]  斯堪斯卡美国公司，《秋季建筑市场趋势》，2023 年 11 月 2 日。[Online].Available: 
+https://x.com/SkanskaUSA/status/1720167220817588714. 
+[11]  "牛津精华语录（第 4 版）》，牛津大学出版社，2016 年。[Online].Available: 
+https://www.oxfordreference.com/display/10.1093/acref/9780191826719.001.0001/q-oro-ed4-
+00006236.[访问日期：2025 年 3 月 1 日]。 
+[12]  "名言：Sondergaard 论数据分析"。[Online].网址：
+https://www.causeweb.org/cause/resources/library/r2493。[访问日期：2025 年 3 月 15 日]。 
+[13]  "全球对人工智能的兴趣如何推动数据管理市场的发展》，2024 年 5 月 28 日。[Online].网址：
+https://iot-analytics.com/how-global-ai-interest-is-boosting-data-management-market/。[访问
+日期：2025 年 3 月 15 日]。 
+[14]  И.McCue，"ERP 历史"，2024 年。[Online].Available: 
+https://www.netsuite.com/portal/resource/articles/erp/erp-history.shtml. 
+[15]  erpscout，"ERP 价格：ERP 系统的成本是多少？[Online].Available: https://erpscout.de/en/erp-
+costs/.[访问日期：2025 年 3 月 15 日]。 
+[16]  softwarepath, "What 1,384 ERP projects tell us about selecting ERP (2022 ERP report)"，2022 
+年 1 月 18 日。[Online].Available: https://softwarepath.com/guides/erp-report.[访问日期：2025 
+年 3 月 15 日]。 
+[17]  德勤，"数字资本项目中的数据驱动管理"，2016 年 12 月 16 日。[Online].网址：
+https://www2.deloitte.com/content/dam/Deloitte/us/Documents/Real%20Estate/us-
+engineering-construction-data-driven-management-digital-capital-projects.pdf。[发表日期：
+2025 年 3 月 1 日]。 
+[18]  麦肯锡，《2025 年数据驱动型企业》，2022 年 1 月 28 日。[Online].Available: 
+
+----- PAGE 550 -----
+主题索引   |  518 
+ 
+ 
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-
+enterprise-of-2025.[参考日期：2024 年 5 月 22 日]。 
+[19]  维基百科，"摩尔定律"。[Online].Available: https://en.wikipedia.org/wiki/Moore%27s_law.[访问
+日期：2025 年 3 月 15 日]。 
+[20]  埃森哲，"通过资本项目创造更多价值"，2020 年 1 月 1 日。[Online].Available: 
+https://www.accenture.com/content/dam/accenture/final/a-com-migration/r3-3/pdf/pdf-
+143/accenture-industryx-building-value-capital-projects-highres.pdf.[访问日期：2024 年 3 月 3 
+日]。 
+[21]  Б.马尔，《我们每天创造多少数据？每个人都应该阅读的令人震惊的数据"，2018 年。
+[Online].Available: https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-
+we-create-every-day-the-mind-blowing-stats-everyone-should-read. 
+[22]  "每天产生多少数据？"，2024 年。[Online].Available: 
+https://graduate.northeastern.edu/resources/how-much-data-produced-every-day/. 
+[23]  Т.沙利文，《人工智能与全球 "数据球"：到 2025 年人类将拥有多少信息？[Online].Available: 
+https://www.datauniverseevent.com/en-us/blog/general/AI-and-the-Global-Datasphere-How-
+Much-Information-Will-Humanity-Have-By- 2025.html。 
+[24]  Statista，"1454 至 1800 年间西欧各地区每半个世纪印刷书籍的总产量"，[互联网]。
+[Online].Available: https://www.statista.com/statistics/1396121/europe-book-production-half-
+century-region-historical/.[参考日期：2025 年 3 月 1 日]。 
+[25]  "定价示例"，2024 年。[Online].Available: https://cloud.google.com/storage/pricing-examples. 
+[26]  M.Ashare，"随着复杂性上升，企业外包数据存储"，2024 年 5 月 10 日。[在线]。可查阅：
+https://www.ciodive.com/news/enterprises-outsource-data-storage-complexity-rises/715854/
+。[访问日期：2025 年 3 月 15 日]。 
+[27]  JETSOFTPRO, "SaaS 已死？微软首席执行官惊人预言解读》，2025 年 1 月 13 日。[在线]。
+Available: https://jetsoftpro.com/blog/saas-is-dead/. 
+
+----- PAGE 551 -----
+主题索引   |  519 
+ 
+ 
+[28]  BG2 Pod，"Satya Nadella | BG2 w/ Bill Gurley & Brad Gerstner"，2024 年 12 月 12 日。
+[Online].Available: https://www.youtube.com/watch?v=9NtsnzRFJ_o.[访问日期：2025 年 3 月 15 
+日]。 
+[29]  GoodReads，"蒂姆-伯纳斯-李"，[在线]。网址：https://www.goodreads.com/quotes/8644920-
+data-is-a-precious-thing-and-will-last-longer-than。[访问日期：2025 年 3 月 15 日]。 
+[30]  毕马威，"提示建筑 4.0：成败在此一举"，2023 年 1 月 1 日。[Online].Available: 
+https://kpmg.com/ca/en/home/insights/2023/05/cue-construction-make-or-break-time.html.[
+访问日期：2025 年 3 月 5 日]。 
+[31]  И.Deininger, B. Koch, R. Bauknecht, and M. Langhans, "Using digital models for decarbonising 
+a production site: An example of connecting a building model, a production model and an 
+energy model," 2024.[在线]。Available: 
+https://www.researchgate.net/publication/374023998_Using_Digital_Models_to_Decarbonize_a
+_Production_Site_A_Case_Study_of_Connecting_the_Building_Model_Production_Model_and_En
+ergy_Model. 
+[32]  麦肯锡，"重振建筑业：提高生产力的途径"，2017 年 2 月 1 日。[Online].Available: 
+https://www.mckinsey.com/~/media/mckinsey/business%20functions/operations/our%20insig
+hts/reinventing%20construction%20through%20a%20productivity%20revolution/mgi-
+reinventing-construction-a-route-to-higher-productivity-full-report.pdf. 
+[33]  建筑工作组致副首相，"重新思考建筑业"，2014 年 10 月 1 日。[Online].可查阅：
+https://constructingexcellence.org.uk/wp-
+content/uploads/2014/10/rethinking_construction_report.pdf。 
+[34]  福布斯》，"没有观点，你只是另一个拥有数据的人"，2016 年 3 月 15 日。[Online].Available: 
+https://www.forbes.com/sites/silberzahnjones/2016/03/15/without-an-opinion-youre-just-
+another-person-with-data/.[访问日期：2025 年 3 月 15 日]。 
+[35]  Wikiquote，"查尔斯-巴贝奇"，[在线]。Available: 
+https://en.wikiquote.org/wiki/Charles_Babbage.[访问日期：2025 年 3 月 15 日]。 
+
+----- PAGE 552 -----
+主题索引   |  520 
+ 
+ 
+[36]  SAP，"最新研究发现，近半数高管相信人工智能而非自己"，2025 年 3 月 12 日。[Online].Available: 
+https://news.sap.com/2025/03/new-research-executive-trust-ai/.[访问日期：2025 年 3 月 15 日]
+。 
+[37]  加拿大建筑协会和加拿大毕马威会计师事务所，2021 年，"数字世界中的建筑业"，2021 年 5 月 1 日
+。[Online].Available: 
+https://assets.kpmg.com/content/dam/kpmg/ca/pdf/2021/05/construction-in-the-digital-age-
+report-en.pdf.[访问日期：2025 年 3 月 5 日]。 
+[38]  ZCS，"解码第五次工业革命"。[Online].Available: https://www.pwc.in/decoding-the-fifth-
+industrial-revolution.html.[访问日期：2025 年 3 月 15 日]。 
+[39]  M.K, Private Rights and Public Problems: The Global Economics of, 彼得森国际经济研究所，
+2012 年。经济学》，2012 年。  
+[40]  F.N. a. Y. Z.哈佛商学院：Manuel Hoffmann，"开源软件的价值"，2024 年 1 月 24 日。
+[Online].Available: https://www.hbs.edu/faculty/Pages/item.aspx?num=65230.[访问日期：2025 
+年 3 月 15 日]。 
+[41]  海军成本分析中心空军成本分析机构，"软件开发成本估算手册"，2008 年 9 月 1 日。
+[Online].Available: 
+https://www.dau.edu/sites/default/files/Migrated/CopDocuments/SW%20Cost%20Est%20Man
+ual%20Vol%20I%20rev%2010.pdf. 
+[42]  麦肯锡，"提高建筑生产率"，[在线]。Available: 
+https://www.mckinsey.com/capabilities/operations/our-insights/improving-construction-
+productivity.[发表日期：2025 年 3 月 15 日]。 
+[43]  A.G. a. C.Syverson, "The Strange and Awful Path of Productivity in the US Construction Sector," 
+19 Jan. 2023.[Online].Available: https://bfi.uchicago.edu/insight/research-summary/the-
+strange-and-awful-path-of-productivity-in-the-us-construction-sector/.[访问日期：2025 年 3 月 
+1 日]。 
+
+----- PAGE 553 -----
+主题索引   |  521 
+ 
+ 
+[44]  麦肯锡，"实现建筑生产力不再是可有可无的"，2024 年 8 月 9 日。[Online].Available: 
+https://www.mckinsey.com/capabilities/operations/our-insights/delivering-on-construction-
+productivity-is-no-longer-optional.[访问日期：2025 年 3 月 5 日]。 
+[45]  ING 集团，"建筑业生产率落后导致建筑成本上升"，2022 年 12 月 12 日。[Online].Available: 
+https://think.ing.com/articles/lagging-productivity-drives-up-building-costs-in-many-eu-
+countries/.[发表日期：2025 年 3 月 15 日]。 
+[46]  M.Berman，"微软首席执行官的惊人预测：'代理将取代所有软件'"，2024 年 12 月 19 日。
+[Online].Available: https://www.youtube.com/watch?v=uGOLYz2pgr8.[访问日期：2025 年 3 月 
+15 日]。 
+[47]  Business Insider，"Anthropic 首席执行官称，3 至 6 个月后，人工智能将编写软件开发人员负责的 
+90% 的代码"，2025 年 3 月 15 日。[Online].Available: 
+https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3.[访
+问日期：2025 年 3 月 30 日]。 
+[48]  Statista，"截至 2024 年 6 月全球数据库管理系统 (DBMS) 按类别的受欢迎程度比较"，2024 年 6 月
+。[Online].Available: https://www.statista.com/statistics/1131595/worldwide-popularity-
+database-management-systems-category/.[发布日期：2025 年 3 月 15 日]。 
+[49]  DB-Engines, "DB-Engines Ranking," [Online].网址：https://db-engines.com/en/ranking。[参考
+日期：2025 年 3 月 15 日]。 
+[50]  "Stack Overflow 开发人员调查 2023》，2024 年。[Online].Available: 
+https://survey.stackoverflow.co/2023/. 
+[51]  "SQL"，2024 年。[Online].Available: https://en.wikipedia.org/wiki/SQL. 
+[52]  "结构化数据与非结构化数据：区别何在？"，2024 年。[在线]。Available: 
+https://www.ibm.com/blog/structured-vs-unstructured-data/. 
+
+----- PAGE 554 -----
+主题索引   |  522 
+ 
+ 
+[53]  DataDrivenConstruction, "PDF COMPARISON OF DATAFATS FOR CONSTRUCTION PROJECTS," 
+23 Apr 2024.[Online].Available: https://datadrivenconstruction.io/wp-
+content/uploads/2024/10/COMPARISON-OF-DATA-FORMATS-FOR-CONSTRUCTION-PROJECTS-
+1.pdf. 
+[54]  "建筑信息模型白皮书网站"，2003 年。[Online].Available: 
+https://web.archive.org/web/20030711125527/http:/usa.autodesk.com/adsk/servlet/item?id=2
+255342&siteID=123112. 
+[55]  А.Boyko，"游说战争与 BIM 开发。第 5 部分：贝莱德是所有技术的主宰。企业如何控制开放源代码"
+，2024 年。[Online].Available: https://bigdataconstruction.com/autodesk-oracle-blackrock-
+open-source/. 
+[56]  D.Ushakov, "Direct Modeling - Who and Why Needs It? A Review of Competitive Technologies," 
+14 11 2011.[Online].Available: https://isicad.net/articles.php?article_num=14805.[Date of 
+address: 02 2025]. 
+[57]  C.伊士曼和 A. Cthers，《伊士曼、查尔斯和 Cthers》，1974 年 9 月。[Online].可查阅：
+https://files.eric.ed.gov/fulltext/ED113833.pdf。[访问日期：2025 年 3 月 15 日]。 
+[58]  D.Ushakov, "Direct Modeling - Who and Why Needs It? A Review of Competitive Technologies," 
+11 November 2011.[Online].Available: https://isicad.net/articles.php?article_num=14805.[参考
+日期：2025 年 3 月 15 日]。 
+[59]  D.魏斯伯格，"CAD 的历史"，2022 年 12 月 12 日。[Online].网址：
+https://www.shapr3d.com/blog/history-of-cad?utm_campaign=cadhistorynet.[参考日期：2025 
+年 3 月 15 日]。 
+[60]  ADSK，"建筑信息模型白皮书"，2002 年。[Online].Available: 
+https://web.archive.org/web/20060512180953/http:/images.adsk.com/apac_sapac_main/files/
+4525081_BIM_WP_Rev5.pdf#expand.[参考日期：2025 年 3 月 15 日]。 
+[61]  ADSK，"建筑信息建模实践白皮书"，[在线]。Available: 
+https://web.archive.org/web/20060512181000/http:/images.adsk.com/apac_sapac_main/files/
+
+----- PAGE 555 -----
+主题索引   |  523 
+ 
+ 
+4525077_BIM_in_Practice.pdf.[访问日期：2025 年 3 月 15 日]。 
+[62]  А.Boyko，"游说战争与 BIM 开发。第二部分：开放式 BIM VS 封闭式 BIM。欧洲 VS 世界其他地区"
+，2024 年。[Online].Available: https://bigdataconstruction.com/lobbyist-wars-and-the-
+development-of-bim-part-2-open-bim-vs-closed-bim-revit-vs-archicad-and-europe-vs-the-rest-
+of-the-world/. 
+[63]  А.Boyko, "Lobbykriege um Daten im Bauwesen | Techno-Feudalismus und die Geschichte von 
+BIMs," 2024.[Online].Available: https://youtu.be/S-TNdUgfHxk?si=evM_v28KQbGOG0k&t=1360. 
+[64]  ADSK，"BIM 白皮书"，2002 年。[Online].Available: 
+https://web.archive.org/web/20060512180953/http:/images.autodesk.com/apac_sapac_main/fi
+les/4525081_BIM_WP_Rev5.pdf#expand.[发布日期：2025 年 3 月 15 日]。 
+[65]  ADSK, "Integrated Design-Through-Manufacturing: Benefits and Rationale," [Online].Available: 
+https://web.archive.org/web/20010615093351/http:/www3.adsk.com:80/adsk/files/734489_Be
+nefits_of_MAI.pdf.[访问日期：2025 年 3 月 15 日]。 
+[66]  М.Shacklett, "结构化数据和非结构化数据：主要区别"，2024 年。[在线]。Available: 
+https://www.datamation.com/big-data/structured-vs-unstructured-data/. 
+[67]  К.Woolard, "Making sense of the growth of unstructured data," 2024.[在线]。Available: 
+https://automationhero.ai/blog/making-sense-of-the-rise-of-unstructured-data/. 
+[68]  A.C.O.J.L.D.J. a. L. T. G. Michael P. Gallaher，"互操作性不足的成本分析"，2004 年。
+[Online].Available: https://nvlpubs.nist.gov/nistpubs/gcr/2004/nist.gcr.04-867.pdf.[Date of 
+access: 02 2025]. 
+[69]  CrowdFlower，《2016 年数据科学报告》，2016 年。[Online].Available: https://visit.figure-
+eight.com/rs/416-ZBE-142/images/CrowdFlower_DataScienceReport_2016.pdf.[访问日期：2025 
+年 3 月 15 日]。 
+[70]  Analyticsindiamag，《数据科学家最耗时的 6 项任务》，2019 年 5 月 15 日。[Online].Available: 
+https://analyticsindiamag.com/ai-trends/6-tasks-data-scientists-spend-the-most-time-doing/. 
+
+----- PAGE 556 -----
+主题索引   |  524 
+ 
+ 
+[71]  BizReport，"报告：数据科学家花费大量时间清理"，2015 年 7 月 6 日。[Online].网址：
+https://web.archive.org/web/20200824174530/http://www.bizreport.com/2015/07/report-
+data-scientists-spend-bulk-of-time-cleaning-up.html。[访问日期：2025 年 3 月 5 日]。 
+[72]  S.霍金，"科学 AMA 系列：斯蒂芬-霍金 AMA 答案！"，2015 年 7 月 27 日。[Online].Available: 
+https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_a
+ma_answers/.[访问日期：2025 年 3 月 15 日]。 
+[73]  Б.Cyphers and K. Doctorow, "Privacy without Monopoly: Data Protection and Interoperability," 
+2024.[Online].Available: https://www.eff.org/wp/interoperability-and-privacy. 
+[74]  麦肯锡全球研究院，"开放数据：利用流动信息释放创新和绩效"，2013 年 10 月 1 日。[Online].可查
+阅：https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/open-data-
+unlocking-innovation-and-performance-with-liquid-information。[访问日期：2025 年 3 月 15 日
+]。 
+[75]  А.Boyko, "建筑行业开放数据的斗争。AUTOLISP、intelliCAD、openDWG、ODA 和 openCASCADE 
+的历史"，2024 年 5 月 15 日。[Online].Available: https://boikoartem.medium.com/the-struggle-
+for-open-data-in-the-construction-industry-2b97200e6393.[Date of address: 16 02 2025]. 
+[76]  维基百科，"微软与开放源码"，[在线]。Available: 
+https://en.wikipedia.org/wiki/Microsoft_and_open_source.[访问日期：2025 年 3 月 15 日]。 
+[77]  时代》周刊，"开放式与封闭式人工智能模型之间的差距可能正在缩小。为何如此重要》，2024 年 11 
+月 5 日。[Online].Available: https://time.com/7171962/open-closed-ai-models-epoch/.[访问日期
+：2025 年 3 月 15 日]。 
+[78]  The Verge，"谷歌超过四分之一的新代码由人工智能生成"，2024 年 10 月 29 日。
+[Online].Available: https://www.theverge.com/2024/10/29/24282757/google-new-code-
+generated-ai-q3-2024.[访问日期：2025 年 3 月 15 日]。 
+[79]  麦肯锡数字公司，"使用 GPU 加速分析处理的商业案例"，2020 年 12 月 15 日。[在线]。见 
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/the-
+
+----- PAGE 557 -----
+主题索引   |  525 
+ 
+ 
+business-case-for-using-gpus-to-accelerate-analytics- processing。[访问日期：2025 年 3 月 15 
+日]。 
+[80]  普华永道，"普华永道开源监测 2019"，2019 年。[Online].Available: 
+https://www.pwc.de/de/digitale-transformation/open-source-monitor-research-report-
+2019.pdf.[Accessed 15 Mar. 2025]. 
+[81]  特拉弗斯-史密斯：《公开的秘密：开放源码软件》，2024 年。[Online].网址：
+https://www.traverssmith.com/knowledge/knowledge-container/the-open-secret-open-source-
+software/。[访问日期：2025 年 3 月 15 日]。 
+[82]  德勤，"企业转型中的数据传输过程"，2021 年。[Online].Available: 
+https://www2.deloitte.com/content/dam/Deloitte/us/Documents/finance/us-the-data-transfer-
+process-in-corporate-transformations.pdf.[参考日期：2025 年 3 月 15 日]。 
+[83]  gov.uk，"政府项目交付中的数据分析和人工智能"，2024 年 3 月 20 日。[Online].Available: 
+https://www.gov.uk/government/publications/data-analytics-and-ai-in-government-project-
+delivery/data-analytics-and-ai-in-government-project-delivery.[Date of access: 5 March 2025]. 
+[84]  "名言原点：一切都应尽可能简单，但不能更简单"，2011 年 5 月 13 日。[Online].网址：
+https://quoteinvestigator.com/2011/05/13/einstein-simple/.[访问日期：2025 年 3 月 15 日]。 
+[85]  "Transformer（深度学习架构）"。[在线]。网址：
+https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)。[访问日期：2025 年 3 
+月 15 日]。 
+[86]  "Python 软件包下载统计"，2024 年。[在线]。Available: https://www.pepy.tech/projects/pandas. 
+[87]  Interview Bit，"十大 Python 库"，2023 年。[在线]。Available: 
+https://www.interviewbit.com/blog/python-
+libraries/#:~:text=With%20more%20than%20137%2C000%20libraries,data%20manipulation%2
+C%20and%20many%20more.[访问日期：2025 年 3 月 30 日]。 
+[88]  "英伟达™（NVIDIA®）和惠普™（HP®）为工作站上的数据科学和生成式人工智能增添动力》，
+
+----- PAGE 558 -----
+主题索引   |  526 
+ 
+ 
+2025 年 3 月 7 日。[在线]。Available: https://nvidianews.nvidia.com/news/nvidia-hp-
+supercharge-data-science-generative-ai-workstations.[访问日期：2025 年 3 月 15 日]。 
+[89]  Р.Orac，"如何在数秒内处理数百万行的 DataFrame"，2024 年。[在线]。可登录：
+https://towardsdatascience.com/how-to-process-a-dataframe-with-millions-of-rows-in-seconds
+。 
+[90]  Ç.Uslu，"什么是 Kaggle？"，2024 年。[Online].Available: 
+https://www.datacamp.com/blog/what-is-kaggle. 
+[91]  "英伟达™（NVIDIA®）首席执行官黄仁勋在 2024 年计算机展上发表主题演讲，"2024 年 6 月 2 日。
+[Online].可登录 https://www.youtube.com/live/pKXDVsWZmUU?si=Z3Rj1Las8wiPII2w。
+[Accessed 15 March 2025]. 
+[92]  "成员：创始人和公司成员"，2024 年。[Online].Available: 
+https://www.opendesign.com/member-showcase. 
+[93]  А.Boyko，"变革时代：IFC 已成为过去或 ADSK 和其他 CAD 供应商为何愿意放弃 IFC 换取 USD 的 14 
+个关键事实"，2024 年 11 月 24 日。[Online].Available: https://boikoartem.medium.com/the-
+age-of-change-ifc-is-a-thing-of-the-past-or-why-adsk-and-other-cad-vendors-are-willing-to-
+3f9a82ccd10a.[访问日期：2025 年 2 月 23 日]。 
+[94]  А.Boyko，"后 BIM 世界。向数据和流程的过渡以及建筑业是否需要语义、格式和互操作性"，2024 
+年 12 月 20 日。[Online].Available: https://boikoartem.medium.com/the-post-bim-world-
+7e35b7271119.[发表日期：2025 年 2 月 23 日]。 
+[95]  N.I.o.Health, "NIH STRATEGIC PLAN FOR DATA SCIENCE," 2016.[Online].Available: 
+https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.
+pdf.[Date of access: 23 February 2025]. 
+[96]  哈佛商业评论》，"糟糕的数据让美国每年损失 3 万亿美元"，2016 年 9 月 22 日。[Online].见 
+https://hbr.org/2016/09/bad-data-costs-the-u-s-3-trillion-per-year。 
+[97]  Delpha，"数据质量的影响"，2025 年 1 月 1 日。[Online].Available: https://delpha.io/impacts-of-
+
+----- PAGE 559 -----
+主题索引   |  527 
+ 
+ 
+data-quality/. 
+[98]  W.B.D.Guide, "Design for Maintainability: The Importance of Operations and Maintenance 
+Considerations During the Design Phase of Construction Projects," [Online].[Online].Available: 
+https://www.wbdg.org/resources/design-for-maintainability.[访问日期：2025 年 3 月 15 日]。 
+[99]  O.o.D.C.P. a. Oversight，"军事系统和设备腐蚀防控规划指南"，2014 年 4 月。[Online].Available: 
+https://www.dau.edu/sites/default/files/Migrated/CopDocuments/CPC%20Planning%20Guideb
+ook%204%20Feb%2014.pdf.[访问日期：2025 年 3 月 15 日]。 
+[100] Gartner，《数据质量：准确洞察的最佳实践》，2025 年 1 月 1 日。[在线]。Available: 
+https://www.gartner.com/en/data-analytics/topics/data-quality. 
+[101] "想要钉子"[Online].网址：https://en.wikipedia.org/wiki/For_Want_of_a_Nail。[访问日期：2025 
+年 3 月 15 日]。 
+[102] 麦肯锡全球研究院，《开放数据：利用流动信息释放创新和绩效》，2013 年 10 月。[Online].可查阅
+：
+https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our
+%20insights/open%20data%20unlocking%20innovation%20and%20performance%20with%20li
+quid%20i nformation/mgi_open_data_fullreport_oct2013.pdf。[访问日期：2025 年 3 月 15 日]。 
+[103] EY, "碳中和之路"，2023 年 3 月 10 日。[Online].Available: 
+https://www.ey.com/ru_kz/services/consulting/the-path-to-carbon-neutrality.[访问日期：2025 
+年 3 月 15 日]。 
+[104] 普华永道，"ESG 意识"，2024 年 7 月 1 日。[Online].Available: 
+https://www.pwc.com/kz/en/assets/esg-awareness/kz-esg-awareness-rus.pdf.[访问日期：2025 
+年 3 月 15 日]。 
+[105] G.Hammond, "Embodied Carbon - The Inventory of Carbon and Energy (ICE)," 
+2024.[Online].Available: https://greenbuildingencyclopaedia.uk/wp-
+content/uploads/2014/07/Full-BSRIA-ICE-guide.pdf. 
+
+----- PAGE 560 -----
+主题索引   |  528 
+ 
+ 
+[106] "CO2_计算所含碳量"，2024 年。[Online].Available: 
+https://github.com/datadrivenconstruction/CO2_calculating-the-embodied-carbon. 
+[107] 麦肯锡，"想象建筑业的数字化未来"，2016 年 6 月 24 日。[Online].Available: 
+https://www.mckinsey.com/capabilities/operations/our-insights/imagining-constructions-
+digital-future.[访问日期：2025 年 2 月 25 日]。 
+[108] Bund der Steuerzahler Deutschland e.V.，"Das Schwarzbuch"，2024 年 10 月 10 日。
+[Online].Available: https://steuerzahler.de/aktuelles/detail/das-schwarzbuch-202425/.[参考日期
+：2025 年 3 月 15 日]。 
+[109] SAS，"数据湖和数据仓库--了解两者的区别"，[在线]。可查阅：
+https://www.sas.com/en_is/insights/articles/data-management/data-lake-and-data-
+warehouse-know-the-difference.html。[参考日期：2025 年 3 月 15 日]。 
+[110] ADSK，《建筑信息建模》，2002 年。[Online].Available: 
+https://www.laiserin.com/features/bim/autodesk_bim.pdf.[发表日期：2025 年 3 月 15 日]。 
+[111] А.Boyko，"BIM 历史地图"，2024 年。[Online].Available: 
+https://bigdataconstruction.com/history-of-bim/. 
+[112] A.S.Borkowski, "各组织和标准对 BIM 的定义"，2023 年 12 月 27 日。[Online].Available: 
+https://encyclopedia.pub/entry/53149.[发表日期：2025 年 3 月 5 日]。 
+[113] CAD Vendor，"OPEN BIM 计划"，2012 年。[在线]。Available: 
+https://web.archive.org/web/20140611075601/http://www.graphisoft.com/archicad/open_bim
+/.[参考日期：2025 年 3 月 30 日]。 
+[114] 维基百科，"工业基础课"。[Online].Available: 
+https://en.wikipedia.org/wiki/Industry_Foundation_Classes.[访问日期：2025 年 3 月 15 日]。 
+[115] 维基百科，"IGES"。[Online].Available: https://en.wikipedia.org/wiki/IGES.[参考日期：2025 年 3 
+
+----- PAGE 561 -----
+主题索引   |  529 
+ 
+ 
+月 30 日]。 
+[116] А.Boyko，"CAD（BIM）的历史"，2021 年 12 月 15 日。[Online].Available: 
+https://miro.com/app/board/o9J_laML2cs=/.[发表日期：2025 年 2 月 24 日]。 
+[117] T.K.K.A.O.F.B.C.E.L. H. H. H. E. L. P. N. S. H. T. J. v. L. H. H. G. D. H. T. K. C.L.A.W.J. S. Francesca 
+Noardo，"IFC 软件支持参考研究：GeoBIM 基准 2019 - 第一部分"，2021 年 1 月 8 日。
+[Online].Available: https://arxiv.org/pdf/2007.10951.[访问日期：2025 年 3 月 5 日]。 
+[118] И.Rogachev，"Let's Talk BIM：Maxim Nechiporenko | Renga | IFC | Domestic BIM"，2021 年 
+4 月 13 日。[Online].Available: 
+https://www.youtube.com/watch?t=3000&v=VO3Y9uuzF9M&feature=youtu.be.[Date of 
+address: 5 March 2025]. 
+[119] D.Ares，"房地产中的 RETS：为什么它对效率和增长至关重要"，2024 年 12 月 17 日。
+[Online].Available: https://www.realpha.com/blog/rets-importance-in-real-estate-explained.[访
+问日期：2025 年 3 月 5 日]。 
+[120] "弹性令牌成本"，2024 年。[Online].Available: https://www.adsk.com/buying/flex?term=1-
+YEAR&tab=flex. 
+[121] А.Boyko, "Forget BIM and democratise access to data (17. Kolloquium Investor - Hochschule - 
+Bauindustrie)," 2024.[Online].Available: https://www.bim.bayern.de/wp-
+content/uploads/2023/06/Kolloquium-17-TUM-Bauprozessmanagment-und-Bay-
+Bauindustrie.pdf. 
+[122] Д.Hill, D. Foldesi, S. Ferrer, M. Friedman, E. Loh, and F. Plaschke, "Solving the construction 
+industry productivity puzzle," 2015.[Online].Available: 
+https://www.bcg.com/publications/2015/engineered-products-project-business-solving-
+construction-industrys-productivity-puzzle. 
+[123] "SCOPE - Projektdatenumgebung und Modellierung multifunktionaler Bauprodukte mit Fokus 
+auf die Gebäudehülle，"2018 年 1 月 1 日。[Online].Available: 
+https://www.ise.fraunhofer.de/de/forschungsprojekte/scope.html.[访问日期：2025 年 3 月 2 日]
+。 
+
+----- PAGE 562 -----
+主题索引   |  530 
+ 
+ 
+[124] Apple.com，"Pixar、Adobe、Apple 和 NVIDIA 成立 OpenUSD 联盟，推动 3D 内容的开放标准"，
+2023 年 8 月 1 日。[Online].Available: https://www.apple.com/newsroom/2023/08/pixar-adobe-
+apple-adsk-and-nvidia-form-alliance-for-openusd/.[访问日期：2025 年 3 月 2 日]。 
+[125] AECmag，"ADSK 的粒度数据战略"，2024 年 7 月 25 日。[Online].Available: 
+https://aecmag.com/technology/autodesks-granular-data-strategy/.[访问日期：2025 年 3 月 15 
+日]。 
+[126] А.Boyko，"变革时代：IFC 已成为过去或 ADSK 和其他 CAD 供应商为何愿意放弃 IFC 换取 USD 的 14 
+个关键事实"，2024 年 11 月 24 日。[Online].Available: https://boikoartem.medium.com/the-
+age-of-change-ifc-is-a-thing-of-the-past-or-why-adsk-and-other-cad-vendors-are-willing-to-
+3f9a82ccd10a.[Date of address: 23 fevryall 2025]. 
+[127] А.Boyko, "ENG BIM Cluster 2024 | The Battle for Data and Application of LLM and ChatGPT in 
+the Construction," 7 August 2024.[Online].Available: ENG BIM Cluster 2024 | The Battle for 
+Data and Application of LLM and ChatGPT in the Construction.[Accessed: 15 March 2025]. 
+[128] "杰弗里-扎尔德曼演讲"，2008 年 5 月 6 日。[Online].Available: 
+https://zeldman.com/2008/05/06/content-precedes-design/.[访问日期：2025 年 3 月 15 日]。 
+[129] А.Boyko, "DWG Analyse with ChatGPT | DataDrivenConstruction," 5 Mar.[Online].Available: 
+https://www.kaggle.com/code/artemboiko/dwg-analyse-with-chatgpt-datadrivenconstruction.[
+参考日期：2025 年 3 月 15 日]。 
+[130] 麦肯锡，《麦肯锡数字和人工智能时代的竞争指南》，2023 年。[Online].Available: 
+https://www.mckinsey.com/featured-insights/mckinsey-on-books/rewired.[发表日期：2025 年 
+3 月 30 日]。 
+[131] 福布斯》，"讲数据故事：每个人都需要的数据科学基本技能"，2016 年 3 月 31 日。[Online].可登录
+：https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-
+science-skill-everyone-needs/。[访问日期：2025 年 3 月 15 日]。 
+[132] J.Bertin，"图形和图形信息处理"，2011 年 9 月 8 日。[Online].可查阅：
+
+----- PAGE 563 -----
+主题索引   |  531 
+ 
+ 
+https://books.google.de/books/about/Graphics_and_Graphic_Information_Process.html?id=cs
+qX_xnm4tcC&redir_esc=y。[访问日期：2025 年 3 月 15 日]。 
+[133] CauseWeb, "Wells/Wilks on Statistical Thinking," [Online].Available: 
+https://www.causeweb.org/cause/resources/library/r1266.[访问日期：2025 年 3 月 15 日]。 
+[134] Ministrymagazine，"科学如何发现创造"，1986 年 1 月。[Online].网址：
+https://www.ministrymagazine.org/archive/1986/01/how-science-discovered-creation。[参考日
+期：2025 年 3 月 15 日]。 
+[135] BCG，《数据驱动的转型：立即大规模加速》，2017 年 5 月 23 日。[Online].网址：
+https://www.bcg.com/publications/2017/digital-transformation-transformation-data-driven-
+transformation。[2024 年5 月15 日访问]。 
+[136] "如何构建数据架构以推动创新--今天和明天"，2020 年 6 月 3 日。[Online].网址：
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/how-to-build-a-data-
+architecture-to-drive-innovation-today-and-tomorrow。[发表日期：2025 年 3 月 15 日]。 
+[137] 牛津大学，"伍德罗-威尔逊 1856-1924"。[Online].Available: 
+https://www.oxfordreference.com/display/10.1093/acref/9780191866692.001.0001/q-oro-ed6-
+00011630.[演讲日期：2025 年 3 月 15 日]。 
+[138] "转换器"，2024 年。[Online].Available: 
+https://datadrivenconstruction.io/index.php/convertors/. 
+[139] 普华永道，"Sizing the prize What's the real value of AI for your business and how can you 
+capitalise?"，2017 年 1 月 1 日。[在线]。可查阅：
+https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf
+。[访问日期：2025 年 2 月 18 日]。 
+[140] "在建管道"，2024 年。[Online].Available: https://datadrivenconstruction.io/index.php/pipeline-
+in-construction/. 
+[141] 维基百科，"Apache NiFi"，2025 年 1 月 1 日。[Online].网址：
+
+----- PAGE 564 -----
+主题索引   |  532 
+ 
+ 
+https://de.wikipedia.org/wiki/Apache_NiFi。[访问日期：2025 年 3 月 5 日]。 
+[142] n8n，"Gmail 人工智能自动回复：为收到的电子邮件创建回复草稿"，2024 年 5 月 1 日。
+[Online].Available: https://n8n.io/workflows/2271-gmail-ai-auto-responder-create-draft-replies-
+to-incoming-emails/.[Accessed 15 March 2025]. 
+[143] n8n，"利用 Zillow API、Google Sheets 和 Gmail 实现房地产每日交易自动化"，2025 年 3 月 1 日。
+[在线]。可查阅：https://n8n.io/workflows/3030-real-estate-daily-deals-automation-with-zillow-
+api-google-sheets-and-gmail/。[访问日期：2025 年 3 月 15 日]。 
+[144] B.T.O'Neill，"分析、人工智能和大数据项目的失败率=85%--呀！"，2025 年 1 月 1 日。
+[Online].Available: https://designingforanalytics.com/resources/failure-rates-for-analytics-bi-
+iot-and-big-data-projects-85-yikes/. 
+[145] J.内曼：《论代表性方法的两个不同方面：分层抽样法和目的性选择法》，牛津大学出版社，1934 年
+。  
+[146] T.J. S. a. J. S. Jesse Perla, "A Problem that Stumped Milton Friedman," Quantitative Economics 
+with Julia, 1 Jan.[Online].Available: 
+https://julia.quantecon.org/dynamic_programming/wald_friedman.html.[访问日期：2024 年 5 
+月 1 日]。 
+[147] Т.Landsall-Welfair, Forecasting the nation's current mood, Significance, 2012.  
+[148] А.Boyko, "San Francisco.建筑业 1980-2019》，2024 年。[Online].Available: 
+https://www.kaggle.com/search?q=San+Francisco.+Building+sector+1980-2019. 
+[149] А.Boyko, "Kaggle: RVT IFC Files 5000 Projects," 2024.[Online].Available: 
+https://www.kaggle.com/datasets/artemboiko/rvtifc-projects. 
+[150] CFMA，"用互联建筑为未来做好准备"，[在线]。[Online].Available: 
+https://cfma.org/articles/preparing-for-the-future-with-connected-construction.[访问日期：
+2025 年 3 月 15 日]。 
+[151] 思科，"思科调查显示近四分之三的物联网项目失败"，2017 年 5 月 22 日。[Online].Available: 
+
+----- PAGE 565 -----
+主题索引   |  533 
+ 
+ 
+https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2017/m05/cisco-survey-reveals-close-to-
+three-fourths-of-iot-projects-are-failing.html. 
+[152] "植物化石保存所需的条件"，2024 年。[Online].Available: 
+https://ucmp.berkeley.edu/IB181/VPL/Pres/PresTitle.html. 
+[153] "贝莱德的芬克谈债券、并购、美国经济衰退和大选：访谈全文》，2023 年。[Online].Available: 
+https://www.bloomberg.com/news/videos/2023-09-29/blackrock-s-fink-on-m-a-recession-
+election-full-intv-video. 
+[154] cio，"12 次著名的人工智能灾难"，2024 年 10 月 2 日。[Online].Available: 
+https://www.cio.com/article/190888/5-famous-analytics-and-ai-disasters.html.[访问日期：2025 
+年 3 月 15 日]。 
+[155] G.卡斯帕罗夫，《深度思考》，PublicAffairs，2017。  
+[156] 维基百科，"Kaggle"，2025 年 1 月 1 日。[Online].Available: 
+https://en.wikipedia.org/wiki/Kaggle.[访问日期：2025 年 3 月 15 日]。 
+[157] Kaggle，"泰坦尼克号--从灾难中学习机器"，2025 年 1 月 1 日。[Online].Available: 
+https://www.kaggle.com/competitions/titanic/overview.[Accessed March 10, 2025]. 
+[158] Ш.Johri，《创建 ChatGPT：从数据到对话》，2024 年。[Online].Available: 
+https://sitn.hms.harvard.edu/flash/2023/the-making-of-chatgpt-from-data-to-dialogue/. 
+[159] П.多明戈斯，"关于机器学习的一些实用知识"，2024 年。[在线]。Available: 
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf. 
+[160] J.萨拉马戈，"名言警句"，[在线]。网址：https://www.goodreads.com/quotes/215253-chaos-is-
+merely-order-waiting-to-be-deciphered.[访问日期：2025 年 3 月 17 日]。 
+[161] 英伟达™（NVIDIA®），"利用全新英伟达™（NVIDIA®）NeMo Curator 分类器模型增强训练数据"
+，2024 年 12 月 19 日。[在线]。网址：https://developer.nvidia.com/blog/enhance-your-
+training-data-with-new-nvidia-nemo-curator-classifier-models/。[2025 年3 月25 日访问]。 
+
+----- PAGE 566 -----
+主题索引   |  534 
+ 
+ 
+[162] "英伟达™（NVIDIA®）宣布重大发布宇宙世界基础模型和物理人工智能数据工具，"2025 年 3 月 18 
+日。[Online].Available: https://nvidianews.nvidia.com/news/nvidia-announces-major-release-
+of-cosmos-world-foundation-models-and-physical-ai-data-tools.[访问日期：2025 年 3 月 25 日]
+。 
+[163] NVIDIA，"NVIDIA Isaac Sim"，[互联网上]。网址：https://developer.nvidia.com/isaac/sim。
+[2025 年3 月25 日访问]。 
+[164] M.季度》，"数字战略为何失败"，2018 年 1 月 25 日。[Online].Available: 
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/why-digital-strategies-
+fail.[访问日期：2025 年 3 月 15 日]。 
+[165] M.J.佩里，"我最喜欢的米尔顿-弗里德曼语录"，2006 年 11 月 17 日。[Online].Available: 
+https://www.aei.org/carpe-diem/my-favorite-milton-friedman-quotes/.[访问日期：2025 年 3 月 
+1 日]。 
+[166] J.A.Wheeler, "Information, Physics, Quantum: the search for links," 1990.  
+[169] А.Boyko，"游说战争与 BIM 开发。第 5 部分：贝莱德是所有技术的主宰。企业如何控制开放源代码"
+，2024 年。[Online].Available: https://boikoartem.medium.com/lobbyist-wars-and-the-
+development-of-bim-d72ad0111a7d. 
+[170] T.Krijnen 和 J.Beetz, "A SPARQL query engine for binary-formatted IFC building models," 
+Advanced Engineering Informatics, 2024.  
+[171] "2021 年按企业规模划分的英国建筑业企业数量"，2024 年。[Online].Available: 
+https://www.statista.com/statistics/677151/uk-construction-businesses-by-size/. 
+[172] "5,000 个国际金融公司和区域技术合作项目"，2024 年。[Online].Available: 
+https://www.kaggle.com/code/artemboiko/5000-projects-ifc-rvt-datadrivenconstruction-io. 
+[173] M.Popova, "It from Bit: Pioneering Physicist John Archibald Wheeler on Information, the 
+Nature of Reality, and Why We Live in a Participatory Universe," 2008.[Online].Available: 
+
+----- PAGE 567 -----
+主题索引   |  535 
+ 
+ 
+https://www.themarginalian.org/2016/09/02/it-from-bit-wheeler/.[参考日期：2025 年 2 月]。 
+[174] 关于建筑数据的游说战争｜技术封建主义与 BIM 的隐秘历史。[电影]。德国：Artyom Boiko，2023 
+年。  
+[175] А.Boyko, "CHATGPT WITH REVIT AND IFC | Automatic retrieval of documents and data from 
+projects," 16 Nov.[Online].Available: https://www.youtube.com/watch?v=ASXolti_YPs&t.[Date of 
+access: 2 March 2025]. 
+[176] M.&.公司，"获取数字化转型全部价值的三项新任务"，2022 年 1 月 22 日。[Online].Available: 
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/three-new-mandates-
+for-capturing-a-digital-transformations-full-value.[访问日期：2025 年 2 月 15 日]。 
+[177] 毕马威，"数字世界中的建筑业"，2021 年 5 月 1 日。[Online].Available: 
+https://assets.kpmg.com/content/dam/kpmg/ca/pdf/2021/05/construction-in-the-digital-age- 
+report-en.pdf。[访问日期：2024 年 4 月 5 日]。 
+[178] 毕马威会计师事务所，"Cue Construction 4.0: Make-or-Break Time"，2023 年 3 月 17 日。
+[Online].Available: https://kpmg.com/ca/en/home/insights/2023/05/cue-construction-make-or-
+break-time.html.[访问日期：2025 年 2 月 15 日]。 
+[179] O.Business, "Satya Nadella Reveals 'How AI Agents Will Disrupt SaaS Models'," 10 Jan. 
+2025.[Online].Available: https://www.outlookbusiness.com/artificial-intelligence/microsoft-ceo-
+satya-nadella-reveals-how-ai-agents-will-disrupt-saas-models.[访问日期：2025 年 3 月 15 日]。 
+[180] 福布斯》，"调查称，清理大数据：最耗时、最不愉快的数据科学任务"，2016 年 3 月 23 日。[在线]
+。可查阅：https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-
+consuming-least-enjoyable-data-science-task-survey-says/。[访问日期：2025 年 3 月 15 日]。 
+[181] 英国外交、联邦和发展办公室，"2024 至 2030 年数字发展战略"，2024 年 3 月 18 日。
+[Online].Available: https://www.gov.uk/government/publications/digital-development-
+strategy-2024-to-2030/digital-development-strategy-2024-to-2030.[访问日期：2025 年 3 月 15 
+日]。 
+
+----- PAGE 568 -----
+主题索引   |  536 
+ 
+ 
+[182] "建筑设计行业的愿景与战略》，2003 年 11 月 7 日。[Online].网址：
+https://web.archive.org/web/20030711125527/http:/usa.adsk.com/adsk/servlet/item?id=22553
+42&siteID=123112。[发表日期：2025 年 3 月 5 日]。 
+[183] М.Bocharov，"信息建模"，2025 年 3 月。[Online].网址：https://www.litres.ru/book/mihail-
+evgenevich-bocharov/informacionnoe-modelirovanie-v-rossii-71780080/chitat-
+onlayn/?page=5.[发表日期：2025 年 3 月 15 日]。 
+[184] "集成设计-直通制造：效益与理由"，2000 年。[Online].可查阅：
+https://web.archive.org/web/20010615093351/http:/www3.autodesk.com:80/adsk/files/7344
+89_Benefits_of_MAI.pdf。[参考日期：2025 年 3 月 25 日]。 
+[185] CAD Vendor，"开放 BIM 计划是一场营销活动"，2012 年 3 月 12 日。[Online].Available: 
+https://web.archive.org/web/20120827193840/http:/www.graphisoft.com/openbim/.[发表日期
+：2025 年 3 月 30 日]。 
+ 
+ 
+ 
+ 

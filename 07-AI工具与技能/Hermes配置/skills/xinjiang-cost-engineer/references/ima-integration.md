@@ -47,3 +47,7 @@ hermes -s xinjiang-cost-engineer -s ima-skill
 
 ## 安装备忘
 从 zip 安装外部技能时，需检查 `SKILL.md` 中的硬编码路径（如 `.claude/skills/`）并替换为 `$SKILL_DIR/`。
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

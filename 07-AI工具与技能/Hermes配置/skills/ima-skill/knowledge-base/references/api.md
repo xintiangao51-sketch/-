@@ -599,3 +599,7 @@ node .claude/skills/ima-skill/knowledge-base/scripts/preflight-check.cjs --file 
 | 110020 | 安全打击     | 检查内容是否违规         |
 | 110021 | 请求频控     | 降低请求频率后重试       |
 | 110030 | 无权限       | 确认操作权限             |
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

@@ -1,3 +1,9 @@
+---
+tags: [参考]
+created: 2026-06-22
+type: reference
+---
+
 # MEMORY-AGENT.md
 版本：1.0 候选版  
 定位：鼎梁筑 AI Agent 协作体系 L2 温记忆载体

@@ -1,3 +1,9 @@
+---
+tags: ["归档", "AI/文档", "日志"]
+created: 2026-06-21
+type: reference
+---
+
 # Hermes 自动化多 Agent 协同调度器 - Claude Code 开发提示词 v1.0
 
 > 使用方式：把本文完整复制给 Claude Code。  

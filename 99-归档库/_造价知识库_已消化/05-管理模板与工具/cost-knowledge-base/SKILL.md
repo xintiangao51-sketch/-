@@ -1,4 +1,7 @@
 ---
+tags: ["归档", "AI/文档", "造价/变更", "造价/定额", "造价/清单", "造价/取费", "模板"]
+created: 2026-06-21
+type: reference
 name: cost-knowledge-base
 description: 新疆工程造价基础知识库调用技能：课程体系、知识卡片、规则库、Prompt模板库、分类与Tag体系。
 version: 1.0.0

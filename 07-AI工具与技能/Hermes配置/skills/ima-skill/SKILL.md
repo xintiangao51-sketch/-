@@ -1,4 +1,5 @@
 ---
+tags: [AI]
 name: ima-skill
 description: |
   统一的 IMA OpenAPI 技能，支持笔记管理和知识库操作。
@@ -283,3 +284,7 @@ if ($useUtf8Bytes) {
 ```
 
 > **总结：** 在 PowerShell 5.1 环境中，**所有** API 调用（无论 notes 还是 knowledge-base）都必须将 Body 显式转为 UTF-8 字节数组。不检测版本直接发请求 = 中文内容必乱码。这是 PowerShell 5.1 的已知设计缺陷，不是 bug 可以被修复。
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

@@ -1,4 +1,5 @@
 ---
+tags: [AI]
 name: skill
 title: CamoFox MCP for OpenClaw
 version: 1.10.0
@@ -167,3 +168,7 @@ Use this skill when the user asks for tasks like:
 - Snapshot-first design that reduces token burn while preserving actionable context
 - Built-in profile/session controls for long-running authenticated automations
 - Native HTTP MCP endpoint for OpenClaw and remote MCP-compatible clients
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

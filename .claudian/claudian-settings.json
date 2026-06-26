@@ -1,7 +1,7 @@
 {
-  "userName": "",
+  "userName": "鼎梁筑或者昕田",
   "permissionMode": "yolo",
-  "model": "opus[1m]",
+  "model": "sonnet[1m]",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -21,10 +21,17 @@
       "scope": "provider:codex"
     },
     {
-      "id": "snippet-1781243833907",
-      "name": "Obclaude",
+      "id": "snippet-1782147155555",
+      "name": "claudian配置1",
       "description": "",
       "envVars": "",
+      "scope": "shared"
+    },
+    {
+      "id": "snippet-1782312964627",
+      "name": "Obclaude-CC-switch",
+      "description": "",
+      "envVars": "ANTHROPIC_BASE_URL=http://127.0.0.1:15721/anthropic\nANTHROPIC_API_KEY=ccs-bf2ab70550df4a7bb614474f4f8609d0",
       "scope": "provider:claude"
     }
   ],
@@ -42,26 +49,26 @@
       "safeMode": "auto",
       "cliPath": "",
       "cliPathsByHost": {
-        "device:fb1bbbba-e9d4-4853-94dd-955562e29387": "C:\\Users\\20752\\AppData\\Roaming\\npm\\node_modules\\@anthropic-ai\\claude-code\\cli-wrapper.cjs"
+        "device:fb1bbbba-e9d4-4853-94dd-955562e29387": "D:\\Codex_Workspace\\npm-global\\node_modules\\@anthropic-ai\\claude-code\\cli-wrapper.cjs"
       },
       "loadUserSettings": true,
       "enableChrome": true,
       "enableBangBash": false,
       "enableOpus1M": true,
       "enableSonnet1M": true,
-      "customModels": " claude-opus-4-8",
-      "lastModel": "opus[1m]",
-      "environmentVariables": "",
-      "environmentHash": ""
+      "customModels": "",
+      "lastModel": "sonnet[1m]",
+      "environmentVariables": "ANTHROPIC_BASE_URL=http://127.0.0.1:15721/anthropic\nANTHROPIC_API_KEY=ccs-bf2ab70550df4a7bb614474f4f8609d0",
+      "environmentHash": "ANTHROPIC_BASE_URL=http://127.0.0.1:15721/anthropic"
     },
     "codex": {
       "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {
-        "device:fb1bbbba-e9d4-4853-94dd-955562e29387": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.616.6631.0_x64__2p2nqsd0c76g0\\app\\resources\\codex.exe"
+        "device:fb1bbbba-e9d4-4853-94dd-955562e29387": "D:\\Codex_Workspace\\npm-global\\codex.ps1"
       },
-      "customModels": " claude-opus-4-8",
+      "customModels": "",
       "reasoningSummary": "auto",
       "environmentVariables": "",
       "environmentHash": "",
@@ -97,7 +104,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus[1m]"
+    "claude": "sonnet[1m]"
   },
   "savedProviderEffort": {
     "claude": "high"
@@ -107,11 +114,12 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "",
+  "lastCustomModel": "claude-code/claude-opus-4-8",
   "maxTabs": 3,
-  "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
-  "hiddenProviderCommands": {}
+  "hiddenProviderCommands": {},
+  "tabBarPosition": "input"
 }

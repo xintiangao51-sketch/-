@@ -1,0 +1,3 @@
+﻿{"action":"validation","agent":"Claude Code","timestamp":"2026-06-22T23:05:36","task_id":"T-001","score":100,"pass":true,"issues":[]}
+{"action":"validation","agent":"Codex","timestamp":"2026-06-22T23:05:51","task_id":"T-002","score":50,"pass":false,"issues":["THOUGHT: 字段缺失 → 不合格","ACTION: 字段缺失 → 不合格"]}
+{"agent":"Hermes","timestamp":"2026-06-22T23:09:18","result":"mode=report","action":"curation_report"}

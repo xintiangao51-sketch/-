@@ -3,11 +3,14 @@
   "templates_pairs": [
     [
       ".obsidian/templates"
+    ],
+    [
+      "00-工作台/Templates"
     ]
   ],
   "templates_folder": ".obsidian/templates",
   "templates_enabled": true,
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
@@ -17,6 +20,10 @@
     {
       "folder": "01-造价核心",
       "template": ".obsidian/templates/造价笔记模板.md"
+    },
+    {
+      "folder": "00-工作台",
+      "template": "00-工作台/Templates/每日工作日志.md"
     }
   ],
   "syntax_highlighting": true,

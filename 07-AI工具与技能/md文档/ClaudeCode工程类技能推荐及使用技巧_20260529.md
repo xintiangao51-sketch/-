@@ -62,3 +62,7 @@ type: reference
 openclaw skills install <技能名称>
 ```
 例如安装图纸分析技能：`openclaw skills install drawing-analyzer`
+
+---
+
+🔗 **AI工具总览**：[[07-AI工具与技能/AI工具与技能-总览]]

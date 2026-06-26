@@ -1,5 +1,5 @@
 {
   "format": "YYYY-MM-DD",
-  "folder": "日记",
-  "template": ".obsidian/templates/造价笔记模板.md"
+  "folder": "00-工作台",
+  "template": ".obsidian/templates/每日工作日志模板.md"
 }
