@@ -52,6 +52,12 @@ crawl_output/
 test-output/
 output/
 
+# --- Workbuddy 运行时数据(沃巴迪运营部) ---
+.workbuddy/memory/
+.workbuddy/automations/*/memory.md
+.workbuddy/automations/automation-1782290034285/  # 临时调试实例
+.obsidian/plugins/obsidian-custom-frames/         # 插件缓存目录
+
 # --- 临时文件 ---
 *.tmp
 *.log
