@@ -58,6 +58,18 @@ output/
 .workbuddy/automations/automation-1782290034285/  # 临时调试实例
 .obsidian/plugins/obsidian-custom-frames/         # 插件缓存目录
 
+# --- 密钥/凭证(绝对禁止入 git,违反 v3.0 红线 #5) ---
+.env
+.env.*
+*.env
+config/.env
+config/config.yaml
+**/ima-creds/
+**/api_key
+**/client_id
+**/credentials*
+**/secrets/
+
 # --- 临时文件 ---
 *.tmp
 *.log
