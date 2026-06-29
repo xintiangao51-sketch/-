@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "http://localhost:3001",
+      "displayName": "AnythingLLM 我的知识库",
+      "icon": "message-square",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
