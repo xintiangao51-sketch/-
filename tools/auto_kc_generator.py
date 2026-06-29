@@ -1,13 +1,20 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-自动知识卡片生成器 v2.0 — 从笔记内容中提取结构化知识卡片
+自动知识卡片生成器 v3.0 — 从笔记内容中提取结构化知识卡片
 - 检测精华标签 / frontmatter type=knowledge-card / 经验总结标题
 - 自动分配 KC 编号（按领域分段，避免撞号）
 - 提取笔记中的第一段结论作为卡片摘要
-用法: python auto_kc_generator.py [--dry] [max_cards]
+- v3.0 新增：--llm 模式，用 LLM 提炼领域分类和摘要
+
+用法:
+  python auto_kc_generator.py [--dry] [max_cards]            # 规则模式
+  python auto_kc_generator.py --llm [--dry] [max_cards]     # LLM模式
 """
+
 import re
 import json
+import argparse
 from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
@@ -77,7 +84,7 @@ def existing_kc_numbers():
 
 
 def classify_domain(content, tags):
-    """根据内容 + frontmatter tags 判断主领域"""
+    """根据内容 + frontmatter tags 判断主领域（规则模式）"""
     scores = defaultdict(int)
     for kw, domain in KEYWORD_DOMAIN.items():
         if kw in content:
@@ -117,7 +124,7 @@ def extract_frontmatter(content):
 
 
 def extract_first_conclusion(content, max_chars=300):
-    """从笔记中提取第一段实质性结论"""
+    """从笔记中提取第一段实质性结论（规则模式）"""
     lines = content.split('\n')
     captured = []
     started = False
@@ -140,11 +147,66 @@ def extract_first_conclusion(content, max_chars=300):
             break
     return ' '.join(captured) if captured else "..."
 
-def scan_candidates():
-    """扫描候选笔记"""
+
+# ---- LLM 集成（v3.0） ----
+def llm_classify_domain(content, tags):
+    """
+    [框架] 用 LLM 判断领域分类
+    TODO: 接入实际 LLM API（Claude / Qwen / DeepSeek）
+    当前回退到规则模式
+    """
+    # ---- LLM 调用框架（待接入） ----
+    # prompt = f"""你是新疆工程造价领域的知识卡片分类器。
+    # 请从以下领域中选择最合适的一个（只输出领域名称）：
+    #
+    # 可选领域：{list(DOMAIN_SLOTS.keys())}
+    #
+    # 笔记内容（节选）：
+    # {content[:800]}
+    #
+    # 已有标签：{tags}
+    #
+    # 输出格式：领域名称
+    # """
+    # result = call_llm(prompt)  # 待实现
+    # if result in DOMAIN_SLOTS:
+    #     return result
+    # ----------------------------------------
+
+    # 回退规则模式
+    return classify_domain(content, tags)
+
+
+def llm_extract_summary(content):
+    """
+    [框架] 用 LLM 提取一句话结论
+    TODO: 接入实际 LLM API
+    当前回退到规则模式
+    """
+    # ---- LLM 调用框架（待接入） ----
+    # prompt = f"""你是新疆工程造价领域的知识提炼助手。
+    # 请从以下笔记内容中提取一句话核心结论（≤30字，直接输出结论）：
+    #
+    # 内容：
+    # {content[:1000]}
+    # """
+    # result = call_llm(prompt)  # 待实现
+    # if result and len(result) <= 50:
+    #     return result
+    # ----------------------------------------
+
+    # 回退规则模式
+    return extract_first_conclusion(content)
+
+
+def scan_candidates(use_llm=False):
+    """
+    扫描候选笔记
+    use_llm: 是否用 LLM 进行领域分类
+    """
     candidates = []
     scan_dirs = ["01-造价核心", "03-合同与法务", "04-施工方案",
-                 "05-投标报价", "09-项目资料"]
+                 "05-投标报价", "09-项目资料", "02-业务中台", "12-项目案例库"]
 
     for d in scan_dirs:
         full = VAULT_PATH / d
@@ -174,9 +236,12 @@ def scan_candidates():
             is_knowledge = fm.get('type') == 'knowledge-card'
 
             if is_essence or is_knowledge:
-                domain = classify_domain(
-                    content[:2000], [t for t in tags if t in DOMAIN_SLOTS]
-                )
+                if use_llm:
+                    domain = llm_classify_domain(content[:2000], tags)
+                else:
+                    domain = classify_domain(
+                        content[:2000], [t for t in tags if t in DOMAIN_SLOTS]
+                    )
                 candidates.append({
                     "file": str(f.relative_to(VAULT_PATH)),
                     "title": f.stem,
@@ -188,8 +253,11 @@ def scan_candidates():
     return candidates
 
 
-def generate_card(candidate, existing, dry_run=False):
-    """生成知识卡片"""
+def generate_card(candidate, existing, dry_run=False, use_llm=False):
+    """
+    生成知识卡片
+    use_llm: 是否用 LLM 提取摘要
+    """
     source = candidate["file"]
     domain = candidate["domain"]
     if not domain:
@@ -201,7 +269,11 @@ def generate_card(candidate, existing, dry_run=False):
 
     full_path = VAULT_PATH / source
     content = full_path.read_text(encoding='utf-8')
-    conclusion = extract_first_conclusion(content)
+
+    if use_llm:
+        conclusion = llm_extract_summary(content)
+    else:
+        conclusion = extract_first_conclusion(content)
 
     tags_out = [domain, "KC"]
     if "精华" in candidate.get("tags", []):
@@ -217,7 +289,7 @@ type: knowledge-card
 
 # KC-{num:03d}: {candidate['title']}
 
->  自动提取 - 来源：[[{source.replace('.md', '')}]]
+>  {'LLM提炼' if use_llm else '自动提取'} - 来源：[[{source.replace('.md', '')}]]
 
 ## 问题场景
 待人工补充
@@ -248,12 +320,13 @@ type: knowledge-card
             "path": str(filepath.relative_to(VAULT_PATH))}
 
 
-def main(dry_run=False, max_cards=5):
-    print(f"[{datetime.now():%H:%M:%S}] auto_kc_generator v2.0")
+def main(dry_run=False, max_cards=5, use_llm=False):
+    mode = "LLM模式" if use_llm else "规则模式"
+    print(f"[{datetime.now():%H:%M:%S}] auto_kc_generator v3.0 ({mode})")
     existing = existing_kc_numbers()
     print(f"  existing KC: {len(existing)}")
 
-    candidates = scan_candidates()
+    candidates = scan_candidates(use_llm=use_llm)
     print(f"  candidates: {len(candidates)}")
 
     results = []
@@ -262,7 +335,7 @@ def main(dry_run=False, max_cards=5):
             print(f"  SKIP {c['title']} (no domain)")
             continue
         try:
-            r = generate_card(c, existing, dry_run=dry_run)
+            r = generate_card(c, existing, dry_run=dry_run, use_llm=use_llm)
             if r:
                 results.append(r)
                 tag = "DRY" if dry_run else "OK"
@@ -275,11 +348,10 @@ def main(dry_run=False, max_cards=5):
 
 
 if __name__ == "__main__":
-    import sys
-    dry = "--dry" in sys.argv
-    limit = 5
-    for a in sys.argv[1:]:
-        if a.isdigit():
-            limit = int(a)
-            break
-    main(dry_run=dry, max_cards=limit)
+    parser = argparse.ArgumentParser(description='自动知识卡片生成器 v3.0')
+    parser.add_argument('--llm', action='store_true', help='启用LLM提炼模式')
+    parser.add_argument('--dry', action='store_true', help='预览模式，不写入文件')
+    parser.add_argument('max_cards', nargs='?', type=int, default=5, help='最大生成数量')
+    args = parser.parse_args()
+
+    main(dry_run=args.dry, max_cards=args.max_cards, use_llm=args.llm)
